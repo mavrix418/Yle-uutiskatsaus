@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#101827"><title>Aamukatsaus</title>
+<style>
+body{font-family:system-ui,-apple-system,sans-serif;background:#101827;color:#f8fafc;margin:0}main{max-width:650px;margin:auto;padding:28px 20px}h1{font-size:2.1rem}p,small{color:#bac6d5;line-height:1.6}button{background:#dceafe;color:#10213b;border:0;border-radius:12px;padding:13px 15px;font-size:1rem;font-weight:650;margin:5px 4px 5px 0;cursor:pointer}button:disabled{opacity:.4}article{background:#1d2a3d;border-radius:16px;padding:20px;margin:18px 0}a{color:#a9d2ff}#status{margin:16px 0}#more{white-space:pre-wrap;line-height:1.6}#script{white-space:pre-wrap}nav{display:flex;gap:8px;align-items:center;justify-content:space-between}nav button{flex:1}#counter{white-space:nowrap;color:#bac6d5}button:focus-visible,a:focus-visible{outline:3px solid #86c4ff;outline-offset:2px}
+</style></head>
+<body><main><h1>📻 Aamukatsaus</h1><p>Ylen tärkeimmät uutiset viimeiseltä 24 tunnilta</p>
+<p id="status" role="status">Ladataan uutisia…</p>
+<div><button id="play">▶ Kuuntele</button><button id="pause">⏸ Tauko</button><button id="morebtn">Kerro lisää</button><button id="refresh">↻ Tarkista päivitys</button></div>
+<nav aria-label="Selaa uutisia"><button id="prev">← Edellinen</button><span id="counter" aria-live="polite">0 / 0</span><button id="next">Seuraava →</button></nav>
+<article><h2 id="headline">Uutislähetys</h2><p id="script"></p><div id="more"></div><p><a id="source" target="_blank" rel="noopener noreferrer">Lue alkuperäinen uutinen Yleltä</a></p></article>
+<small>Tiivistelmät ovat tekoälyn laatimia Ylen RSS-tietojen perusteella. Tarkista tärkeät tiedot alkuperäisestä lähteestä.</small></main>
+<script>
+let stories=[],index=0,mode='news',playing=false,paused=false,run=0,timer=null,pending=null;
+const $=id=>document.getElementById(id),synth=window.speechSynthesis;
+function show(){const s=stories[index];$('counter').textContent=stories.length?`${index+1} / ${stories.length}`:'0 / 0';$('prev').disabled=!stories.length||index===0;$('next').disabled=!stories.length||index===stories.length-1;$('play').disabled=!stories.length;$('pause').disabled=!stories.length;$('morebtn').disabled=!stories.length;if(!s)return;$('headline').textContent=s.title||'Uutinen';$('script').textContent=s.script||'';$('source').href=s.url||'#';$('source').hidden=!s.url;$('more').textContent=mode==='more'?(s.more||'Lisätietoja ei ole saatavilla.'):'';}
+function stop(){run++;if(timer!==null)clearTimeout(timer);timer=null;pending=null;synth.cancel();playing=false;paused=false;}
+function wait(ms,callback){const token=run;pending=()=>{pending=null;timer=setTimeout(()=>{timer=null;if(token===run&&playing&&!paused)callback();},ms);};if(!paused)pending();}
+function speak(text,done){const token=run;const u=new SpeechSynthesisUtterance(text||'');u.lang='fi-FI';u.rate=.95;u.onend=()=>{if(token===run&&playing&&!paused)done();};u.onerror=e=>{if(token!==run||e.error==='canceled'||e.error==='interrupted')return;stop();$('status').textContent='Puhe keskeytyi. Kokeile uudelleen.';};synth.speak(u);}
+function readStory(){if(!playing||paused)return;if(index>=stories.length){stop();index=Math.max(0,stories.length-1);show();$('status').textContent='Lähetys päättyi';return;}mode='news';show();$('status').textContent=`Toistetaan uutista ${index+1}/${stories.length}`;speak(stories[index].title||'Uutinen',()=>wait(650,()=>speak(stories[index].script||'',()=>wait(1500,()=>{index++;readStory();}))));}
+function navigate(delta){const newIndex=index+delta;if(newIndex<0||newIndex>=stories.length)return;const wasPlaying=playing;stop();index=newIndex;mode='news';show();$('status').textContent=`Uutinen ${index+1}/${stories.length}`;if(wasPlaying){playing=true;readStory();}}
+$('prev').onclick=()=>navigate(-1);$('next').onclick=()=>navigate(1);
+$('play').onclick=()=>{if(!stories.length)return;if(paused){paused=false;playing=true;if(pending)pending();else synth.resume();$('status').textContent=`Toistetaan uutista ${index+1}/${stories.length}`;return;}stop();playing=true;readStory();};
+$('pause').onclick=()=>{if(playing&&!paused){paused=true;if(timer!==null){clearTimeout(timer);timer=null;pending=()=>wait(400,()=>{if(mode==='more'){playing=false;}else readStory();});}else synth.pause();$('status').textContent='Tauolla';}else if(paused){paused=false;if(pending)pending();else synth.resume();$('status').textContent='Jatketaan';}};
+$('morebtn').onclick=()=>{if(!stories.length)return;stop();mode='more';show();playing=true;$('status').textContent='Lisätietoa uutisesta';speak(stories[index].more||'Lisätietoja ei ole saatavilla.',()=>{playing=false;$('status').textContent='Jatka lähetystä Kuuntele-painikkeella';});};
+async function load(){stop();$('status').textContent='Haetaan uusinta lähetystä…';try{const r=await fetch('./news.json?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('Lähetystä ei vielä ole');const data=await r.json();stories=Array.isArray(data.stories)?data.stories:[];index=0;mode='news';show();$('status').textContent=`${stories.length} uutista · Päivitetty ${new Date(data.generated).toLocaleString('fi-FI')}`;}catch(e){$('status').textContent='Uutislähetystä ei vielä ole. Tarkista GitHub Actions -päivitys.';}}
+$('refresh').onclick=load;load();
+</script></body></html>
