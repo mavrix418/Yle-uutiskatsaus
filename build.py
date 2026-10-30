@@ -54,7 +54,7 @@ if not articles:
     raise RuntimeError('No recent articles found; keeping previous edition')
 
 key = os.environ['GEMINI_API_KEY']
-model = os.getenv('GEMINI_MODEL', 'gemini-2.5-flash')
+model = os.getenv('GEMINI_MODEL', 'gemini-3.5-flash-lite')
 prompt = '''Laadi suomenkielinen 5–10 minuutin radiouutiskatsaus annetusta Ylen RSS-aineistosta.
 Valitse 10–16 tärkeintä ja erillistä uutista; mukana kotimaa, ulkomaat, politiikka, talous, teknologia/tiede ja urheilu, jos aineistossa on relevantteja uutisia. Älä valitse kulttuuria, viihdettä tai julkkisaiheita. Poista saman tapahtuman päällekkäiset uutiset.
 Kirjoita neutraalisti ja ymmärrettävästi, noin 35–65 sanaa per uutinen. Käytä VAIN annettuja otsikoita ja RSS-kuvauksia, älä keksi yksityiskohtia. Jos kuvauksessa ei ole tietoa, älä täydennä arvauksella. Älä lainaa pitkiä tekstikatkelmia. Jokaiselle uutiselle myös noin 100–150 sanan lisäselitys, joka perustuu vain lähteen antamiin tietoihin; jos tietoa on niukasti, sano se. Älä esitä lisäselitystä alkuperäisen koko artikkelin lukemisena.
