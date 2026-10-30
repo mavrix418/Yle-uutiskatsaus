@@ -1,104 +1,105 @@
 {
-  "generated": "2026-10-30T06:48:24.172553+00:00",
+  "generated": "2026-10-30T07:39:19.041859+00:00",
   "stories": [
     {
-      "title": "IS: Enemmistö suomalaisista hyväksyy presidentti Stubbin puhelun Putinille",
-      "description": "Tasavallan presidentti Alexander Stubbin ja Norjan pääministeri Jonas Gahr Støren soittama puhelu liittyi Ukrainan rauhanprosessiin.",
-      "url": "https://yle.fi/a/74-20254166",
-      "category": "Tuoreimmat",
-      "published": "2026-10-30T06:36:00+00:00",
-      "script": "Tasavallan presidentti Alexander Stubbin ja Norjan pääministeri Jonas Gahr Støren soittama puhelu Venäjän presidentti Vladimir Putinille liittyi Ukrainan rauhanprosessiin. Iltalehden mukaan enemmistö suomalaisista hyväksyy tämän puhelun. Aiheesta on noussut laajasti keskustelua poliittisella kentällä ja julkisuudessa.",
-      "more": "Uutisen taustalla on presidentti Stubbin ja Norjan pääministerin yhteinen puhelinsoitto Vladimir Putinille. Aihetta käsiteltiin laajasti medialähteissä, ja esimerkiksi Iltalehden teettämän kyselyn mukaan enemmistö suomalaisista suhtautuu puheluun hyväksyvästi. Puhelun virallisena teemana oli Ukrainan rauhanprosessi, mikä herätti heti kansainvälistä huomiota ja kommentteja eri maiden johtajilta."
-    },
-    {
-      "title": "Maailman suurin kryptovaluuttapörssi historiallisen laajan hakkeroinnin kohteena",
-      "description": "Kyseessä voi olla historian suurin kryptovaluuttavarkaus. Binance on vakuuttanut käyttäjien varojen olevan täysin turvassa.",
-      "url": "https://yle.fi/a/74-20254143",
-      "category": "Ulkomaat",
-      "published": "2026-10-30T02:27:36+00:00",
-      "script": "Maailman suurin kryptovaluuttapörssi Binance on joutunut historiallisen laajan hakkeroinnin kohteeksi. Kyseessä saattaa olla historian suurin kryptovaluuttavarkaus. Binance on kuitenkin vakuuttanut käyttäjilleen, että heidän varansa ovat täysin turvassa hyökkäyksestä huolimatta.",
-      "more": "Tapahtumasta kerrotaan vain niukasti yksityiskohtia, mutta kyseessä on maailman suurimman kryptovaluuttapörssin kohtaama poikkeuksellisen vakava tietoturvaongelma. Vaikka epäilyjen mukaan kyseessä voi olla koko historian suurin kryptovaluuttoihin kohdistunut varkaus, yhtiö itse pyrkii rauhoittamaan tilannetta vakuuttamalla asiakkailleen varojen pysyneen turvassa."
-    },
-    {
-      "title": "WSJ: Ukraina keskeytti iskut Venäjän öljynjalostamoihin Trumpin painostuksesta",
-      "description": "Tauon on määrä kestää Yhdysvaltain välivaalien yli tai pidemmälle marraskuuhun.",
-      "url": "https://yle.fi/a/74-20254141",
-      "category": "Ulkomaat",
-      "published": "2026-10-30T00:19:13+00:00",
-      "script": "Wall Street Journalin mukaan Ukraina on keskeyttänyt iskut Venäjän öljynjalostamoihin Yhdysvaltain presidentin Donald Trumpin painostuksesta. Tauon on määrä kestää Yhdysvaltain välivaalien yli tai aina marraskuuhun saakka.",
-      "more": "Tieto iskujen keskeyttämisestä perustuu yhdysvaltalaislehti Wall Street Journalin tietoihin. Lähteen mukaan taustalla on ulkoinen poliittinen paine, erityisesti Yhdysvaltain taholta. Iskuille asetettu tauko on määräaikainen ja se ajoittuu Yhdysvaltain tulevien välivaalien ympärille."
-    },
-    {
-      "title": "Työntekijän pitää pian saada tietää palkkansa perusteet",
-      "description": "Hallituksen esitys EU:n palkka-avoimuusdirektiivin hyväksymisestä on eduskunnan käsittelyssä.",
-      "url": "https://yle.fi/a/74-20254016",
-      "category": "Talous",
-      "published": "2026-10-29T17:55:55+00:00",
-      "script": "Työntekijän pitää jatkossa saada tietää palkkansa perusteet nykyistä tarkemmin. Hallituksen esitys EU:n palkka-avoimuusdirektiivin hyväksymisestä on parhaillaan eduskunnan käsittelyssä.",
-      "more": "Lakihanke perustuu EU:n yhteiseen palkka-avoimuusdirektiiviin, jonka implementointi on nyt edennyt hallituksen esityksen muodossa eduskuntaan. Direktiivin tavoitteena on lisätä palkka-avoimuutta työpaikoilla ja antaa työntekijöille oikeus saada tietoa omien palkkojensa määräytymisperusteista."
-    },
-    {
-      "title": "Euroopan keskuspankki EKP pitää ohjauskorkonsa ennallaan",
+      "title": "Venäläinen riippumaton sanomalehti Novaja Gazeta lopettaa",
       "description": "",
-      "url": "https://yle.fi/a/74-20254092",
-      "category": "Talous",
-      "published": "2026-10-29T13:35:46+00:00",
-      "script": "Euroopan keskuspankki EKP on päättänyt pitää ohjauskorkonsa ennallaan. Päätös julkistettiin torstaina iltapäivällä ilman suurempia yllätyksiä markkinoille.",
-      "more": "Uutinen EKP:n koronpäätöksestä on hyvin lyhyt eikä sisällä syvällisempiä analyysejä korkojen tulevasta kehityksestä tai äänestysluvuista. Keskuspankki päätti pitää ohjauskorkonsa nykyisellä tasollaan aiempien linjaustensa mukaisesti."
-    },
-    {
-      "title": "USA:n talouskasvu ylitti odotukset kulutuksen ja AI-investointien vetämänä",
-      "description": "",
-      "url": "https://yle.fi/a/74-20254091",
-      "category": "Talous",
-      "published": "2026-10-29T13:31:48+00:00",
-      "script": "Yhdysvaltain talouskasvu ylitti odotukset viimeisimpien tilastojen valossa. Kasvua vetivät erityisesti kulutus sekä tekoälyyn liittyvät investoinnit.",
-      "more": "Yhdysvaltain talouden tilasta kertovien tietojen mukaan kasvu oli ennakoitua voimakkaampaa. Lähteen antamien tietojen mukaan keskeisiksi vetureiksi nousivat kotimainen kulutus sekä vahvat tekoälyinvestoinnit, mutta muita tarkempia lukuja tai toimialakohtaisia erittelyjä ei uutisessa mainita."
-    },
-    {
-      "title": "Puolustusvoimat kokeilee VR-laseja droonitorjunnan kouluttamisessa",
-      "description": "Suomalaisen Varjon VR-lasien ympärille rakennettua simulaatioympäristöä on rakennettu keväästä lähtien. Varjo kertoo tuovansa laitetuotannon Suomeen.",
-      "url": "https://yle.fi/a/74-20254076",
-      "category": "Talous",
-      "published": "2026-10-29T13:12:40+00:00",
-      "script": "Puolustusvoimat kokeilee virtuaalilasipohjaista teknologiaa droonitorjunnan kouluttamisessa. Suomalaisen Varjon VR-lasien ympärille rakennettua simulaatioympäristöä on kehitetty keväästä lähtien, ja yritys aikoo tuoda laitetuotannon Suomeen.",
-      "more": "Puolustusvoimien ja suomalaisen Varjon yhteistyönä syntynyttä simulaatioympäristöä on rakennettu keväästä saakka. Kokeilussa hyödynnetään VR-laseja droonitorjunnan koulutuksessa, minkä lisäksi teknologiayritys Varjo on ilmoittanut tuovansa laitteidensa tuotannon kokonaisuudessaan Suomeen."
-    },
-    {
-      "title": "EUFOR-joukkojen helikopteri syöksyi maahan Bosniassa – neljä kuoli",
-      "description": "",
-      "url": "https://yle.fi/a/74-20254131",
+      "url": "https://yle.fi/a/74-20254179",
       "category": "Ulkomaat",
-      "published": "2026-10-29T18:02:39+00:00",
-      "script": "EUFOR-joukkojen helikopteri on syöksynyt maahan Bosniassa. Onnettomuudessa on menehtynyt neljä ihmistä.",
-      "more": "Onnettomuudesta on saatavilla vain vähän tietoja. Lähteen mukaan maahan syöksynyt ilma-alus kuului EUFOR-joukoille, ja turmassa kuoli neljä ihmistä. Muita syitä tai tarkempia yksityiskohtia onnettomuudesta ei ole julkisuudessa annettu."
+      "published": "2026-10-30T07:32:23+00:00",
+      "source_type": "full_article",
+      "script": "Venäläinen riippumaton sanomalehti Novaja Gazeta lopettaa toimintansa 9. marraskuuta. Lehden mukaan Venäjän viranomaiset ja turvallisuuspalvelut ovat pakottaneet toimituksen lopettamaan työnsä.",
+      "more": "Lehti kertoi verkkosivuillaan, ettei sanomalehteä ole enää olemassa."
     },
     {
-      "title": "Espanjan junaturman uhrimäärä nousi yli 70:n",
+      "title": "Puolustusvoimien avaruusoperaatiokeskus perustetaan Jyväskylän Tikkakoskelle",
       "description": "",
-      "url": "https://yle.fi/a/74-20254129",
-      "category": "Ulkomaat",
-      "published": "2026-10-29T17:32:41+00:00",
-      "script": "Espanjassa tapahtuneen vakavan junaturman uhrimäärä on noussut. Viranomaisten mukaan onnettomuudessa on kuollut yli 70 ihmistä.",
-      "more": "Espanjalaista junaturmaa koskevat tiedot vahvistavat uhrimäärän nousseen yli 70 kuolonuhriin. Alkuperäinen uutissähke ei kerro tarkemmin turman teknisistä syistä tai pelastustöiden tämänhetkisestä tilanteesta."
+      "url": "https://yle.fi/a/74-20254178",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T07:22:48+00:00",
+      "source_type": "full_article",
+      "script": "Puolustusvoimat perustaa uuden avaruusoperaatiokeskuksen Ilmavoimien esikuntaan Jyväskylän Tikkakoskelle. Keskuksen toiminnan on määrä alkaa ensi vuoden alussa noin 20 hengen voimin.",
+      "more": "Puolustusministeri Antti Häkkäsen mukaan keskus on osa laajempaa työtä Puolustusvoimien avaruudellisten suorituskykyjen vahvistamiseksi."
     },
     {
-      "title": "Palloliitto sai 30 000 euron sakot fanien Valko-Venäjän kansallislaululle buuamisesta ja ”epäsovinnaisesta viestistä”",
-      "description": "Suomi sai 10 000 euron ja 20 000 euron sakot Valko-Venäjää vastaan pelatusta Kansojen liigan ottelun tapahtumista.",
-      "url": "https://yle.fi/a/74-20254120",
-      "category": "Urheilu",
-      "published": "2026-10-29T15:52:45+00:00",
-      "script": "Palloliitto on saanut yhteensä 30 000 euron sakot Kansojen liigan ottelun tapahtumista. Sakot tulivat faneille siitä, että he buuasivat Valko-Venäjän kansallislaululle ja esittivät epäsovinaisen viestin.",
-      "more": "Kurinpitopäätös jakautuu kahteen osaan: Suomi sai 10 000 euron ja 20 000 euron sakot Valko-Venäjää vastaan pelatun ottelun epäasiallisesta fanitoiminnasta. Rangaistukset langetettiin kansallislaululle buuamisesta sekä katsomossa esitetystä epäsovinnaisesta viestistä."
+      "title": "Vankia kidutettiin kahden päivän ajan sellissä Vantaalla, kunnes hän kuoli – vartija: ”Onnettomien yhteensattumien summa”",
+      "description": "Vankia pahoinpideltiin lähes kaksi vuorokautta Vantaan vankilassa vuonna 2022. Vartijat kertoivat poliisikuulusteluissa, miksi he eivät huomanneet mitään.",
+      "url": "https://yle.fi/a/74-20253983",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T07:15:35+00:00",
+      "source_type": "full_article",
+      "script": "Vantaan vankilassa vuonna 2022 tapahtuneesta matkasellimurhasta on alkanut oikeudenkäynti vankilan henkilökuntaa vastaan. Syytettyinä on seitsemän työntekijää virkavelvollisuuden rikkomisesta.",
+      "more": "Parikymppinen miesvanki kuoli sellitovereiden lähes kaksi päivää kestäneen pahoinpitelyn ja raiskauksen seurauksena. Syytetyt ovat kiistäneet syytteet ja kertoneet kuulusteluissa, etteivät havainneet väkivaltaa."
     },
     {
-      "title": "MT: Ravikuningas Pro on kriittisessä tilassa – valmentajan mukaan henkiin jääminen on hyvin epävarmaa",
-      "description": "Tiistai-iltana Prolle tuli kaviokuume. Valmentajan mukaan tilanne on kriittinen ja hankala.",
-      "url": "https://yle.fi/a/74-20254114",
-      "category": "Urheilu",
-      "published": "2026-10-29T15:05:54+00:00",
-      "script": "Ravikuningas Pro on kriittisessä tilassa vakavan sairastumisen vuoksi. Valmentajan mukaan hevosen henkiin jääminen on tällä hetkellä hyvin epävarmaa.",
-      "more": "Ravikuningas Prolle puhkesi tiistai-iltana kaviokuume, joka on johtanut kriittiseen terveydentilaan. Valmentajan lausunnon mukaan tilanne on erittäin vaikea ja sen vuoksi on epävarmaa, selviääkö hevonen hengissä."
+      "title": "Saksan nuoret lähtevät kaduille: yli 150 000 ilmoittautui protesteihin",
+      "description": "Koululaisjärjestön vetäytyminen turvallisuussyistä nostaa esiin liikkeen sisäisen hajaannuksen juuri ennen suurta protestipäivää.",
+      "url": "https://yle.fi/a/74-20254153",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T07:05:04+00:00",
+      "source_type": "full_article",
+      "script": "Ranskasta alkunsa saanut nuorten protestiaalto on levinnyt Saksaan, jossa lauantain mielenosoituksiin on ilmoittautunut yli 150 000 ihmistä. Nuoret vastustavat muun muassa nousevia elinkustannuksia.",
+      "more": "Saksan valtakunnallinen koululaisjärjestö on kuitenkin vetäytynyt mielenosoituksesta turvallisuussyistä ja pelosta, että radikaaliryhmät soluttautuvat liikkeeseen."
+    },
+    {
+      "title": "Työntekijät ostivat konkurssipesän irtaimiston ja perustivat uuden yrityksen – sohvaverstas pyörii nyt keskellä Helsinkiä",
+      "description": "Huonekalualan yrityksiä on viime vuosina kaatunut. Silti nuoret yrittäjät uskovat, että tilauksesta valmistettaville sohville on kysyntää.",
+      "url": "https://yle.fi/a/74-20253533",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T07:04:29+00:00",
+      "source_type": "full_article",
+      "script": "Konkurssiin menneen huonekaluyrityksen työntekijät ostivat irtaimiston ja perustivat uuden Ikimakee-nimisen sohvaverstaan Helsinkiin. Yritys valmistaa sohvaita tilauksesta.",
+      "more": "Yrityksen ensimmäisen tilikauden liikevaihto oli 226 000 euroa ja voittoa kertyi noin 39 000 euroa."
+    },
+    {
+      "title": "Hallinto-oikeus määräsi Googlen Kajaanin kaavan osin täytäntöönpanokieltoon",
+      "description": "Kieltoalue on sama, johon Google on suunnitellut kahdeksaa suurta datakeskusta. Taustalla on malmiyhtiö Otanmäki Minen valitus.",
+      "url": "https://yle.fi/a/74-20254163",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T06:54:43+00:00",
+      "source_type": "full_article",
+      "script": "Pohjois-Suomen hallinto-oikeus on määrännyt Googlen Kajaanin Otanmäkeen suuntautuvan datakeskuskaavan osittain täytäntöönpanokieltoon. Taustalla on malmiyhtiö Otanmäki Minen valitus.",
+      "more": "Kielto koskee aluetta, jolle Google on suunnitellut kahdeksaa suurta datakeskusta ja jolla on myös yhtiön kaivossuunnitelmia."
+    },
+    {
+      "title": "Ortodoksisen seurakunnan tiloihin Turun keskustassa on murtauduttu",
+      "description": "Ortodoksisen seurakunnan kanslia sijaitsee Yliopistonkadun toimistorakennuksessa kirkon takana.",
+      "url": "https://yle.fi/a/74-20254170",
+      "category": "Kotimaa",
+      "published": "2026-10-30T06:54:14+00:00",
+      "source_type": "full_article",
+      "script": "Turun ortodoksisen seurakunnan tiloihin on murtauduttu torstain ja perjantain välisenä yönä. Poliisi tutkii asiaa varkauden yrityksenä.",
+      "more": "Seurakuntasalin aulan panssarilasissa oli reikä, ja poliisi on tehnyt paikalla tutkintaa."
+    },
+    {
+      "title": "Tullin käsittelymaksu voimaan sunnuntaina – uusi linjaus: koskee myös käytetyn tavaran paketteja",
+      "description": "EU:n ulkopuolelta tuleviin paketteihin tulee kahden euron käsittelymaksu. Tulli linjaa myöhemmin, koskeeko se myös alustana toimivia kirpputoreja.",
+      "url": "https://yle.fi/a/74-20254043",
+      "category": "Kotimaa",
+      "published": "2026-10-30T06:51:19+00:00",
+      "source_type": "full_article",
+      "script": "Tulli ottaa sunnuntaina käyttöön uuden kahden euron käsittelymaksun EU:n ulkopuolelta tuleville paketeille. Maksu koskee jatkossa myös verkon kirpputorien kaltaisia kauppapaikkoja.",
+      "more": "Uuden maksun tarkoituksena on kattaa Tullin kasvaneita valvonta- ja tietojärjestelmäkustannuksia."
+    },
+    {
+      "title": "YIT:n oikaistu liikevoitto ja liikevaihto nousivat kolmannella vuosineljänneksellä",
+      "description": "",
+      "url": "https://yle.fi/a/74-20254171",
+      "category": "Talous",
+      "published": "2026-10-30T06:50:43+00:00",
+      "source_type": "full_article",
+      "script": "Rakennusyhtiö YIT:n heinä-syyskuun oikaistu liikevoitto nousi 30 miljoonaan euroon ja liikevaihto 14 prosenttia 530 miljoonaan euroon. Yhtiö tarkensi samalla vuotuista ohjeistustaan.",
+      "more": "YIT odottaa jatkuvien liiketoimintojen oikaistun liikevoiton olevan 80–90 miljoonaa euroa tänä vuonna."
+    },
+    {
+      "title": "Stora Enson tulos kasvoi 28 prosenttia – päätös Ruotsin metsäliiketoiminnan eriyttämisestä vahvistettiin",
+      "description": "",
+      "url": "https://yle.fi/a/74-20254168",
+      "category": "Talous",
+      "published": "2026-10-30T06:48:31+00:00",
+      "source_type": "full_article",
+      "script": "Metsäyhtiö Stora Enson heinä-syyskuun oikaistu liiketulos kasvoi 28 prosenttia 161 miljoonaan euroon. Yhtiö vahvisti myös suunnitelmansa eriyttää Ruotsin metsäliiketoimintansa uudeksi pörssiyhtiöksi.",
+      "more": "Kasvua vauhdittivat pakkauskartongin volyymit ja Oulun tehtaan uuden kartonkilinjan ylösajo."
     },
     {
       "title": "Susijengi-tähti Mikael Jantunen loukkaantui – Real Madridin valmentaja: ”Ei näytä hyvältä”",
@@ -106,8 +107,129 @@
       "url": "https://yle.fi/a/74-20254158",
       "category": "Urheilu",
       "published": "2026-10-30T06:41:27+00:00",
-      "script": "Susijengin ja Real Madridin tärkeä pelaaja Mikael Jantunen on loukkaantunut. Jantunen joutuu todennäköisesti olemaan sivussa peleistä reilun viikon, mikä osuu hankalaan saumaan, sillä Susijengin MM-karsintapelit alkavat kuukauden päässä.",
-      "more": "Real Madridin valmentajan mukaan Jantusen tilanne ”ei näytä hyvältä”. Arvioitu poissaoloaika on reilu viikko. Loukkaantuminen herättää huomiota erityisesti siksi, että Suomen maajoukkueen eli Susijengin MM-karsintaottelut lähestyvät nopeasti."
+      "source_type": "full_article",
+      "script": "Koripalloilija Mikael Jantunen loukkaantui Real Madridin Euroliiga-ottelussa. Päävalmentaja Pedro Martinezin mukaan kyseessä on jalkapohjan jännekalvon ongelma, eikä tilanne näytä hyvältä.",
+      "more": "Jantusen odotetaan olevan sivussa peleistä ainakin reilun viikon ajan, mikä herättää huolta kuukauden päässä häämöttävistä Susijengin MM-karsinnoista."
+    },
+    {
+      "title": "Vaimonsa murhasta tuomittu kotkalaismies valitti hovioikeuteen",
+      "description": "Kotkalainen mies kertoi heti teon jälkeen poliisille tappaneensa vaimonsa. Myös käräjäoikeudessa hän myönsi tappamisen, mutta kiisti murhan.",
+      "url": "https://yle.fi/a/74-20254161",
+      "category": "Kotimaa",
+      "published": "2026-10-30T06:40:16+00:00",
+      "source_type": "full_article",
+      "script": "Kotkalaismies, joka tuomittiin syyskuussa vaimonsa murhasta elinkautiseen vankeuteen, on valittanut tuomiostaan hovioikeuteen. Mies surmasi vaimonsa keittiöveitsellä ja kirveellä toukokuussa.",
+      "more": "Mies myönsi oikeudessa tappamisen mutta kiisti murhan, vedoten teon lyhytkestoisuuteen. Kymenlaakson käräjäoikeus piti tekoa vakaasti harkittuna ja julmana."
+    },
+    {
+      "title": "IS: Enemmistö suomalaisista hyväksyy presidentti Stubbin puhelun Putinille",
+      "description": "Tasavallan presidentti Alexander Stubbin ja Norjan pääministeri Jonas Gahr Støren soittama puhelu liittyi Ukrainan rauhanprosessiin.",
+      "url": "https://yle.fi/a/74-20254166",
+      "category": "Tuoreimmat",
+      "published": "2026-10-30T06:36:00+00:00",
+      "source_type": "full_article",
+      "script": "Ilta-Sanomien Taloustutkimuksella teettämän kyselyn mukaan 75 prosenttia suomalaisista hyväksyy presidentti Alexander Stubbin puhelun Venäjän presidentti Vladimir Putinille.",
+      "more": "Puhelun tavoitteena oli välittää Ukrainan viestejä tulevista rauhanneuvotteluista Abu Dhabissa."
+    },
+    {
+      "title": "Indonesian maastopalojen saasteet tappaneet tuhansia",
+      "description": "",
+      "url": "https://yle.fi/a/74-20254165",
+      "category": "Ulkomaat",
+      "published": "2026-10-30T06:30:14+00:00",
+      "source_type": "full_article",
+      "script": "Indonesiassa riehuvien maastopalojen aiheuttamat ilmansaasteet ovat vaatineet yli 3 500 kuolemaa syyskuun aikana, arvioi helsinkiläinen ajatuspaja Centre for Research on Energy and Clean Air.",
+      "more": "Poikkeuksellisen laajat palot ovat seurausta voimakkaasta El Niño -ilmiöstä, ja vaarallinen ilmanlaatu vaikuttaa noin 58 miljoonaan ihmiseen."
+    },
+    {
+      "title": "Dieselin hinta nousi lokakuussa ennätystasolle",
+      "description": "",
+      "url": "https://yle.fi/a/74-20254164",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T06:26:34+00:00",
+      "source_type": "full_article",
+      "script": "Tilastokeskuksen mukaan dieselin keskihinta nousi lokakuussa ennätystasolle 2,49 euroon litralta. Hinta ylittää kesäkuun 2022 ennätyksen viidellä sentillä.",
+      "more": "Polttonesteiden keskihinnat nousivat kauttaaltaan, ja taustalla vaikuttavat kuljetuksiin liittyvät epävarmuudet öljymarkkinoilla."
+    },
+    {
+      "title": "Äiti kertoo lapsensa vähättelystä Tampereen transklinikalla: ”Ylilääkäri tokaisi, ettei penis tule toimimaan”",
+      "description": "Sukupuoli-identiteetin arvioon 15-vuotiaana mennyt nuori koki, että transklinikalla hänet yritettiin saada luopumaan toiveestaan korjata sukupuoltaan.",
+      "url": "https://yle.fi/a/74-20250306",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T06:08:41+00:00",
+      "source_type": "full_article",
+      "script": "Tampereen yliopistollisen sairaalan transpoliklinikan toiminta herättää kritiikkiä nuorten ja heidän perheidensä keskuudessa. Asiakkaat kokevat arviointiprosessin joskus leimaavana ja pelottelevana.",
+      "more": "Ylilääkäri Riittakerttu Kaltialan mukaan seksuaalisuutta ja kehitystä koskevat kysymykset ovat kuitenkin välttämätön osa perusteellista nuorisolääketieteellistä arviointia."
+    },
+    {
+      "title": "Vantaalla Katriinantiellä kolmen auton kolari aiheutti ruuhkaa aamuliikenteessä",
+      "description": "Onnettomuus katkaisi liikenteen Katriinantiellä molempiin suuntaan Tikkurilantie - Myllykyläntie välillä.",
+      "url": "https://yle.fi/a/74-20254159",
+      "category": "Kotimaa",
+      "published": "2026-10-30T06:04:22+00:00",
+      "source_type": "full_article",
+      "script": "Kolmen auton kolari katkaisi liikenteen Vantaalla Katriinantiellä molempiin suuntiin perjantaiaamuna. Onnettomuus aiheutti merkittävää ruuhkaa aamuliikenteessä.",
+      "more": "Pelastuslaitoksen mukaan ajoneuvoissa oli kolme mahdollisesti onnettomuudessa altistunutta henkilöä."
+    },
+    {
+      "title": "Pörssisähkön hinta nousee tänään tasaisesti",
+      "description": "Pörssisähkön hinta nousee perjantaiaamun aikana vartti vartilta.",
+      "url": "https://yle.fi/a/74-20254157",
+      "category": "Tuoreimmat",
+      "published": "2026-10-30T05:52:51+00:00",
+      "source_type": "full_article",
+      "script": "Pörssisähkön hinta nousee perjantaina tasaisesti aamupäivän aikana. Päivän ylin hinta saavutetaan kello 11, jolloin sähkö maksaa 37,26 senttiä kilowattitunnilta.",
+      "more": "Päivän keskihinnaksi muodostuu 18,63 senttiä kilowattitunnilta varhaisaamun alhaisempien hintojen jälkeen."
+    },
+    {
+      "title": "Tuomas Iisalon Memphis viilettää sensaatiomaisesti NBA:n kärjessä – ”Uskomattoman upea tunne”",
+      "description": "Tuomas Iisalo johti Memphisin voittoon NBA:n kärkipelissä Portlandia vastaan. Memphis ja Houston ovat enää ainoat tappiottomat joukkueet koko liigassa.",
+      "url": "https://yle.fi/a/74-20254151",
+      "category": "Urheilu",
+      "published": "2026-10-30T05:48:57+00:00",
+      "source_type": "full_article",
+      "script": "Tuomas Iisalon valmentama Memphis jatkaa vakuuttavasti NBA:n kärjessä kaadettuaan Portlandin lukemin 124–103. Joukkue on voittanut alkukauden kaikki viisi otteluaan.",
+      "more": "Ottelussa loisti 19-vuotias tähtitulokas Cameron Boozer, joka kirjautti tililleen triplatuplan."
+    },
+    {
+      "title": "Joensuussa on liikenneympyrä, jonka kaltaisia suositellaan kaikkiin Suomen kaupunkeihin – tällainen se on",
+      "description": "Karjalankadun liikenneympyrä on toiminut esimerkkinä, kun koko Suomeen tehtiin ensimmäistä kertaa yhtenäinen ohje kaupunkikiertoliittymien suunnitteluun.",
+      "url": "https://yle.fi/a/74-20254063",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T05:33:22+00:00",
+      "source_type": "full_article",
+      "script": "Suomalaiset kunnat ovat alkaneet ottaa mallia Joensuun liikenneympyröiden suunnittelusta, joka perustuu viime vuonna julkaistuun valtakunnalliseen kaupunkikiertoliittymien ohjeeseen.",
+      "more": "Ohjeessa korostetaan henkilöautojen mitoitusta ja kevyen liikenteen turvallisuutta, mikä alentaa ajonopeuksia ja sujuvoittaa liikennettä."
+    },
+    {
+      "title": "Analyysi: Kuuliaisuuden vaatimus on ehdoton – Kiinassa valta keskittyy yhä enemmän Xille",
+      "description": "Keskuskomitean kokouksessa oli harvinaisen vähän osallistujia siviili- ja sotilasjohdon puhdistusten takia, kirjoittaa Ylen Aasian-kirjeenvaihtaja Olli-Pekka Sulasma.",
+      "url": "https://yle.fi/a/74-20254145",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T05:16:05+00:00",
+      "source_type": "full_article",
+      "script": "Kiinan kommunistisen puolueen keskuskomitea on pitänyt nelipäiväisen kokouksen, jossa on tiukennettu puoluekuria ja vaadittu ehdotonta kuuliaisuutta presidentti Xi Jinpingille.",
+      "more": "Kokouksen osanottajamäärä oli poikkeuksellisen pieni meneillään olevien sotilasjohdon ja siviilihallinnon puhdistusten vuoksi."
+    },
+    {
+      "title": "Mikko Rantaselta kauniita maalisyöttöjä 30-vuotisjuhlissaan – valmentaja avautui joukkueen surkeudesta",
+      "description": "Dallasin päävalmentaja Glen Gulutzan antoi kovasti kritiikkiä joukkueelleen. 30 vuotta täyttäneen Mikko Rantasen maalisyötöt olivat laiha lohtu.",
+      "url": "https://yle.fi/a/74-20254147",
+      "category": "Urheilu",
+      "published": "2026-10-30T05:14:00+00:00",
+      "source_type": "full_article",
+      "script": "30 vuotta täyttänyt Mikko Rantanen tarjoili kaksi maalisyöttöä, mutta Dallas hävisi NHL-ottelussa Montreal Canadiensille maalein 5–2.",
+      "more": "Dallasin päävalmentaja Glen Gulutzan antoi ottelun jälkeen ankaraa kritiikkiä joukkueensa heikolle kiekolliselle pelaamiselle."
+    },
+    {
+      "title": "Suomen korkeimmat tuulivoimalat toisivat Hattulalle miljoonien verotulot, mutta osa asukkaista vastustaa niitä kiivaasti",
+      "description": "Suojeluyhdistykset vaativat kaavan hylkäämistä. Laskelmien mukaan kunta saisi voimaloista niiden elinkaaren ajalta verotuloja lähes yhdeksän miljoonaa euroa.",
+      "url": "https://yle.fi/a/74-20253393",
+      "category": "Pääuutiset",
+      "published": "2026-10-30T04:54:47+00:00",
+      "source_type": "full_article",
+      "script": "Hattulaan suunnitellun Niinimäen tuulivoimahankkeen kaavaehdotus on kerännyt ennätyksellisen määrän muistutuksia. Alueelle kaavaillaan yhdeksää Suomen korkeinta tuulivoimalaa.",
+      "more": "Suojeluyhdistykset vastustavat hanketta luonto- ja maisemahaittojen vuoksi, kun taas kunta tavoittelee voimaloista miljoonien verotuloja."
     }
   ]
 }
