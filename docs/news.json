@@ -1,365 +1,205 @@
 {
-  "generated": "2026-11-13T05:48:03.801734+00:00",
+  "generated": "2026-11-14T05:38:37.516620+00:00",
   "stories": [
     {
-      "title": "Asiantuntijat puivat, onko Jacob Friisillä edellytyksiä jatkaa Huuhkajissa – näin kapteenit reagoivat fanien kiukkuun",
-      "description": "Jacob Friis totesi, ettei ole kiinnostunut hänestä liikkuvista huhuista. Asiantuntija Antti Pohja linjasi suoraan, että Huuhkajissa on valmentajavaihdon aika.",
-      "url": "https://yle.fi/a/74-20256494",
-      "category": "Urheilu",
-      "published": "2026-11-13T05:43:08+00:00",
-      "source_type": "full_article",
-      "script": "Huuhkajien päävalmentajan Jacob Friisin asema herättää voimakasta keskustelua Kansojen liigan tappioiden jälkeen. Tiranassa pelatun Albania-ottelun 2–0-tappion myötä Suomen tavoitteena ollut lohkovoitto ja nousupaikka kariutuivat, minkä seurauksena ottelun jälkeen nähtiin kannattajien erovaatimuksia. Asiantuntija Antti Pohja totesi suoraan, että Huuhkajissa on valmentajavaihdon aika.",
-      "more": "Päävalmentaja Jacob Friis kommentoi huhuja toteamalla keskittyvänsä pelaajien auttamiseen eikä koe olevansa paniikissa."
-    },
-    {
-      "title": "Naisleijonat kohtaa MM-puolivälierissä jättiyllättäjä Saksan – asiantuntijan mukaan Suomi on silti suosikki",
-      "description": "Saksa on voittanut naisten MM-turnauksessa kovia kiekkomaita. Eveliina Mäkisen mukaan Naisleijonien Kanada-ottelu nosti odotuksia puolivälierää ajatellen.",
-      "url": "https://yle.fi/a/74-20256465",
-      "category": "Urheilu",
-      "published": "2026-11-13T05:34:46+00:00",
-      "source_type": "full_article",
-      "script": "Naisleijonat kohtaa perjantaina MM-kisojen puolivälierässä Saksan, joka on ollut turnauksen suurin yllättäjä. Vaikka Saksan maalivahti Sandra Abstreiter on pelannut vahvasti, asiantuntija Eveliina Mäkinen pitää Suomea ottelussa ennakkosuosikkina laajemman taitotason ansiosta.",
-      "more": "Suomi sijoittui alkulohkossaan kolmanneksi Kanadan ja Ruotsin jälkeen."
-    },
-    {
-      "title": "Kouluihin tehdään liian kovalla kiireellä uudistusta, jossa numerot voivat jyrätä arvot, pelkää tutkija",
-      "description": "Peruskoulun osaamisen tavoitteet muotoillaan uusiksi niin, että kaikkea voitaisiin jatkossa mitata arvosanoilla.",
-      "url": "https://yle.fi/a/74-20256292",
-      "category": "Pääuutiset",
-      "published": "2026-11-13T05:30:38+00:00",
-      "source_type": "full_article",
-      "script": "Peruskoulun opetussuunnitelman perusteita uudistetaan parhaillaan vauhdulla, mikä herättää huolta asiantuntijoissa. Helsingin yliopiston dosentti Hannele Cantell pelkää tiukan aikataulun ja numerokeskeisyyden vievän painopistettä pois tärkeistä arvoista, asenteista ja aktiivisen kansalaisuuden taidoista.",
-      "more": "Uudistuksen taustalla on eduskunnan hyväksymä lakimuutos, jolla pyritään yhdenmukaistamaan arviointia ja luomaan kouluihin niin sanottu osaamistakuu."
-    },
-    {
-      "title": "Nathan MacKinnon ja Cale Makar loukkaantuivat samassa erässä – Coloradolla kammottava toinen erä NHL:ssä",
-      "description": "Artturi Lehkosen maali oli laiha lohtu, kun Coloradon kaksi nimekkäintä pelaajaa joutuivat jättämään kaukalon. Voittomaalin tehnyt Anton Lundell sai osumaansa mielettömän esityön.",
-      "url": "https://yle.fi/a/74-20256722",
-      "category": "Urheilu",
-      "published": "2026-11-13T05:22:02+00:00",
-      "source_type": "full_article",
-      "script": "Pohjois-Amerikan Jääkiekon NHL:ssä Colorado Avalanche koki synkän toisen erän, kun sen tähtipelaajat Nathan MacKinnon ja Cale Makar loukkaantuivat samassa erässä. Ottelussa Ottawa voitti Coloradon jatkoajalla 4–3.",
-      "more": "Muissa yön otteluissa Floridan Anton Lundell iski kaksi maalia ja New Jersey Devilsin Lenni Hämeenaho teki maalin ensimmäisessä NHL-ottelussaan."
-    },
-    {
-      "title": "Osa Microsoftin palveluista palautettu",
-      "description": "Korjauksia on saatu tehtyä joillakin alueilla, mutta laaja häiriö jatkuu yhä.",
-      "url": "https://yle.fi/a/74-20256719",
+      "title": "Yli 6 800 kotitaloutta on ilman sähköjä",
+      "description": "Ongelma on pahin Savossa, jossa on tullut yöllä reippaasti lunta.",
+      "url": "https://yle.fi/a/74-20256956",
       "category": "Kotimaa",
-      "published": "2026-11-13T05:03:56+00:00",
+      "published": "2026-11-14T05:03:11+00:00",
       "source_type": "full_article",
-      "script": "Ohjelmistoyhtiö Microsoftin palveluissa torstaina havaittu laaja häiriö jatkuu yhä, vaikka yhtiön mukaan palvelut ovat alkaneet osittain palautua. Häiriö on vaikeuttanut muun muassa Outlookin, Teamsin ja Copilot-tekoälyavustajan käyttöä ympäri maailmaa.",
-      "more": "Downdetector-sivuston mukaan ongelmista on raportoinut toistasataatuhatta käyttäjää."
+      "script": "Energiateollisuuden tietojen mukaan yli 6 800 kotitaloutta on ilman sähköjä eri puolilla Suomea. Pahin tilanne on Savossa, jossa sähkökatkoista kärsii yli 3 900 asiakasta. Katkojen taustalla on runsaan märkymän lumen tulo, joka on kuormittanut puita ja sähköjohtoja. Pelastuslaitos on saanut viime vuorokauden aikana kymmeniä hälytyksiä lumisen sään aiheuttamista liikenneonnettomuuksista ja vahingontorjuntatehteistä. Lumisateen ennustetaan jatkuvan puolillepäiviin saakka.",
+      "more": "Sähkökatkoja on raportoitu yhteensä 30 kunnan alueelta."
     },
     {
-      "title": "18-vuotiaat Olha ja Maria auttavat Kiovan vanhuksia – samalla yhteisö kannattelee heitä",
-      "description": "Yle seurasi, kun sotaa paenneet nuoret auttavat iäkkäitä ihmisiä Kiovassa. Avustustyö on tukenut nuorten paluuta normaaliin elämään.",
-      "url": "https://yle.fi/a/74-20254844",
-      "category": "Pääuutiset",
-      "published": "2026-11-13T04:53:25+00:00",
-      "source_type": "full_article",
-      "script": "Ukrainan sodan keskellä nuoret pakolaiset tekevät arvokasta auttamistyötä Kiovassa. Esimerkiksi 18-vuotiaat Olha Tkatšenko ja Maria Revina tapaavat sotaa paenneita iäkkäitä ihmisiä joka perjantai tarjoten heille sekä käytännön apua että kaivattua juttuseuraa.",
-      "more": "Kiovaan on muuttanut täysimittaisen hyökkäyksen jälkeen arviolta 400 000 sotapakolaista, joista suuri osa on yksinäisiä eläkeläisiä."
-    },
-    {
-      "title": "Jotkut väärentävät kasvonsa saadakseen töitä – näin outo huijaus toimii",
-      "description": "Suomalaisrekrytoijat kohtaavat etähaastatteluissa hakijoita, jotka yrittävät huijata tekoälyn avulla. Yle testasi kasvojen ja äänen väärentämistä videopuhelussa.",
-      "url": "https://yle.fi/a/74-20254592",
-      "category": "Pääuutiset",
-      "published": "2026-11-13T04:30:35+00:00",
-      "source_type": "full_article",
-      "script": "Suomalaiset rekrytoijat kohtaavat yhä useammin tekoälyn avulla tehtyjä huijauksia etätyöhaastatteluissa. Osa hakijoista väärentää kasvonsa ja äänensä syväväärennöksillä tai käyttää reaaliaikaisia tekoälyavustajia vastatakseen kysymyksiin.",
-      "more": "Asiantuntijat arvioivat ilmiön laajenevan ja herättävän huolta myös mahdollisesta valtiollisesta vakoilusta."
-    },
-    {
-      "title": "Lunta tulee tänään pyryttäen ja ajokeli on surkea",
-      "description": "Lunta voi kertyä perjantaina paikoin jopa 15 senttimetriä. Savukoskella tehtiin syksyn pakkasennätys: 23 astetta.",
-      "url": "https://yle.fi/a/74-20256713",
-      "category": "Pääuutiset",
-      "published": "2026-11-13T04:03:21+00:00",
-      "source_type": "full_article",
-      "script": "Suomeen levinnyt laaja sade- ja lumialue aiheuttaa erittäin huonoja ajo-olosuhteita valtaosaan maata. Lumisateita kertoo erityisesti maan keskivaiheilla, ja lunta voi kertyä perjantain aikana paikoin jopa 15 senttimetriä.",
-      "more": "Lapissa mitattiin perjantain vastaisena yönä syksyn uusi pakkasennätys, kun Savukoskella oli 23 astetta pakkasta."
-    },
-    {
-      "title": "”Tästä tullaan kertomaan lapsenlapsille” – Aina Kirtselis, 17, kävi Dakarissa ottamassa tuntumaa olympialaisiin",
-      "description": "Nuorten kesäolympialaiset jatkuvat perjantaihin asti Senegalin pääkaupungissa Dakarissa.",
-      "url": "https://yle.fi/a/74-20256206",
-      "category": "Ulkomaat",
-      "published": "2026-11-13T04:00:35+00:00",
-      "source_type": "full_article",
-      "script": "Nuorten kesäolympialaiset Senegalissa Dakarissa ovat tarjonneet suomalaisurheilijoille arvokasta arvokisakokemusta. Taekwondossa alle 49-kiloisten sarjassa kilpaillut 17-vuotias Aina Kirtselis putosi avausottelussaan tiukan taistelun jälkeen.",
-      "more": "Suomen joukkueenjohtaja Kimmo Mustonen on antanut kisajärjestelyille pääosin kiitosta, vaikka kuumuus ja kisakylän olosuhteet ovat herättäneet myös kritiikkiä."
-    },
-    {
-      "title": "Autokaupoilla tapahtui iso mullistus: virheen korjaus kuuluu nyt myyjälle",
-      "description": "Kuluttajariitalautakunta linjasi keväällä, että autossa ilmenneiden virheiden korjaaminen on kokonaan kauppiaan vastuulla.",
-      "url": "https://yle.fi/a/74-20251616",
-      "category": "Pääuutiset",
-      "published": "2026-11-13T03:30:35+00:00",
-      "source_type": "full_article",
-      "script": "Kuluttajariitalautakunnan kevään linjauksen mukaan autoliikkeiden on pääsääntöisesti korjattava ostetussa autossa ilmenneet virheet maksutta kuluttajalle. Aiemmin kustannuksia on suositeltu jaettavaksi osapuolten kesken.",
-      "more": "Uusi käytäntö on herättänyt jonkin verran muutosvastarintaa autokauppiaiden keskuudessa."
-    },
-    {
-      "title": "Marylandin senaattori haastaa pitkään demokraatteja johtaneen Schumerin",
-      "description": "Chris Van Hollen sanoo, että juuri välivaalit voittanut puolue tarvitsee uutta johtajuutta.",
-      "url": "https://yle.fi/a/74-20256712",
-      "category": "Pääuutiset",
-      "published": "2026-11-13T02:55:02+00:00",
-      "source_type": "full_article",
-      "script": "Yhdysvaltain välivaalit voittaneen demokraattipuolueen johtajanpaikasta on tulossa kilpailu, kun Marylandin senaattori Chris Van Hollen ilmoitti haastavansa pitkäaikaisen demokraattijohtajan Chuck Schumerin.",
-      "more": "Demokraattien uusi johtaja valitaan suljetulla lippuäänestyksellä joulukuun alussa."
-    },
-    {
-      "title": "EU-johtajilla tänään huippukokous – aiheina Ukraina, budjetti ja tekoäly",
-      "description": "Epävirallinen huippukokous pidetään Irlannin Dublinissa. Suomea kokouksessa edustaa pääministeri Petteri Orpo.",
-      "url": "https://yle.fi/a/74-20256711",
-      "category": "Pääuutiset",
-      "published": "2026-11-13T01:38:21+00:00",
-      "source_type": "full_article",
-      "script": "EU-maiden johtajat kokoontuvat epäviralliseen huippukokoukseen Irlannin Dubliniin. Kokouksen pääaiheiksi ovat nousemassa tekoälyn ohella Ukrainan tilanne sekä unionin tuleva rahoituskehys vuodelle 2028–2034.",
-      "more": "Saksan liittokansleri Friedrich Merzin linjaus Ukraina-rahoituksen sitomisesta budjettineuvotteluihin on herättänyt jännitteitä maiden välillä."
-    },
-    {
-      "title": "New Yorkin pormestari määräsi selvittämään rakennustyömaiden turvallisuuden kerrostalon sortuman vuoksi",
-      "description": "Keskiviikkoisen onnettomuuden pelastustyöt on saatu päätökseen, ja nyt on selvitysten aika.",
-      "url": "https://yle.fi/a/74-20256710",
-      "category": "Pääuutiset",
-      "published": "2026-11-13T00:48:21+00:00",
-      "source_type": "full_article",
-      "script": "New Yorkin pormestari Zohran Mamdani on määrännyt erityistarkastuksen noin sadalle rakennustyömaalle sen jälkeen, kun kolmekerroksinen kerrostalo sortui Brooklynissa keskiviikkona. Onnettomuudessa kuoli kahdeksan ihmistä ja loukkaantui 18.",
-      "more": "Pelastustyöt raunioilla on saatu päätökseen, ja viranomaiset aloittavat onnettomuuden syyn tutkinnan."
-    },
-    {
-      "title": "Omavero poissa käytöstä koko viikonlopun ajan",
-      "description": "Kansalaisten kannattaa hoitaa veroasiansa ennen iltapäivällä alkavaa käyttökatkoa.",
-      "url": "https://yle.fi/a/74-20256709",
-      "category": "Pääuutiset",
-      "published": "2026-11-13T00:06:26+00:00",
-      "source_type": "full_article",
-      "script": "Verohallinnon Omavero-palvelu on suljettuna koko viikonlopun ajan vuotuisen järjestelmäpäivityksen vuoksi. Käyttökatko alkaa perjantaina iltapäivällä ja päättyy sunnuntaina illalla.",
-      "more": "Verohallinto kehottaa kansalaisia hoitamaan kiireelliset veroasiansa ennen katkon alkua."
-    },
-    {
-      "title": "Kommentti: Viettikö Seattle välipäivän Helsingin yössä? Carolina on häikäisevän ylivoimainen NHL:ssä",
-      "description": "Carolinan prosessi on merimailin edellä kaikkia muita NHL-joukkueita, kirjoittaa Yle Urheilun jääkiekkotoimittaja Tommi Seppälä Helsingistä.",
-      "url": "https://yle.fi/a/74-20256643",
+      "title": "Juuso Välimäki koki täyden pohjakosketuksen ja menetti 1100 päivää – nyt periksiantamaton taistelu palkitaan NHL:ssä",
+      "description": "Pitkistä loukkaantumisista kärsinyt Juuso Välimäki palasi upeasti NHL:ään. Nyt hän kerää kehuja Carolinan valmentajalta.",
+      "url": "https://yle.fi/a/74-20256879",
       "category": "Urheilu",
-      "published": "2026-11-12T19:56:14+00:00",
+      "published": "2026-11-14T05:00:35+00:00",
       "source_type": "full_article",
-      "script": "Jääkiekon NHL:ssä hallitseva mestari Carolina Hurricanes jatkoi vahvoja otteitaan kukistamalla Seattlen Krakenin Helsingissä pelatussa ottelussa maalein 4–1. Suomalaishyökkääjä Sebastian Aho säkenöi ottelussa iskemällä kaksi maalia.",
-      "more": "Ottelussa maalinteossa onnistui myös Seattlen suomalaispuolustaja Juuso Välimäki."
+      "script": "Jääkiekkoilija Juuso Välimäki on palannut menestyksekkäästi NHL-kaukaloihin vaikeiden loukkaantumisvuosien jälkeen. 28-vuotias puolustaja on kärsinyt urallaan useista vakavista polvivammoista, joiden vuoksi häneltä on jäänyt väliin yli 1 100 päivää. Vaikeuksien ja farmikomennuksen jälkeen Välimäki raivasi tiensä Carolina Hurricanesin kokoonpanoon ja on kerännyt valmennukselta kehuja otteistaan.",
+      "more": "Välimäki on nostettu esiin mahdollisena ehdokkaana Bill Masterton Memorial Trophy -palkinnon saajaksi."
     },
     {
-      "title": "Hegseth palkitsi häntä ojentaneen sotilaan kunniamerkillä",
-      "description": "",
-      "url": "https://yle.fi/a/74-20256704",
-      "category": "Ulkomaat",
-      "published": "2026-11-12T19:36:00+00:00",
-      "source_type": "full_article",
-      "script": "Yhdysvaltain puolustusministeri Pete Hegseth on palkinnut kunniamerkillä sotilas Thomas Iglesiasin, joka huomautti ministeriä ja tämän seuruetta sääntöjen rikkomisesta Arlingtonin sotilashautausmaalla Tuntemattoman sotilaan haudan läheisyydessä.",
-      "more": "Tapaus nousi julkisuuteen seurueen naurua ja puhetta taltioineen videon myötä."
-    },
-    {
-      "title": "Saako Erkki Lasonpalo jatkaa syytösten jälkeen työtään orkestereissa? Kysyimme Mikkelistä, Lappeenrannasta ja Porista",
-      "description": "Kapellimestari Erkki Lasonpalon väitetty epäasiallinen käytös hänen johtaessaan nuoriso-orkestereita paljastui Ylen julkaisemassa jutussa.",
-      "url": "https://yle.fi/a/74-20256601",
-      "category": "Kotimaa",
-      "published": "2026-11-12T19:00:07+00:00",
-      "source_type": "full_article",
-      "script": "Kapellimestari Erkki Lasonpalon väitetty epäasiallinen käytös nuoriso-orkestereissa ei aiheuta välittömiä muutoksia hänen työsuhteisiinsa. Porin, Mikkelin ja Lappeenrannan kaupungit selvittävät asiaa, mutta toimenpiteisiin ei toistaiseksi ryhdytä.",
-      "more": "Lasonpalo myöntää ongelmansa alkoholin kanssa mutta kiistää pääosan fyysiseen käytökseen liittyvistä väitteistä."
-    },
-    {
-      "title": "Suomelta arvokas voitto kohti EM-kotikisoja – Sara Bejedi liekehti lopussa Liettuan nurin",
-      "description": "Suomi kukisti Liettuan koripallon EM-karsinnoissa kisajärjestäjien välisessä väännössä. Sara Bejedi oli toisella puoliajalla suuressa roolissa.",
-      "url": "https://yle.fi/a/74-20256694",
-      "category": "Urheilu",
-      "published": "2026-11-12T18:53:50+00:00",
-      "source_type": "full_article",
-      "script": "Suomen naisten koripallomaajoukkue voitti Liettuan EM-karsintaottelussa pistein 76–74. Sara Bejedi ja Awak Kuier nousivat ratkaisuhetkillä suureen rooliin ja siivittivät Suomen voittoon kirvelevän alun jälkeen.",
-      "more": "Molemmat joukkueet valmistautuvat ensi kesän EM-kotikisoihin, joissa Suomi emännöi yhtä alkulohkoa Espoossa."
-    },
-    {
-      "title": "Romanovien safiiri myytiin Sveitsissä yli 4,4 miljoonalla eurolla",
-      "description": "Leskikeisarinna Maria Fjodorovna käytti safiiria Pietarin Talvipalatsissa vuonna 1903 järjestetyissä kuuluisissa tanssiaisissa.",
-      "url": "https://yle.fi/a/74-20256698",
-      "category": "Ulkomaat",
-      "published": "2026-11-12T18:51:20+00:00",
-      "source_type": "full_article",
-      "script": "Venäjän kruununjalokiviin kuuluva historiallinen safiiri on myyty huutokaupassa Genevessä yli 4,4 miljoonalla eurolla. Hinta nousi yli kaksinkertaiseksi ennakkoarvioihin verrattuna.",
-      "more": "Ceylonin safiiri on kuulunut aikoinaan leskikeisarinna Maria Fjodorovnalle, joka käytti sitä vuonna 1903 järjestetyissä tanssiaisissa."
-    },
-    {
-      "title": "Witkoff ja Kushner tekivät välilaskun Helsinkiin",
-      "description": "",
-      "url": "https://yle.fi/a/74-20256699",
-      "category": "Ulkomaat",
-      "published": "2026-11-12T18:41:55+00:00",
-      "source_type": "full_article",
-      "script": "Yhdysvaltain erityisedustajat Steve Witkoff ja Jared Kushner tekivät torstaina lyhyen välilaskun Helsingissä matkallaan Moskovasta Irlantiin. Heidän on määrä tavata Ukrainan presidentti Volodymyr Zelenskyi Dublinissa.",
-      "more": "Lentotietojen mukaan heidän koneensa jatkoi matkaansa Irlannin sotilastukikohtaan myöhään illalla."
-    },
-    {
-      "title": "Prikaatikenraali Ukrainan iskusta venäläisten ohjuslaivaan: monimutkainen ja vaikea operaatio",
-      "description": "Suursaaren lähellä venäläisalukseen osunut lennokki oli Ukrainan mukaan matkannut toista tuhatta kilometriä. Se löysi maalinsa kymmenien alusten joukosta.",
-      "url": "https://yle.fi/a/74-20256691",
-      "category": "Tuoreimmat",
-      "published": "2026-11-12T18:27:15+00:00",
-      "source_type": "full_article",
-      "script": "Ukraina teki poikkeuksellisen operaation iskemällä lennokilla venäläiseen Naro-Forminsk-ohjusalukseen Suursaaren läheisyydessä kansainvälisillä vesillä. Suomen puolustusministeriö vahvisti havainneensa räjähdyksen ja alueella liikkuneen lennokin.",
-      "more": "Prikaatikenraali Markku Viitasaaren mukaan operaatio on ollut erittäin vaativa, sillä lennokki lensi yli tuhat kilometriä kymmenien alusten sekaan."
-    },
-    {
-      "title": "Loistoalus upotettiin tarkoituksella – SS United Statesista tuli tekoriutta",
-      "description": "Kuuluisa loistoalus oli toisen maailmansodan jälkeisen ylellisyyden ja laivanrakennustaidon ihme.",
-      "url": "https://yle.fi/a/74-20256563",
-      "category": "Ulkomaat",
-      "published": "2026-11-12T18:26:48+00:00",
-      "source_type": "full_article",
-      "script": "Historiallinen valtamerialus SS United States on upotettu tarkoituksella Meksikonlahdelle Floridaan. Maailman nopeimpana tunnetusta matkustajalaivasta muodostetaan nyt maailman suurin keinotekoinen riutta ja hylkysukeltajien kohde.",
-      "more": "Aluksen muuttaminen riutaksi ja hylkysuistoalueen keskipisteeksi maksoi noin 12,2 miljoonaa euroa."
-    },
-    {
-      "title": "Vauras yrittäjäsuku pitää pystyssä pientä Vieremän kuntaa Pohjois-Savossa",
-      "description": "Varhaisista epäilyistä huolimatta metsäkoneyhtiö Ponssesta kasvoi Vieremän kunnan taloudellinen selkäranka.",
-      "url": "https://yle.fi/a/74-20256370",
-      "category": "Kotimaa",
-      "published": "2026-11-12T17:56:50+00:00",
-      "source_type": "full_article",
-      "script": "Pohjois-Savossa sijaitseva Vieremän kunta elää pitkälti metsäkoneyhtiö Ponssen ja sen luoman yritysverkoston varassa. Vain runsaan kolmen tuhannen asukkaan kunnassa työpaikkaomavaraisuus on korkea, ja kunnan talous on vakaalla pohjalla.",
-      "more": "Yhtiön taustalla vaikuttava Vidgrénin yrittäjäsuku on tukenut voimakkaasti paikallista elinvoimaa ja yhteisöä."
-    },
-    {
-      "title": "Yhdysvaltain tautikeskus vahvistanut kuusi tuhkarokkoon liittyvää kuolemaa",
-      "description": "CDC ei kertonut, missä osavaltioissa uudet kuolemantapaukset todettiin.",
-      "url": "https://yle.fi/a/74-20256692",
-      "category": "Ulkomaat",
-      "published": "2026-11-12T17:41:31+00:00",
-      "source_type": "full_article",
-      "script": "Yhdysvaltain tautikeskus CDC on vahvistanut maassa kuusi tuhkarokkoon liittyvää kuolemantapausta kuluneen vuoden aikana. Määrä on kaksinkertainen edelliseen vuoteen verrattuna ja kertoo erittäin tarttuvan taudin laajasta leviämisestä.",
-      "more": "Yhdysvalloissa on meneillään pahin tuhkarokkoepidemia 35 vuoteen, ja tartuntoja on kirjattu yli 4 800."
-    },
-    {
-      "title": "Italiassa yli 3700 koulua sai jälleen uhkauksen",
-      "description": "Koulut noudattivat hallituksen uusia ohjeita turvallisuusuhkien käsittelyyn.",
-      "url": "https://yle.fi/a/74-20256690",
-      "category": "Ulkomaat",
-      "published": "2026-11-12T17:23:56+00:00",
-      "source_type": "full_article",
-      "script": "Italiassa yli 3 700 koulua sai torstaina perättömiä pommiuhkauksia. Hallituksen uusien ohjeiden mukaisesti vain pieni osa kouluista evakuoitiin, sillä viranomaiset edellyttävät konkreettista näyttöä vaarasta ennen laajojen toimien aloittamista.",
-      "more": "Vastaavanlainen uhkausten aalto on koetellut myös muita Euroopan maita, mutta suoraa yhteyttä ulkovaltoihin ei ole toistaiseksi vahvistettu."
-    },
-    {
-      "title": "Kunnanvaltuuston kokous veti valtuustosalin täyteen lapsia Keminmaassa – syynä urheiluhalli",
-      "description": "Valtuustosalin lehterin vallannut lapsijoukko seurasi, kun keminmaalaiset päättivät monitoimihallista: halli rakennetaan sittenkin.",
-      "url": "https://yle.fi/a/74-20256566",
-      "category": "Kotimaa",
-      "published": "2026-11-12T17:20:03+00:00",
-      "source_type": "full_article",
-      "script": "Keminmaan kunnanvaltuukuston kokous veti tuvan täyteen urheiluseurojen lapsia ja nuoria, kun valtuusto äänesti kiistellyn monitoimihallin rakentamisesta. Tiukan väännön jälkeen halli päädyttiin rakentamaan äänin 17–14.",
-      "more": "Hanke on herättänyt laajaa kiinnostusta alueen heikon harjoitustilanteen vuoksi."
-    },
-    {
-      "title": "Matkailuyrittäjät ostivat entisen tutkimusaseman venäläisiltä ja myivät ruotsalaisille – tekivät miljoonatilin",
-      "description": "Matkailun kasvu on osoittautunut hyväksi bisnekseksi Lapissa. Yrityskaupoilla tienasi niin hyvin, että pääomistajat maksoivat enemmän veroja kuin itse firma.",
-      "url": "https://yle.fi/a/74-20256514",
-      "category": "Kotimaa",
-      "published": "2026-11-12T17:00:38+00:00",
-      "source_type": "full_article",
-      "script": "Lapin matkailubisneksen kasvu on nostanut useita paikallisia yrittäjiä miljoonatuloihin yrityskauppojen kautta. Esimerkiksi rovaniemeläisen Apukka Resortin omistajat myivät yrityksensä ruotsalaiselle First Camp Groupille miljoonavoitoin.",
-      "more": "Alueen yritykset, kuten Wilderness Hotels & Safaris, ovat tehneet vahvoja tuloksia matkailun kysynnän kasvaessa."
-    },
-    {
-      "title": "Kansainvälinen hiihtoliitto avaa Ylelle, miten se menetti 94 miljoonaa euroa – ex-pomo Eliasch saattaa joutua oikeuteen",
-      "description": "FISin puheenjohtaja Alexander Ospelt ja varapuheenjohtaja Martti Uusitalo avaavat kattojärjestön vaikeaa taloustilannetta ja siihen johtaneita syitä.",
-      "url": "https://yle.fi/a/74-20253184",
-      "category": "Urheilu",
-      "published": "2026-11-12T17:00:35+00:00",
-      "source_type": "full_article",
-      "script": "Kansainvälisen hiihtoliiton FIS:n varallisuus on pudonnut rajusti viime vuosina, ja järjestö harkitsee entisen puheenjohtajan Johan Eliaschin haastamista oikeuteen. Talouden alamäki johtuu muun muassa kohonneista hallintokuluista ja epäonnistuneista markkinointiratkaisuista.",
-      "more": "Uusi puheenjohtaja Alexander Ospelt on aloittanut liitossa tiukat säästötoimet talouden tasapainottamiseksi."
-    },
-    {
-      "title": "NHL-pomo lateli Helsingissä ympäripyöreitä kommentteja Venäjästä ja puolusti Aleksandr Ovetškinia",
-      "description": "NHL sallii edelleen venäläispelaajien esiintymisen otteluissaan ja harkitsee maan päästämistä myös World Cupiin.",
-      "url": "https://yle.fi/a/74-20256642",
-      "category": "Urheilu",
-      "published": "2026-11-12T16:38:42+00:00",
-      "source_type": "full_article",
-      "script": "NHL-komissaari Gary Bettman puolusti Helsingin-vierailullaan venäläispelaaja Aleksandr Ovetškinia ja linjasi, että liiga sallii edelleen venäläispelaajien osallistumisen otteluihinsa. Bettmanin mukaan pelaajat edustavat seurajoukkueitaan eivätkä maataan.",
-      "more": "Kysymykset Venäjän mahdollisesta paluusta kansainvälisiin turnauksiin ja World Cupiin ovat herättäneet laajaa kansainvälistä keskustelua."
-    },
-    {
-      "title": "Analyysi: Verolistoille ovat nousseet maahanmuuttajat, ja siihen on selvät syyt",
-      "description": "Suomessa maahanmuuttajat ovat näkyneet tulokärjessä vasta joitakin vuosia, mutta he ovat tulleet verolistoille jäädäkseen, kirjoittaa taloustoimittaja Petteri Lindholm.",
-      "url": "https://yle.fi/a/74-20256556",
-      "category": "Kotimaa",
-      "published": "2026-11-12T16:35:27+00:00",
-      "source_type": "full_article",
-      "script": "Maahanmuuttajat ovat vakiinnuttaneet paikkansa Suomen suurituloisimpien verolistoilla erityisesti kasvuyritysten eli startupien kautta. Asiantuntijoiden mukaan kehitystä vauhdittavat yliopistojen ja yritysmaailman tiivis yhteistyö sekä kansainvälisten osaajien suuri osuus alalla.",
-      "more": "Esimerkiksi kärkipään tulijoihin lukeutuvat yrittäjät Saber Kordestanchi, Rob Blaauwgeers ja Zach Shelby."
-    },
-    {
-      "title": "Suomen hallituksen linjaus venäläisurheilijoista hämmentää Hiihtoliitossa – ”Vielä on paljon töitä edessä”",
-      "description": "Hiihtoliiton toiminnanjohtajalle Marleena Valtasolalle heräsi monta kysymystä Suomen hallituksen päätöksestä kiristää venäläisurheilijoiden pääsyä Suomeen.",
-      "url": "https://yle.fi/a/74-20256685",
-      "category": "Urheilu",
-      "published": "2026-11-12T16:28:53+00:00",
-      "source_type": "full_article",
-      "script": "Suomen hallituksen päätös kiristää venäläisurheilijoiden viisumipolitiikkaa on herättänyt kysymyksiä Hiihtoliitossa. Muonion Tykkikisoihin on ilmoitettu venäläishiihtäjiä, mutta uusi linjaus voi estää heidän saapumisensa maahan.",
-      "more": "Hiihtoliitto neuvottelee asiasta ulkoministeriön kanssa käytännön toimien selventämiseksi."
-    },
-    {
-      "title": "Enzo Pulkkinen joi paljon ja poltti vuosia – nyt hän on lähellä loppuaan ja kertoo, mitä elämä opetti",
-      "description": "Keuhkosyöpä on saanut Hausmyllystä tutuksi tulleen Hannu ”Enzo” Pulkkisen pohtimaan elämänvalintojaan ja huomaamaan, kuinka rajallista aika on.",
-      "url": "https://yle.fi/a/74-20255795",
-      "category": "Pääuutiset",
-      "published": "2026-11-12T16:15:27+00:00",
-      "source_type": "full_article",
-      "script": "Hausmylly-yhtyeestä tuttu muusikko Hannu ”Enzo” Pulkkinen sairastaa parantumatonta keuhkosyöpää ja viettää aikaansa palliatiivisessa hoidossa. Vaikea sairaus on saanut hänet pohtimaan elämänvalintojaan ja ajan rajallisuutta.",
-      "more": "Pulkkinen muistetaan erityisesti 90-luvun suurista pophiteistä, ja hän on jatkanut musiikin parissa toimimista pitkän uransa ajan."
-    },
-    {
-      "title": "Odotus päättyi ja Fuuga sai vihdoin äänensä – Turun musiikkitalo vihittiin käyttöön avajaiskonsertissa",
-      "description": "Kolme vuotta rakennettu musiikkitalo on herättänyt kansainvälistä kiinnostusta. Konserttisalin sointi haluttiin pitää salassa loppuun asti.",
-      "url": "https://yle.fi/a/74-20255101",
-      "category": "Kotimaa",
-      "published": "2026-11-12T16:04:53+00:00",
-      "source_type": "full_article",
-      "script": "Turun uusi musiikkitalo Fuuga vihittiin käyttöön torstai-illan avajaiskonsertissa, jossa esiintyi Turun filharmoninen orkesteri johtajanaan John Storgårds. Uuden salin akustiikka on osoittautunut poikkeuksellisen herkkäpiirteiseksi ja korkealaatuiseksi.",
-      "more": "Noin 90 miljoonaa euroa maksanut musiikkitalo on herättänyt laajaa kiinnostusta myös kansainvälisesti."
-    },
-    {
-      "title": "Asiantuntija: Valtava riski realisoitui Nvidiassa – osakekurssi syöksynyt",
-      "description": "OP:n Lippo Suomisen mukaan yhden miehen vallankäyttö osoittautui yhtiölle valtavaksi riskiksi, mutta nopea ero voi auttaa tilanteen yli pääsyssä.",
-      "url": "https://yle.fi/a/74-20256669",
+      "title": "Ronja Salmen kolumni: Onks mitään säätiöö, onks mitään apurahaa?",
+      "description": "Kun kulttuurin kentällä hyvä ja kaunis leikataan kuoliaaksi, on säätiöistä tullut pelastavia enkeleitä, Salmi kirjoittaa.",
+      "url": "https://yle.fi/a/74-20256696",
       "category": "Talous",
-      "published": "2026-11-12T15:50:22+00:00",
+      "published": "2026-11-14T04:45:35+00:00",
       "source_type": "full_article",
-      "script": "Tekoälyjätti Nvidian toimitusjohtaja Jensen Huang on eronnut tehtävästään salasuhdepaljastusten jälkeen. Yhtiön osakekurssi on kokenut merkittävän laskun kohun seurauksena, ja väliaikaiseksi toimitusjohtajaksi on nimetty Colette Kress.",
-      "more": "Huangin suhde Kiinan tiedustelun epäiltyyn henkilöön on herättänyt laajaa huolta geopoliittisten riskien vuoksi."
+      "script": "Taide- ja kulttuurialan rahoitus on yhä riippuvaisempi säätiöistä valtion leikkausten myötä, kirjoittaa toimittaja Ronja Salmi kolumnissaan. Suomessa toimii noin 2 700 säätiötä, jotka jakoivat viime vuonna apurahoja yli 630 miljoonalla eurolla. Säätiöiden tukijärjestelmä on monelle elintärkeä, mutta sen päätöksenteko on usein läpinäkyvää, ja kilpailu apurahoista on kovaa.",
+      "more": "Kolumnissa verrataan säätiörahoituksen merkitystä myös suurituloisten yksityishenkilöiden yhteiskuntavastuuseen."
     },
     {
-      "title": "Maanrakennusalan kaupoilla viisi miljonääriä: ”Isi on tehnyt tosi kovasti töitä, jotta lapsilla olisi hyvä elämä”",
-      "description": "Alustatalousmiljonäärien seuraksi nousee yrittäjiä, joiden yhtiöt tekevät raakaa rakennustyötä.",
-      "url": "https://yle.fi/a/74-20256549",
-      "category": "Kotimaa",
-      "published": "2026-11-12T15:41:38+00:00",
+      "title": "Utah Jazz hävisi tiukan kamppailun päätteeksi – Tuomas Iisalon Memphisille selvänumeroinen voitto New Orleansista",
+      "description": "Memphisin kausi alkoi lupaavasti kuudella perättäisellä voitolla. Ottelun pistemies oli Pelicansin Saddiq Bey.",
+      "url": "https://yle.fi/a/74-20256955",
+      "category": "Urheilu",
+      "published": "2026-11-14T04:32:45+00:00",
       "source_type": "full_article",
-      "script": "Tuoreet verotiedot paljastavat maanrakennusalan yrittäjien nousseen Suomen suurituloisimpien joukkoon yrityskauppojen myötä. Esimerkiksi VM Suomalaisen tekninen johtaja Santtu Kajahde ja Lännen Alituspalvelun omistaja Pekka Vepsä ylsivät miljoonatuloihin.",
-      "more": "Yrityskaupat liittyvät pääomasijoittaja Tritonin kokoamaan Lohkare Infra Group -infrayhteenliittymään."
+      "script": "Koripallon NBA:ssa Tuomas Iisalon valmentama Memphis Grizzlies otti selvänumeroisen 142–111-vierasvoiton New Orleans Pelicansista. Memphisin kausi alkoi lupaavasti kuudella peräkkäisellä voitolla. Suomalaispelaaja Lauri Markkanen oli edelleen sivussa Utah Jazzin kokoonpanosta kädessä olevien murtumien vuoksi. Utah hävisi vierasottelunsa Houston Rocketsille pistein 118–125 ja majailee läntisen konferenssin jumbona.",
+      "more": "Lauri Markkasen tilannetta arvioidaan uudelleen neljän viikon kuluttua."
     },
     {
-      "title": "Epäilty laiton rajanylitys Venäjältä Suomeen Ilomantsissa",
-      "description": "Rajavartiosto on aloittanut esitutkinnan epäillystä valtionrajarikoksesta.",
-      "url": "https://yle.fi/a/74-20256684",
-      "category": "Kotimaa",
-      "published": "2026-11-12T15:34:29+00:00",
+      "title": "Isä uhkasi tappaa poikansa – näin Nestori Frilander pakeni isäänsä ja löysi lopulta rauhan elämäänsä",
+      "description": "Nestori Frilanderilla oli turvakielto lähes koko lapsuuden ajan väkivaltaisen isän takia. Tuoreen tilaston mukaan Suomessa lähes 2400 alaikäisellä on turvakielto.",
+      "url": "https://yle.fi/a/74-20253618",
+      "category": "Pääuutiset",
+      "published": "2026-11-14T04:30:35+00:00",
       "source_type": "full_article",
-      "script": "Pohjois-Karjalan rajavartiosto tutkii epäiltyä laitonta rajanylitystä, joka tapahtui keskiviikkona Ilomantsissa Ilajanjärven lähellä. Henkilö ylitti rajan maastossa ja anoi sen jälkeen Suomesta turvapaikkaa.",
-      "more": "Rajavartiolaitos otti henkilön kiinni, ja asiasta on aloitettu esitutkinta valtionrajarikoksena."
+      "script": "Suomessa on tällä hetkellä lähes 2 400 alaikäisellä turvakielto, kertovat tuoreet tilastot. Monessa tapauksessa taustalla on perheväkivallan uhka, kuten 22-vuotiaan Nestori Frilanderin tapauksessa, joka eli lapsuutensa väkivaltaista isäänsä paeten. Turvakiellon hakeminen edellyttää Digi- ja väestötietovirastolle esitettävää näyttöä turvallisuusuhasta, ja se voi koskea myös vanhemman ammatista johtuvaa vaaraa.",
+      "more": "Frilanderin turvakielto purettiin seitsemän vuotta sitten hänen omasta tahdostaan."
+    },
+    {
+      "title": "Ajokeli on tänään huono laajalla alueella",
+      "description": "Lumisadealue jatkaa lauantaina matkaansa pohjoiseen. Ajokeli on huono erityisesti maan pohjois- ja eteläosissa.",
+      "url": "https://yle.fi/a/74-20256954",
+      "category": "Pääuutiset",
+      "published": "2026-11-14T03:57:10+00:00",
+      "source_type": "full_article",
+      "script": "Lauantaina on varauduttava huonoon ajokeliin laajalla alueella, kertoo Ylen meteorologi Aleksi Lohtander. Yhtenäinen lumisade painottuu Lappiin, mutta lumikuuroja ja jäätäviä teitä esiintyy myös maan keskiosissa, idässä ja etelässä. Lämpötila vaihtelee -3 ja +3 asteen välillä, ja voimakas tuuli tekee säästä purevan. Sunnuntaiksi on luvassa poutaisempaa säätä ja lauhempaa ilmaa.",
+      "more": "Lapissa pakkaset jatkuvat, kun taas etelässä lämpötila voi nousta yli viiteen asteeseen."
+    },
+    {
+      "title": "Datakeskusten sirisevä melu voi tunkeutua koteihin – tutkija: ”Korva ei totu siihen”",
+      "description": "Tutkijan mukaan todellinen melu selviää, kun laitos käynnistetään. Datakeskusteollisuus toteaa, että Suomessa lainsäädäntö suojaa kansalaisia hyvin.",
+      "url": "https://yle.fi/a/74-20255850",
+      "category": "Pääuutiset",
+      "published": "2026-11-14T03:30:35+00:00",
+      "source_type": "full_article",
+      "script": "Bioakustiikan tutkija Hanna Rostin mukaan datakeskusten toiminnasta aiheutuvaa matalataajuista melua ei ole selvitetty Suomessa riittävän tarkasti YVA-menettelyissä. Uusien konesalien käynnistäminen voi kymmenkertaistaa lähialueiden melutasot, ja asukkaat pelkäävät pysyviä haittoja. Datakeskusteollisuuden edustaja Antti Poikola puolestaan toteaa Suomen lainsäädännön suojaavan kansalaisia hyvin eikä tilannetta pidä verrata Yhdysvaltojen ongelmiin.",
+      "more": "Suunnitteilla olevia datakeskuksia on herättänyt vastustusta muun muassa Lahdessa ja Forssassa."
+    },
+    {
+      "title": "WSJ: Yhdysvallat menettää aseman tuhkarokon hävittäneenä maana",
+      "description": "Tuhkarokko saatiin hävitettyä Yhdysvalloista vuosituhannen vaihteessa tehokkailla rokotuskampanjoilla.",
+      "url": "https://yle.fi/a/74-20256953",
+      "category": "Ulkomaat",
+      "published": "2026-11-14T02:30:31+00:00",
+      "source_type": "full_article",
+      "script": "Amerikan terveysjärjestö PAHO on kumonnut Yhdysvaltain luokituksen tuhkarokon hävittäneenä maana. Maa kamppailee parhaillaan pahimman tuhkarokkoepidemiansa kanssa yli 30 vuoteen; tartuntoja on vahvistettu noin 7 500 ja kuolemantapauksia kolmetoista. Taudin paluun taustalla ovat rokotusvastaisuuden kasvu ja salaliittoteoriat. Vastaavan luokituksen ovat viime aikoina menettäneet myös Kanada, Espanja ja Britannia.",
+      "more": "Tuhkarokko saatiin aikanaan hävitettyä Yhdysvalloista tehokkailla rokotuskampanjoilla vuosituhannen vaihteessa."
+    },
+    {
+      "title": "Helsingissä tänään useita mielenosoituksia",
+      "description": "",
+      "url": "https://yle.fi/a/74-20256952",
+      "category": "Kotimaa",
+      "published": "2026-11-14T00:58:41+00:00",
+      "source_type": "full_article",
+      "script": "Helsingissä järjestetään tänään lauantaina useita mielenosoituksia. Elokapina osoittaa mieltä luonnon kantokyvyn puolesta marssimalla Rautatientorilta Eduskuntatalolle. Iltapäivällä järjestetään myös Gazan saarron lopettamista vaativa marssi sekä nuorten järjestämä mielenosoitus talouskuria ja elinkustannusten nousua vastaan.",
+      "more": "Kaikki kolme mielenosoitusta kokoontuvat iltapäivän aikana Rautatientorille."
+    },
+    {
+      "title": "Trump tapaa Xin ja Putinin ensi viikolla, vahvistaa Valkoinen talo",
+      "description": "Tapaaminen on määrä järjestää Aasian ja Tyynenmeren maiden talousjärjestö Apecin huippukokouksen yhteydessä.",
+      "url": "https://yle.fi/a/74-20256951",
+      "category": "Pääuutiset",
+      "published": "2026-11-13T23:51:26+00:00",
+      "source_type": "full_article",
+      "script": "Yhdysvaltain presidentti Donald Trump tapaa ensi viikon torstaina Kiinan presidentin Xi Jinpingin ja Venäjän presidentti Vladimir Putinin. Valkoisen talon vahvistama tapaaminen järjestetään Apec-huippukokouksen yhteydessä Kiinan Shenzhenissä. Tiedottajan mukaan johtajat keskustelevat muun muassa ydinaseiden vähentämisestä ja tilanteesta Iranissa. Kyseessä on ensimmäinen laatuaan oleva kolmenvälinen huippukokous.",
+      "more": "Yhdysvaltalaislähteiden mukaan Ukrainan tilanne ei ole esillä tässä tapaamisessa."
+    },
+    {
+      "title": "SpaceX:n historiallinen koelento epäonnistui",
+      "description": "Tavoitteena oli saada ensimmäistä kertaa sekä aluksen kantoraketti että alus turvallisesti takaisin laukaisualustalle.",
+      "url": "https://yle.fi/a/74-20256949",
+      "category": "Ulkomaat",
+      "published": "2026-11-13T23:32:21+00:00",
+      "source_type": "full_article",
+      "script": "Avaruusyhtiö SpaceX:n Starship-aluksen testilento päättyi perjantaina epäonnistumiseen teknisen vian vuoksi. Lennon päätavoitteena oli laskea ensimmäistä kertaa sekä kantoraketti että alus turvallisesti takaisin laukaisualustalle. Raketti putosi pian lähdön jälkeen Meksikonlahdelle, mutta varsinainen alus jatkoi matkaansa kohti Maan kiertorataa kuljettaen Starlink-satelliitteja. Kyseessä oli aluksen viidestoista testilento.",
+      "more": "Vika ilmeni heti lennon alkuvaiheessa kantoraketin osalta."
+    },
+    {
+      "title": "Hollanti moukaroi Kreikasta 7–0-voiton – Jürgen Kloppille toinen voitto Saksan peräsimessä serbialaisten lasten edessä",
+      "description": "Tijjani Reijnders pyssytti hattutempun Hollannin voitossa. Serbian kannattajia rankaistiin pääsykiellolla rasistisen ja syrjivän käytöksen vuoksi.",
+      "url": "https://yle.fi/a/74-20256947",
+      "category": "Urheilu",
+      "published": "2026-11-13T22:33:07+00:00",
+      "source_type": "full_article",
+      "script": "Jalkapallon Kansojen liigassa Alankomaat murskasi Kreikan maalein 7–0 Tijjani Reijndersin tehdessä hattutempun ensimmäisellä puoliajalla. Samassa lohkossa Saksa voitti Serbian vieraissa maalein 3–1. Saksan päävalmentaja Jürgen Klopp saavutti näin toisen voittonsa maajoukkueen peräsimessä. Serbia pelasi ottelun ilman kotiyleisöä rangaistuksena UEFA:n rasistisen käytöksen vuoksi, ja ottelu päättyi serbialaisilta kahden ulosajon myötä yhdeksällä pelaajalla.",
+      "more": "Alankomaat johtaa A2-lohkoa 11 pisteellä ennen maanantain päätöskierrosta."
+    },
+    {
+      "title": "Analyysi: Ukraina-neuvotteluissa on käsillä käänne, mutta kaksi olennaista kysymystä on auki",
+      "description": "Eurooppalaiset onnistuivat viimeinkin päättämään Ukraina-neuvotteluiden edustuksesta, ja se on tärkeä askel, kirjoittaa EU-kirjeenvaihtaja Elli Hiilamo.",
+      "url": "https://yle.fi/a/74-20256944",
+      "category": "Pääuutiset",
+      "published": "2026-11-13T21:43:22+00:00",
+      "source_type": "full_article",
+      "script": "Dublinissa kokoontuneet EU-maiden johtajat ovat päässeet sopuun yhteisestä edustuksesta tulevissa Ukraina-neuvotteluissa. Eurooppaa edustaa neuvottelupöydässä E5-maiden ja EU-instituutioiden muodostama tiimi. Vaikka lännen puolelta osallistuminen on varmistunut, Venäjän puolelta on esitetty epäilyjä eurooppalaisten ”aikeiden” selvittämisestä ennen hyväksyntää. Avoimeksi kysymykseksi jää myös se, kuka ottaa käytännön vetovastuun neuvotteluissa.",
+      "more": "EU-maat haluavat varmistaa, että Euroopan turvallisuusasiat käsitellään eurooppalaisten omassa pöydässä."
+    },
+    {
+      "title": "Viestintäongelmat pysäyttivät Yhdysvaltojen lentoliikenteen, suomalaismatkustaja jumiutui tunneiksi New Yorkiin",
+      "description": "Noin 15 000 lentoa peruuntui tai myöhästyi. Tilanteen normalisoituminen kestää useita päiviä.",
+      "url": "https://yle.fi/a/74-20256943",
+      "category": "Pääuutiset",
+      "published": "2026-11-13T21:05:01+00:00",
+      "source_type": "full_article",
+      "script": "Yhdysvaltain ilmailuhallinto FAA joutui keskeyttämään perjantaina lähes kaiken maan sisäisen ja kansainvälisen lentoliikenteen tuntikausiksi vakavan viestintäongelman vuoksi. Häiriö vaikutti noin 15 000 lentoon ja aiheutti kaaosta lukuisilla lentoasemilla. Liikenneministeri Sean Duffy syytti ongelmista vanhentunutta lennonjohdon laitteistoa ja vaati kongressilta mittavaa rahoitusta sen modernisoimiseksi. Normaalitilaan palaamisen arvioidaan kestävän useita päiviä.",
+      "more": "Eurocontrol keskeytti turvallisuussyistä tilapäisesti myös kaikki Yhdysvaltoihin suuntautuvat lennot jäsenmaistaan."
+    },
+    {
+      "title": "Naisleijonat kohtaa MM-välierässä hallitsevan maailmanmestarin Yhdysvallat",
+      "description": "Naisleijonien välierä pelataan sunnuntaina Suomen aikaa kello 16 alkaen. Toisessa välierässä pelaavat Kanada ja Ruotsi",
+      "url": "https://yle.fi/a/74-20256941",
+      "category": "Urheilu",
+      "published": "2026-11-13T21:03:44+00:00",
+      "source_type": "full_article",
+      "script": "Suomen naisten jääkiekkomaajoukkue eli Naisleijonat kohtaa Tanskassa pelattavien MM-kisojen välierissä hallitsevan maailmanmestarin Yhdysvallat. Välieräottelu pelataan sunnuntaina Suomen aikaa kello 16 alkaen. Suomi varmisti paikkansa mitalipeleissä kaatamalla puolivälierissä Saksan lukemin 6–0, kun taas Yhdysvallat pudotti Tanskan murskalukemin 14–0. Toisessa välierässä kohtaavat Ruotsi ja Kanada.",
+      "more": "Ruotsi eteni välieriin voittamalla Sveitsin maalein 1–0."
+    },
+    {
+      "title": "Yhdysvaltain joukot hakeutuivat suojaan droonihälytyksen vuoksi tukikohdassa Britanniassa",
+      "description": "Aiemmin syyskuussa viisi miestä pidätettiin Britanniassa epäiltyinä terrorismirikoksen valmistelusta Fairfordin lentotukikohdan lähellä.",
+      "url": "https://yle.fi/a/74-20256942",
+      "category": "Pääuutiset",
+      "published": "2026-11-13T20:48:52+00:00",
+      "source_type": "full_article",
+      "script": "Yhdysvaltain joukot joutuivat hakeutumaan suojaan Lakenheathin lentotukikohdassa Britanniassa luvattoman droonitoiminnan vuoksi. Britannian puolustusministeriön mukaan turvallisuusjoukot reagoivat tilanteeseen nopeasti ja tilanne on nyt ratkaistu. Tukikohdan henkilöstön tai kaluston ei raportoitu kärsineen vahinkoja. Tapaus sattui tilanteessa, jossa Yhdysvallat on siirtänyt alueelle Iranin iskuihin käytettäviä pommikoneita.",
+      "more": "Aiemmin syyskuussa Britanniassa pidätettiin viisi miestä epäiltyinä terrorismirikoksen valmistelusta toisen tukikohdan lähellä."
+    },
+    {
+      "title": "Tutkija: Euroopan sotilasmahdit voisivat turvata rauhaa Ukrainassa, ja siksi ne halutaan neuvottelemaan Venäjän kanssa",
+      "description": "Eurooppaa edustavat Ukrainan rauhanneuvotteluissa E5-maat, eli Ranska, Saksa, Italia, Puola ja Britannia sekä EU-instituutiot.",
+      "url": "https://yle.fi/a/74-20256938",
+      "category": "Politiikka",
+      "published": "2026-11-13T20:48:49+00:00",
+      "source_type": "full_article",
+      "script": "Helsingin yliopiston tutkija Timo Miettinen arvioi, että E5-maiden eli Ranskan, Saksan, Italian, Puolan ja Britannian sekä EU-instituutioiden valinta Euroopan edustajiksi Ukrainan rauhanneuvotteluihin korostaa kansallisen sotilasvallan merkitystä EU:n turvallisuuspolitiikassa. Mahdollisiin rauhantakeisiin kuuluva monikansallinen joukko vaatii vahvaa sotilaallista tukea, minkä vuoksi sotilasmahdit ovat mukana pöydässä. EU:n instituutiot puolestaan tuovat neuvotteluihin mukaan pakotteet ja jälleenrakennusrahoituksen.",
+      "more": "Neuvottelujen aloitusajankohdasta ei ole vielä tarkkaa tietoa."
+    },
+    {
+      "title": "Mediat: Tankkeri törmäsi risteilyalukseen Yhdysvalloissa",
+      "description": "Risteilyalus upposi osittain törmäyksen seurauksena. Kukaan ei loukkaantunut vakavasti.",
+      "url": "https://yle.fi/a/74-20256940",
+      "category": "Ulkomaat",
+      "published": "2026-11-13T20:24:02+00:00",
+      "source_type": "full_article",
+      "script": "Yhdysvalloissa New Orleansissa sattui vakava vesiliikenneonnettomuus, kun säiliöalus törmäsi Mississippi-joella risteilyalukseen. Pormestarin mukaan säiliöalus menetti hallintansa ennen törmäystä. Satamassa ollut risteilyalus upposi osittain, ja yli 30 ihmistä joutui sairaalahoitoon. Kukaan ei kuitenkaan loukkaantunut vakavasti, ja kaikki matkustajat saatiin evakuoitua turvallisesti.",
+      "more": "Noin 130 matkustajaa ja miehistön jäsentä oli aluksen kyydissä onnettomuushetkellä."
+    },
+    {
+      "title": "TPS:n nelosketjun miehet upottivat Jokerit – JYP kipusi sarjakakkoseksi",
+      "description": "Jääkiekon SM-liigassa tahkottiin perjantai-iltana seitsemän ottelun kierros.",
+      "url": "https://yle.fi/a/74-20256930",
+      "category": "Urheilu",
+      "published": "2026-11-13T19:57:14+00:00",
+      "source_type": "full_article",
+      "script": "Jääkiekon SM-liigassa nähtiin perjantaina seitsemän ottelun kierros, jossa TPS kukisti Jokerit maalein 4–3 turkulaisten nelosketjun tehomiesten johdolla. JYP voitti KooKoon vieraissa maalein 1–0 ja nousi sarjataulukossa toiseksi. Muissa otteluissa SaiPa voitti Ilveksen 4–3, HIFK kaatoi Tapparan 1–3, HPK voitti Jukurit 3–2, Kiekko-Espoo kukisti KalPan 4–1 ja Ässät haki 2–5-vierasvoiton Pelicansista.",
+      "more": "Jokerit aloitti ottelun vahvasti siirtymällä kahden maalin johtoon liigadebyyttinsä tehneen Ryan McGregorin maalilla."
+    },
+    {
+      "title": "Maata kiertää nyt uusi minikuu",
+      "description": "Arvioiden mukaan asteroidi nimeltään 2026 QQ8 kiertää planeettaa ainakin joulunpyhien yli.",
+      "url": "https://yle.fi/a/74-20256923",
+      "category": "Pääuutiset",
+      "published": "2026-11-13T19:49:25+00:00",
+      "source_type": "full_article",
+      "script": "Tähtitieteilijät ovat vahvistaneet Maan saaneen loppuvuodeksi uuden, noin kahden metrin kokoisen minikuun. Asteroidi 2026 QQ8 juuttui Maan kiertoradalle jo huhtikuussa, ja sen odotetaan kiertävän planeettaamme tammikuuhun saakka. Kohde on liian pieni aiheuttaakseen minkäänlaista vaaraa Maalle, ja se luokitellaan Aten-tyypin asteroidiksi. Löydöstä vastasi unkarilainen tutkija Krisztián Sárneczky.",
+      "more": "Vastaavanlainen minikuu oli Maan vetovoiman vangina edellisen kerran vuonna 2024."
     }
   ]
 }
