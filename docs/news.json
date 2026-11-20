@@ -1,205 +1,725 @@
 {
-  "generated": "2026-11-19T05:51:11.355155+00:00",
+  "generated": "2026-11-20T05:52:30.313145+00:00",
   "stories": [
     {
-      "title": "Ennätysmäärä Ukrainaa tukevia johtajia koolla Berliinissä tänään – nämä kolme asiaa ovat ratkaisevia tulevana talvena",
-      "description": "Ukrainan tukijoiden neuvottelupöydällä on muun muassa kymmenien miljardien eurojen aseapu ja tulevat turvatakuut.",
-      "url": "https://yle.fi/a/74-20256797",
+      "title": "Arvokkaimmat maisemat saattavat säästyä aurinkovoimarakentamiselta Uudellamaalla",
+      "description": "Uudenmaan liitto valmistelee listausta alueista, mihin aurinkovoimaa voi ja mihin ei voi rakentaa.",
+      "url": "https://yle.fi/a/74-20257427",
       "category": "Pääuutiset",
-      "published": "2026-11-19T05:34:59+00:00",
+      "published": "2026-11-20T05:29:29+00:00",
       "source_type": "full_article",
-      "script": "Ukrainan tukijat kokoontuvat torstaina Berliinissä arvioimaan tulevan talven tilannetta. Kokouksessa pyritään sopimaan kymmenien miljardien eurojen lisäavusta sekä vahvistamaan eurooppalaisia neuvottelutavoitteita ja sodanjälkeisiä turvatakuita.",
-      "more": "Samaan aikaan Apec-kokouksen yhteydessä Kiinassa on määrä järjestää Yhdysvaltain, Venäjän ja Kiinan johtajien yhteinen tapaaminen."
+      "script": "Uudenmaan liitto pitää merkittävänä Helsingin hallinto-oikeuden päätöstä, joka kumosi Loviisaan suunnitellun aurinkovoimalan osayleiskaavan maakunnallisesti arvokkaan kulttuuriympäristön vuoksi. Loviisan liitto toivoo tapauksesta ennakkopäätöstä, sillä vastaavia hankkeita on suunnittelella myös muun muassa Inkooseen ja Vihdin Selkiin. Samaan aikaan vireillä oleva alueidenkäyttölain uudistus on vähentämässä maakuntakaavan painoarvoa, minkä vuoksi Uudenmaan liitto laatii parhaillaan vihreän siirtymän vaihemaakuntakaavaa ja selvitystä aurinkovoimalle sopivista ja sopimattomista kohteista luonnon pirstoutumisen estämiseksi.",
+      "more": "Loviisassa aurinkovoimalaa suunnittelevalla Alightilla on vastaavia hankkeita vireillä myös Inkoossa ja Vihdissä. Vihdin Selkiin suunniteltu kohde on tulossa keskelle kylää laajalle peltoaukealle, mihin paikalliset viljelijät ovat suhtautuneet kriittisesti."
     },
     {
-      "title": "Trump ja Xi keskustelevat ennen kolmikon yhteistapaamista",
-      "description": "Yhdysvaltojen, Venäjän ja Kiinan presidenttien odotetaan keskustelevan Kiinassa muun muassa Venäjän hyökkäyssodasta Ukrainassa.",
-      "url": "https://yle.fi/a/74-20257747",
+      "title": "Suomalaisen Sensofusionin laitteet valvovat Ukrainan rintamaa – kehittää nyt jopa 600 km/h lentävää torjuntadroonia",
+      "description": "Yle seurasi Ukrainassa Sensofusionin Airfence-järjestelmän toimintaa. Yhtiö kertoo menevänsä yhä lähemmäksi rintamaa uusimman tiedon perässä.",
+      "url": "https://yle.fi/a/74-20257542",
+      "category": "Ulkomaat",
+      "published": "2026-11-20T05:15:35+00:00",
+      "source_type": "full_article",
+      "script": "Suomalainen droonintorjuntaan keskittyvä Sensofusion laajentaa toimintaansa Ukrainan rintamalla ja kehittää uusia teknologioita, kuten jopa 600 kilometriä tunnissa lentävää torjuntadroonia. Yhtiön Airfence-järjestelmä valvoo vihollisen radiotaajuuksia, ja Kiovassa toimiva yritys siirtyy entistä lähemmäksi rintamaa kerätäkseen tuoretta dataa uusista droonityypeistä. Sensofusionin johdon mukaan yhtiö aikoo lähettää ensi vuonna avaruuteen myös signaalitiedustelusatelliitin.",
+      "more": "Sensofusion listautui lokakuussa Helsingin pörssiin, ja sen arvo nousi heti yli miljardiin euroon. Yhtiön laitteita käytetään rintaman lisäksi myös muun muassa Israelin pääministerin toimiston ja Yhdysvaltain presidentin suojelussa."
+    },
+    {
+      "title": "Colorado päätti Anaheim-tähden lennon – Erik Haula synkensi Toronton kurimusta",
+      "description": "Erik Haula ja Miro Heiskanen onnistuivat suomalaisista maalinteossa yön NHL-kierroksella.",
+      "url": "https://yle.fi/a/74-20258040",
+      "category": "Urheilu",
+      "published": "2026-11-20T05:11:48+00:00",
+      "source_type": "full_article",
+      "script": "Jääkiekon NHL-kierroksella Los Angeles Kings voitti Toronto Maple Leafsin voittomaalikilpailun jälkeen maalein 4–3. Suomalaispelaajista Erik Haula vastasi Kingsin tasoitusmaalista, ja Joel Armia saalisti syöttöpisteen. Coloradon ja Anaheimin välisessä ottelussa Anaheimin Cutter Gauthierin hurja kymmenen ottelun maaliputki katkesi, kun Colorado voitti ottelun tylysti nollille, mikä tarkoittaa Teemu Selänteen pitämien peräkkäisten otteluiden maaliennätystä säilymistä ennallaan.",
+      "more": ""
+    },
+    {
+      "title": "Viisi teosta näyttää, miksi Helene Schjerfbeck oli poikkeuksellinen taiteilija",
+      "description": "Kuopion taidemuseossa on esillä muun muassa Hiljaisuus-teos, jonka arvo on miljoona euroa.",
+      "url": "https://yle.fi/a/74-20257989",
       "category": "Pääuutiset",
-      "published": "2026-11-19T03:48:17+00:00",
+      "published": "2026-11-20T05:02:56+00:00",
       "source_type": "full_article",
-      "script": "Yhdysvaltain presidentti Donald Trump ja Kiinan presidentti Xi Jinping ovat aloittaneet kahdenväliset keskustelunsa Kiinassa. Trump on ehtinyt tavata myös Venäjän presidentti Vladimir Putinin. Kolmen maan johtajien odotetaan pitävän historiallinen yhteistapaaminen torstaina.",
-      "more": "Tapaamisten pääaiheina ovat muun muassa Venäjän hyökkäyssota Ukrainassa, kauppasuhteet ja turvallisuuskysymykset."
+      "script": "Kuopion taidemuseossa on esillä poikkeuksellinen Helene Schjerfbeckin taideteosten näyttely, jossa on ensi kertaa esillä viisi merkittävää teosta yhdessä. Esillä olevien maalausten joukossa on muun muassa miljoonan euron arvoinen Hiljaisuus-teos. Näyttely tarjoaa katsauksen Schjerfbeckin taiteen kehityskaareen varhaisista historiamaalauksista aina sisäisen maailman syvällisiin kuvauksiin.",
+      "more": ""
     },
     {
-      "title": "Arvostettu brittitutkija kertoo, miten Yhdysvallat on muuttumassa Venäjäksi: ”Trumpin Putin-ihailu lähenee palvontaa”",
-      "description": "Eurooppa pyrkii Keir Gilesin mukaan liian laiskasti mukaan Ukraina-neuvotteluihin. Kirjassaan hän kuvaa, miten Venäjä on saanut otteen Yhdysvalloista.",
-      "url": "https://yle.fi/a/74-20257766",
+      "title": "Suomi pyrkii nyt tosissaan YK:n vallan ytimeen – Taalas: ”Emme voi syödä popcornia ja katsoa, kun maailma menee vinoon”",
+      "description": "Suomi hakee jälleen YK:n turvallisuusneuvostoon. Edellisen yrityksen kaatoi ”pohjoismainen besserwisseröinti”. Janne Taalas kertoo, mitä nyt tehdään toisin.",
+      "url": "https://yle.fi/a/74-20253559",
       "category": "Pääuutiset",
-      "published": "2026-11-19T03:30:35+00:00",
+      "published": "2026-11-20T04:30:35+00:00",
       "source_type": "full_article",
-      "script": "Brittiläinen Venäjä-tutkija Keir Giles arvioi uuden kirjansa julkaisun yhteydessä, että Yhdysvallat on omaksunut Venäjän vaatimuksia Euroopan turvallisuusarkkitehtuurin uudelleenjärjestelystä. Gilesin mukaan Euroopan tulisi toimia nykyistä aktiivisemmin rauhanneuvotteluissa.",
-      "more": "Giles kritisoi myös sitä, etteivät eurooppalaiset johtajat ole riittävän tiukasti torjuneet Moskovan tavoitteita."
+      "script": "Suomi hakee jälleen vaihtuvaa paikkaa YK:n turvallisuusneuvostosta kaudelle 2029–2030. Vastikään aloittanut Suomen YK-suurlähettiläs Janne Taalas korostaa, että tällä kertaa kampanjoinnissa keskitytään osoittamaan muille jäsenmaille konkreettisesti, miten ne hyötyvät Suomen jäsenyydestä. Edellisellä kerralla vuonna 2012 Suomen kampanja epäonnistui muun muassa liiallisen itsekeskeisyyden ja niin sanotun pohjoismaisen ylemmyydentunteen vuoksi.",
+      "more": ""
     },
     {
-      "title": "Tekoälyjätti Anthropic teki kaikkien aikojen listautumisennätyksen",
-      "description": "Yhtiö listautuu tänään teknologiapainotteiseen Nasdaq-pörssiin Yhdysvalloissa.",
-      "url": "https://yle.fi/a/74-20257789",
-      "category": "Talous",
-      "published": "2026-11-18T22:18:19+00:00",
-      "source_type": "full_article",
-      "script": "Tekoälyyhtiö Anthropic on kerännyt listautumisannillaan 81,3 miljardia dollaria, mikä tekee siitä kaikkien aikojen suurimman pörssilistautumisen. Yhtiö listautuu torstaina Yhdysvaltain Nasdaq-pörssiin.",
-      "more": "Listautumisen myötä yhtiön markkina-arvo nousee 1,5 biljoonaan dollariin."
-    },
-    {
-      "title": "Ryvettynyt Nvidia toi tekoälysijoittajille helpotuksen huokauksen – seuraava kompastinkivi odottaa huomisiltana",
-      "description": "Pörssit nousuun singonnut tekoälysektori on taitekohdassa. Hermostunut markkina sai hetkellisen helpotuksen, mutta seuraava jännityksen hetki odottaa huomenna.",
-      "url": "https://yle.fi/a/74-20257598",
-      "category": "Talous",
-      "published": "2026-11-18T11:54:45+00:00",
-      "source_type": "full_article",
-      "script": "Siruyhtiö Nvidia on julkistanut vahvan tuloksen, mikä on rauhoittanut tekoälymarkkinoiden hermostusta. Yhtiön liikevaihto ja voitto kasvoivat voimakkaasti, ja se nosti myös tulevaisuudennäkymiään.",
-      "more": "Sijoittajien katseet kääntyvät seuraavaksi torstai-iltaan ja Anthropicin pörssilistautumiseen."
-    },
-    {
-      "title": "Oliver Kapanen syötti voittomaalin, kun Connor Hellebuyckin dominointi katkesi NHL:ssä",
-      "description": "Montreal katkaisi New Jersey Devilsin kotivoittoputken ja Boston pilasi Detroitin juhlapäivän. Utahin ja Coloradon ottelu on vielä kesken.",
-      "url": "https://yle.fi/a/74-20257799",
-      "category": "Urheilu",
-      "published": "2026-11-19T05:46:36+00:00",
-      "source_type": "full_article",
-      "script": "Jääkiekon NHL:ssä Montreal Canadiens katkaisi New Jersey Devilsin pitkän kotivoittoputken maalein 3–2. Ottelun voittomaalin syöttänyt Oliver Kapanen oli ratkaisijana mukana.",
-      "more": "Voiton myötä Montreal nousi tasapisteisiin Devilsin kanssa itäisessä konferenssissa."
-    },
-    {
-      "title": "SaiPa ja KooKoo tyrmättiin toisissa erissä – kaikki suomalaisjoukkueet ulkona CHL:stä",
-      "description": "Jääkiekon Mestarien liigassa CHL:ssä ei nähdä yhtään suomalaisjoukkuetta kahdeksan parhaan joukossa.",
-      "url": "https://yle.fi/a/74-20257797",
-      "category": "Urheilu",
-      "published": "2026-11-19T05:02:30+00:00",
-      "source_type": "full_article",
-      "script": "Kaikki suomalaisjoukkueet ovat pudonneet jääkiekon Mestarien liigasta eli CHL:stä. Keskiviikkona KooKoo hävisi Eisbären Berlinille murskaluvuin 9–2 ja SaiPa kärsi tappion Pardubicelle.",
-      "more": "Jo aiemmin jatkosta pudonnut Tappara täydensi suomalaisten heikon kierroksen."
-    },
-    {
-      "title": "Utah Jazz selätti NBA:n kärkijoukkueen ilman Lauri Markkasta – Tuomas Iisalon valmentama Memphis voitti jälleen",
-      "description": "Utah Jazz voitti toista kertaa peräkkäin. Memphis on voittanut kauden kaikki kahdeksan vierasotteluaan.",
-      "url": "https://yle.fi/a/74-20257793",
-      "category": "Urheilu",
-      "published": "2026-11-19T03:15:38+00:00",
-      "source_type": "full_article",
-      "script": "Koripallon NBA:ssa Utah Jazz voitti toisen ottelun peräkkäin ilman loukkaantunutta Lauri Markkasta kaatamalla Los Angeles Lakersin. Tuomas Iisalon valmentama Memphis Grizzlies puolestaan jatkoi voittokulkuaan vieraissa.",
-      "more": "Memphis on voittanut kauden kaikki kahdeksan vierasotteluaan."
-    },
-    {
-      "title": "Valtteri Bottas jatkaa Cadillacin F1-tallissa",
-      "description": "F1-talli tiedotti Bottaksen kuljettajasopimuksen jatkosta keskiviikkona.",
-      "url": "https://yle.fi/a/74-20257785",
-      "category": "Urheilu",
-      "published": "2026-11-18T20:06:08+00:00",
-      "source_type": "full_article",
-      "script": "Valtteri Bottas jatkaa Formula 1 -sarjassa Cadillacin tallin kuljettajana myös kaudella 2027. Talli vahvisti jatkosopimuksen keskiviikkona.",
-      "more": "Bottas on ajanut tallin ensimmäisen kauden vaikeuksissa ilman MM-pisteitä."
-    },
-    {
-      "title": "Linn Svahn pitää Ruotsin hallituksen linjausta venäläishiihtäjistä oikeana: ”On väärin normalisoida Venäjän asemaa nyt”",
-      "description": "Ruotsalaishiihtäjä kertoi näkemyksistään sen jälkeen, kun hallitus oli ilmoittanut haluavansa estää venäläisurheilijoiden osallistumisen MM-kisoihin Falunissa.",
-      "url": "https://yle.fi/a/74-20257784",
-      "category": "Urheilu",
-      "published": "2026-11-18T19:36:10+00:00",
-      "source_type": "full_article",
-      "script": "Ruotsalainen huippuhiihtäjä Linn Svahn pitää maansa hallituksen linjausta oikeana pyrkimyksenä estää venäläisurheilijoiden osallistuminen Falunin MM-kisoihin. Svahnin mukaan Venäjän asemaa ei tule normalisoida urheilun kautta.",
-      "more": "Aiemmin myös Suomi ja Norja ovat ilmoittaneet pidättäytyvänsä viisumien myöntämisestä venäläisurheilijoille."
-    },
-    {
-      "title": "Van Goghin maalaus myytiin ennätyksellisellä 190 miljoonalla dollarilla",
-      "description": "Maalaus esittää kukkivia kastanjapuita ranskalaiskylässä, missä Van Gogh vietti viimeiset elinkuukautensa.",
-      "url": "https://yle.fi/a/74-20257791",
+      "title": "Jopa 70 euroon korotetut Kela-korvaukset yksityislääkärikäynneistä eivät THL:n mukaan kevennä julkisen sektorin taakkaa",
+      "description": "Noin puolet valinnanvapauskokeilun tuista on valunut lääkärikäynteihin, jotka olisi tehty myös ilman kokeilua ja siinä maksettavaa miltei 70 euron tukea.",
+      "url": "https://yle.fi/a/74-20257857",
       "category": "Pääuutiset",
-      "published": "2026-11-19T00:05:34+00:00",
+      "published": "2026-11-20T04:00:39+00:00",
       "source_type": "full_article",
-      "script": "Vincent van Goghin maalaus Kukkivat kastanjapuut vuodelta 1890 on huutokaupattu New Yorkissa ennätyksellisellä 190,4 miljoonan dollarin hinnalla.",
-      "more": "Teos myytiin Sotheby'sin huutokaupassa kolmen minuutin tarjouskilpailun jälkeen."
+      "script": "Terveyden ja hyvinvoinnin laitoksen THL:n ja Kelan tuoreen tutkimuksen mukaan hallituksen viime vuonna käynnistämä valinnanvapauskokeilu ei ole keventänyt julkisen terveydenhuollon taakkaa odotetulla tavalla. Jopa puolet kokeilun vajaasta 70 euron tuetuista lääkärikäynneistä on valunut käynteihin, jotka olisi tehty ilman kokeiluakin. Hyötyjinä ovat olleet erityisesti paremmassa sosioekonomisessa asemassa olevat henkilöt.",
+      "more": ""
     },
     {
-      "title": "”Erittäin hyvä, ellei täydellinen” – 13 vuotta odotettu uusi GTA julkaistiin Suomessa keskiyöllä",
-      "description": "Peliä on ollut tekemässä yli 4000 ihmistä yli miljardin dollarin tuotantobudjetilla.",
-      "url": "https://yle.fi/a/74-20257788",
-      "category": "Tuoreimmat",
-      "published": "2026-11-18T22:00:14+00:00",
+      "title": "Matias Lindforsista, 19, kohistaan maailmalla, mutta silti hän meinaa jäädä rannalle MM-kotikisoista",
+      "description": "Taitoluistelija Matias Lindforsin karisma, eläytyminen ja tulkinta herättävät huomiota. Silti hän voi jäädä rannalle MM-kotikisoista.",
+      "url": "https://yle.fi/a/74-20257262",
+      "category": "Urheilu",
+      "published": "2026-11-20T04:00:35+00:00",
       "source_type": "full_article",
-      "script": "Odotettu Grand Theft Auto VI -videopeli on julkaistu Suomessa keskiyöllä. Peliä on kehitetty yli kahdeksan vuotta yli miljardin dollarin budjetilla.",
-      "more": "Uutuus on saanut kriitikoilta heti poikkeuksellisen ylistäviä arvioita."
+      "script": "Taitoluistelija Matias Lindfors tavoittelee paikkaa maaliskuun MM-kotikisoista Tampereelta, vaikka häneltä puuttuvat vielä kansainvälisen liiton vaatimat vaikeimmat hypyt, kuten kolmoisakseli ja neloishyppy. 19-vuotias Suomen mestari on herättänyt kansainvälistä huomiota poikkeuksellisella karismallaan ja musiikin tulkinnallaan. Hän hakee tarvittavia teknisiä pisteitä tällä viikolla debytoidessaan Grand Prix -tasolla Helsingin Finlandia Trophyssa.",
+      "more": ""
     },
     {
-      "title": "Pelastusjohtaja varoittaa: Ydinvoimala ja öljysatama vaativat erityisvalmiuden",
-      "description": "Itä-Uudenmaan pelastusjohtajan mukaan lisäsäästöt eivät ole mahdollisia, koska Porvoon öljysatama ja Loviisan ydinvoimala vaativat erityisvalmiutta.",
-      "url": "https://yle.fi/a/74-20257790",
+      "title": "Huono ajokeli piinaa länsirannikkoa ja maan keskiosia",
+      "description": "Illalla ja yöllä on tullut lunta, mikä haittaa liikennettä.",
+      "url": "https://yle.fi/a/74-20258035",
+      "category": "Pääuutiset",
+      "published": "2026-11-20T04:00:22+00:00",
+      "source_type": "full_article",
+      "script": "Länsirannikolla ja maan keskiosissa on luvassa huonoja ajokelejä ilta- ja yöaikaan sataneiden lumien vuoksi. Sateet leviävät iltaa kohden pohjoiseen ja muuttuvat lumisemmiksi. Viikonlopun aikana maan keskiosiin odotetaan uusia, paikoin yli kymmenen senttimetrin lumikertymiä, ja pakkaset alkavat kiristyä maan pohjoisosassa.",
+      "more": ""
+    },
+    {
+      "title": "Memphis Grizzliesin voittotahti jatkui myös kotikentällä",
+      "description": "Memphis Grizzlies voitti Golden State Warriorsin selvin lukemin 126–98.",
+      "url": "https://yle.fi/a/74-20258036",
+      "category": "Urheilu",
+      "published": "2026-11-20T03:56:49+00:00",
+      "source_type": "full_article",
+      "script": "Koripallon NBA:ssa Tuomas Iisalon valmentama Memphis Grizzlies jatkoi vahvaa voittokulkuaan kaatamalla kotiparketillaan Golden State Warriorsin selvin lukemin 126–98. Ottelun parhaana pistemiehenä kunnostautui 22 pistettä heittänyt Jaylen Wells. Voitto oli Memphisille jo viides peräkkäinen, ja joukkue on tällä kaudella voittanut 16 ottelustaan 12.",
+      "more": ""
+    },
+    {
+      "title": "Jos uusi laki menee läpi, sarjavalittaja ei voisi valittaa kaikista kaavoista",
+      "description": "Kysymys asemakaavojen valitusoikeudesta on polttava esimerkiksi Helsingissä, missä kaavoitetaan ja rakennetaan paljon.",
+      "url": "https://yle.fi/a/74-20256364",
+      "category": "Pääuutiset",
+      "published": "2026-11-20T03:30:35+00:00",
+      "source_type": "full_article",
+      "script": "Hallitus esittää uutta alueidenkäyttölakia, joka rajaisi kansalaisten ja järjestöjen valitusoikeutta asemakaavoista hallinto-oikeuteen. Jatkossa yleiskaavaan perustuvista asemakaavoista saisivat valittaa pääasiassa vain lähimmät naapurit. Lakimuutoksen tavoitteena on vauhdittaa rakentamista ja nopeuttaa kaavojen lainvoimaistumista poistamalla niin sanottujen sarjavalittajien tekemät valitukset.",
+      "more": ""
+    },
+    {
+      "title": "Osta nyt, maksa myöhemmin -kauppojen ehdot kiristyvät",
+      "description": "Luotonantajan velvollisuuksia kiristetään. Lakiuudistuksella halutaan estää ylivelkaantumista.",
+      "url": "https://yle.fi/a/74-20257435",
+      "category": "Pääuutiset",
+      "published": "2026-11-20T03:07:35+00:00",
+      "source_type": "full_article",
+      "script": "Osta nyt, maksa myöhemmin -kauppojen ja lyhytaikaisten luottojen ehtoja kiristetään perjantaina EU:n uuden kuluttajaluottodirektiivin myötä. Luotonantajien on jatkossa selvitettävä tarkasti asiakkaan maksukyky ennen luoton myöntämistä riippumatta siitä, onko kyseessä koroton vai korollinen maksuaika. Lisäksi kuluttajille on annettava selkeät tiedot ehdoista ja koroista, ja heillä on oikeus peruuttaa sopimus 14 päivän kuluessa.",
+      "more": ""
+    },
+    {
+      "title": "Trumpin hallinnon kyberjohtaja sai potkut",
+      "description": "Kyberjohtajan lähtö seuraa viime päivien teknisiä häiriöitä Yhdysvalloissa, joilla ei maan johdon mukaan ole yhteyttä kyberhyökkäyksiin.",
+      "url": "https://yle.fi/a/74-20258034",
+      "category": "Pääuutiset",
+      "published": "2026-11-19T22:22:18+00:00",
+      "source_type": "full_article",
+      "script": "Valkoisen talon kansallinen kyberjohtaja Sean Cairncross on erotettu tehtävistään Yhdysvalloissa. Potkujen taustalla ovat viime päivinä maassa koetut laajat tietoliikennehäiriöt ja kasvava huoli tekoälyuhkista, vaikka viranomaisten mukaan häiriöillä ei ole yhteyttä kyberhyökkäyksiin. Cairncrossin vt. seuraajana aloittaa Kirsten Davies.",
+      "more": ""
+    },
+    {
+      "title": "Sofia Jahnukainen teki AS Roman voittomaalin naisten Mestarien liigan ottelussa Benficaa vastaan",
+      "description": "Jahnukainen pääsi kentälle ottelun 83. peliminuutilla. Maali syntyi kymmenen minuuttia myöhemmin.",
+      "url": "https://yle.fi/a/74-20258033",
+      "category": "Urheilu",
+      "published": "2026-11-19T22:16:51+00:00",
+      "source_type": "full_article",
+      "script": "HJK:sta kesällä AS Romaan siirtynyt Sofia Jahnukainen teki torstaina naisten Mestarien liigassa voittomaalin, kun italialaisjoukkue kukisti Benfican maalein 3–2. Jahnukainen vaihdettiin kentälle ottelun 83. minuutilla, ja hän iski ratkaisumaalin lisäajalla pelikellon näyttäessä lukemia 90+3.",
+      "more": ""
+    },
+    {
+      "title": "Pipon niellyt maailmankuulu virtahepo Fiona on kuollut",
+      "description": "Eläin kuoli torstaina komplikaatioihin nieltyään yli viikkoa aiemmin neulepipon.",
+      "url": "https://yle.fi/a/74-20258032",
+      "category": "Pääuutiset",
+      "published": "2026-11-19T21:42:19+00:00",
+      "source_type": "full_article",
+      "script": "Maailmankuulu virtahepo Fiona on kuollut Cincinnatin eläintarhassa Yhdysvalloissa. 9-vuotias virtahepo menehtyi torstaina komplikaatioihin oltuaan ympärivuorokautisessa hoidossa sen jälkeen, kun se oli niellyt aitaukseensa vahingossa lentäneen neulepipon.",
+      "more": ""
+    },
+    {
+      "title": "Suomalaiskappaleet soivat GTA 6:ssa",
+      "description": "GTA 6:ssa voi kuulla kolme suomalaista kappaletta.",
+      "url": "https://yle.fi/a/74-20257992",
+      "category": "Pääuutiset",
+      "published": "2026-11-19T19:29:11+00:00",
+      "source_type": "full_article",
+      "script": "Tulevassa Grand Theft Auto VI -pelissä kuullaan myös suomalaista musiikkia. Pelin radiokanavilta löytyy kolme suomalaista kappaletta: Mona Caritan Gloria, Rolf Bergströmin ja Pyhimysten Rokkibaby sekä Jean Sibeliuksen viidennen sinfonian kolmas osa.",
+      "more": ""
+    },
+    {
+      "title": "”Sano lapsille, että olen pahoillani” – Ylen työpari pelastui viime hetkellä Libanonin pommituksista",
+      "description": "Ylen toimittajat seurasivat viikkoja pelastajien työtä Etelä-Libanonissa. Videot paikan päältä näyttävät arjen Israelin ja Hizbollahin pommitusten keskellä.",
+      "url": "https://yle.fi/a/74-20252559",
+      "category": "Pääuutiset",
+      "published": "2026-11-19T19:22:20+00:00",
+      "source_type": "full_article",
+      "script": "Ylen toimittajat Viivi Berghem ja kuvaaja Janne Körkökö seurasivat viikkojen ajan vapaaehtoisten pelastajien arkea ankarasti pommitetussa Nabatiyén kaupungissa Etelä-Libanonissa. Vaarallisissa oloissa työskennellyt kaksikon matka huipentui vaikeaan evakuointiin Israelin ja Hizbollahin konfliktin keskeltä.",
+      "more": ""
+    },
+    {
+      "title": "Jättimäinen valofestivaali alkaa Oulun rumimmasta paikasta – hintalappu on yli puoli miljoonaa euroa",
+      "description": "Lumo-festivaaliin odotetaan noin 120 000 kävijää.",
+      "url": "https://yle.fi/a/74-20257951",
       "category": "Kotimaa",
-      "published": "2026-11-18T23:33:59+00:00",
+      "published": "2026-11-19T19:09:21+00:00",
       "source_type": "full_article",
-      "script": "Itä-Uudenmaan pelastusjohtaja Peter Johansson varoittaa, että pelastustoimeen kohdistettavat lisäsäästöt vaarantaisivat varautumisen. Alueella sijaitsevat muun muassa Loviisan ydinvoimala ja Porvoon öljysatama.",
-      "more": "Hyvinvointialueen valtuusto hyväksyi pelastustoimelle uuden palvelutasopäätöksen kymmenen prosentin säästövelvoitteella."
+      "script": "Oulussa alkaa torstaina nelipäiväinen Lumo-valofestivaali, jonka budjetti on kasvanut Euroopan kulttuuripääkaupunkivuoden ansiosta reiluun puoleen miljoonaan euroon. Tapahtumaan odotetaan jopa 120 000 kävijää, ja noin kuuden kilometrin mittainen teosreitti kulkee keskustan rumimmaksi äänestetystä paikasta aina Ainolanpuistoon ja Pikisaareen saakka.",
+      "more": ""
     },
     {
-      "title": "Katso, kuinka paljon Kela maksoi etuuksia kunnassasi – määrissä suuria eroja",
-      "description": "Suurimmat etuussummat asukasta kohden maksettiin viime vuonna Rautavaaran ja pienimmät Inkoon asukkaille.",
-      "url": "https://yle.fi/a/74-20257618",
-      "category": "Pääuutiset",
-      "published": "2026-11-19T04:00:35+00:00",
+      "title": "Viljami Nieminen nousi Sportin sankariksi kahdella maalilla – Tapparan ahdinko syveni entisestään",
+      "description": "Tapparalle torstain tappio oli jo viides peräkkäinen SM-liigassa. Sportin maalivahti Joni Ortio ja Viljami Nieminen olivat joukkueensa onnistujia.",
+      "url": "https://yle.fi/a/74-20258014",
+      "category": "Urheilu",
+      "published": "2026-11-19T19:09:20+00:00",
       "source_type": "full_article",
-      "script": "Kela on julkaissut tilastollisen vuosikirjansa, jonka mukaan suurimmat etuussummat asukasta kohden maksettiin viime vuonna Rautavaarassa ja pienimmät Inkoossa.",
-      "more": "Koko maassa Kela maksoi etuuksia keskimäärin noin 2 835 euroa asukasta kohden."
+      "script": "Jääkiekon SM-liigassa Vaasan Sport otti tärkeän jatkoaikavoiton Tapparasta maalein 3–2. Tapparalle tappio oli jo viides peräkkäinen, ja joukkue on valahtanut sarjataulukossa sijalle 11. Sportin sankariksi nousi kaksi maalia tehnyt Viljami Nieminen, joka ratkaisi ottelun jatkoajalla.",
+      "more": ""
     },
     {
-      "title": "Eduskunta hyväksyi lyhytvuokrauksen asunnoissa",
-      "description": "Kiistelty muutos rakentamislakiin on hyväksytty. Jatkossa voi tarjota asuntoaan lyhytvuokraukseen 90 vuorokautta vuodessa, kunnan päätöksellä jopa enemmänkin.",
-      "url": "https://yle.fi/a/74-20257761",
+      "title": "Harri Heliövaaran ja Henry Pattenin kausi päättyi tappioon Torinossa – Patten oli vaikeuksissa kentällä",
+      "description": "Ottelun molemmat erät etenivät katkaisupeliin. Ranskalaispari voitti katkaisupelit 7–5 ja 7–3.",
+      "url": "https://yle.fi/a/74-20258027",
+      "category": "Urheilu",
+      "published": "2026-11-19T19:05:28+00:00",
+      "source_type": "full_article",
+      "script": "Tenniksen ATP-finaaliturnauksessa Torinossa nelinpeliä pelaavat hallitsevat mestarit Harri Heliövaara ja Henry Patten päättivät kautensa tappioon. Suomalais-brittiläispari taipui ranskalaisparille Theo Arribage ja Albano Olivetti suoraan kahdessa erässä katkaisupelien jälkeen ja jäi lohkossaan kolmanneksi.",
+      "more": ""
+    },
+    {
+      "title": "Bolt-kyytien hinnat pomppasivat reilusti Helsingissä",
+      "description": "Syynä ovat tuhansia kävijöitä houkutellut kasvuyritystapahtuma Slush ja Boltin dynaaminen hinnoittelu.",
+      "url": "https://yle.fi/a/74-20258023",
       "category": "Kotimaa",
-      "published": "2026-11-18T15:50:06+00:00",
+      "published": "2026-11-19T18:35:02+00:00",
       "source_type": "full_article",
-      "script": "Eduskunta on hyväksynyt rakentamislakiin muutoksia, jotka säätelevät asuntojen lyhytvuokrausta. Jatkossa asuntoa voi tarjota lyhytvuokraukseen enintään 90 vuorokautta vuodessa ilman erillistä lupaa.",
-      "more": "Kunnat voivat päättää ajan pidentämisestä enintään 180 vuorokauteen."
+      "script": "Kyytipalvelu Boltin hinnat nousivat torstaina Helsingissä paikoin moninkertaisiksi. Hintapiikin taustalla on Pasilassa järjestetty kasvuyritystapahtuma Slush, joka houkauutteli kaupunkiin tuhansia kansainvälisiä vieraita, sekä yrityksen käyttämä dynaaminen hinnoittelu.",
+      "more": ""
     },
     {
-      "title": "Käräjäoikeuden johtaja: Halla-aho kutsuttiin oikeuteen jo vuosi sitten – näin puhemies kommentoi",
-      "description": "Käräjäoikeudessa piti alkaa oikeudenkäynti Halla-ahon kunnianloukkauksesta, mutta Halla-aho ei tullut paikalle.",
-      "url": "https://yle.fi/a/74-20257765",
+      "title": "Hurja onnettomuus Hämeenlinnanväylällä Vantaalla: auto katkesi kahtia",
+      "description": "Kuljettaja oli yksin autossa, ja hän loukkaantui törmäyksessä, poliisi tiedottaa.",
+      "url": "https://yle.fi/a/74-20258026",
+      "category": "Kotimaa",
+      "published": "2026-11-19T18:32:29+00:00",
+      "source_type": "full_article",
+      "script": "Hämeenlinnanväylällä Vantaalla tapahtui torstai-iltana vakava liikenneonnettomuus, jossa auto suistui tieltä, osui sivukaiteeseen ja törmäsi valotolppaan niin, että se katkesi kahtia. Auton moottori irtosi ja syttyi palamaan kaistojen väliin. Kuljettaja loukkaantui vakavasti, ja häntä epäillään törkeästä rattijuopumuksesta.",
+      "more": ""
+    },
+    {
+      "title": "Pentagon: Iranin sota on maksanut yli 48 miljardia dollaria",
+      "description": "",
+      "url": "https://yle.fi/a/74-20258025",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T18:25:46+00:00",
+      "source_type": "full_article",
+      "script": "Pentagonin apulaistarkastaja Arthur Miller kertoi torstaina lisensoijille, että Yhdysvalloille on koitunut helmikuun lopun jälkeen yli 48 miljardin dollarin kustannukset sodasta Irania vastaan.",
+      "more": ""
+    },
+    {
+      "title": "Analyysi: Perussuomalaisten puheet jyrkkenevät, mutta Orpo tuntuu heittäneen hanskat tiskiin",
+      "description": "Onko Orpo vaalien lähestyessä todennut, ettei perussuomalaisille kannata esittää vaatimuksia, jotka eivät johda mihinkään?",
+      "url": "https://yle.fi/a/74-20257994",
       "category": "Pääuutiset",
-      "published": "2026-11-18T15:46:13+00:00",
+      "published": "2026-11-19T18:18:47+00:00",
       "source_type": "full_article",
-      "script": "Helsingin käräjäoikeuden johtaja vahvistaa, että eduskunnan puhemies Jussi Halla-aho haastettiin oikeuteen kunnianloukkauksesta jo vuosi sitten. Halla-aho ei kuitenkaan saapunut keskiviikkona alkaneeseen oikeudenkäyntiin.",
-      "more": "Oikeuden mukaan Halla-aholle ei oltu lähetetty tuoretta kutsua inhimillisen virheen vuoksi, mutta aiempi haaste teki hänestä saapumisvelvollisen."
+      "script": "Pääministeri Petteri Orpo kommentoi europarlamentaarikko Sebastian Tynkkysen esittämää kritiikkiä SDP:n kansanedustajaa Nasima Razmyaria kohtaan täysin ala-arvoiseksi. Vaikka Tynkkysen somekirjoitus on herättänyt laajaa paheksuntaa ja Razmyar harkitsee oikeustoimia, pääministeri Orpo ei vaatinut perussuomalaisten eduskuntaryhmältä jatkotoimia, koska Tynkkynen ei toimi kansanedustajana.",
+      "more": ""
     },
     {
-      "title": "Eduskunta hyväksyi rajaturvallisuuslain jatkon – SDP:n kapinallisista kolme oli pois äänestyksestä",
-      "description": "SDP:n eduskuntaryhmän puheenjohtajan Tytti Tuppuraisen mukaan kaikilla pois jääneillä oli hyväksyttävä syy. Entinen pääministeri Antti Rinne arvosteli puolueensa johtoa tiukasti.",
-      "url": "https://yle.fi/a/74-20257643",
+      "title": "Kotkan kaupunki antoi ympäristöluvan yritykselle, joka tuottaa melua ja pölyä 30 metrin päässä Hannu Ropposen kodista",
+      "description": "Lupa- ja valvontavirasto sekä omakotiyhdistys valittivat luvasta, jonka Kotkan ympäristölautakunta myönsi kierrätysyritykselle.",
+      "url": "https://yle.fi/a/74-20257259",
+      "category": "Kotimaa",
+      "published": "2026-11-19T17:51:44+00:00",
+      "source_type": "full_article",
+      "script": "Kotkan Hakamäessä asuva Hannu Ropponen on kyllästynyt kotinsa lähellä sijaitsevan kierrätysalan yrityksen aiheuttamaan meluun ja pölyyn. Vaikka Kotkan ympäristölautakunta myönsi yritykselle ympäristöluvan, Lupa- ja valvontavirasto ja paikallinen omakotiyhdistys ovat valittaneet luvasta hallinto-oikeuteen, minkä vuoksi yrityksen laajempi toiminta on toistaiseksi tauolla.",
+      "more": ""
+    },
+    {
+      "title": "Otto Virtanen voitti Talissa ja eteni kolmannelle kierrokselle – Eero Vasan yllätykset jäivät yhteen otteluun",
+      "description": "Virtanen voitti Talissa Sveitsin Alexander Ritschardin 2–1. Vasa hävisi samassa turnauksessa Liettuan Edas Butvilakselle 0–2.",
+      "url": "https://yle.fi/a/74-20258021",
+      "category": "Urheilu",
+      "published": "2026-11-19T17:47:18+00:00",
+      "source_type": "full_article",
+      "script": "Tenniksen ATP-haastajaturnauksessa Talissa Otto Virtanen eteni kolmannelle kierrokselle voittamalla Sveitsin Alexander Ritschardin erin 2–1. Sen sijaan villillä kortilla mukaan päässyt Eero Vasa hävisi oman ottelunsa Liettuan Edas Butvilakselle suoraan kahdessa erässä.",
+      "more": ""
+    },
+    {
+      "title": "Elenia antaa reilun 50 prosentin alennuksen: omakotitalossa voidaan säästää yli 400 euroa neljässä kuukaudessa",
+      "description": "Yhtiö pudottaa hintojaan vain määräajaksi, ja ne palautuvat normaalille tasolle heti toukokuussa.",
+      "url": "https://yle.fi/a/74-20258011",
+      "category": "Kotimaa",
+      "published": "2026-11-19T17:38:31+00:00",
+      "source_type": "full_article",
+      "script": "Sähköverkkoyhtiö Elenia laskee asiakkaidensa sähkönsiittomaksuja tammi-huhtikuun ajaksi antamalla 95 prosentin alennuksen siirtohinnoista. Todellinen alennus siirtolaskun loppusummasta on verojen vuoksi arviolta 50–95 prosentin välillä. Taustalla on Energiaviraston tulkinta aiemmista kirjausmenettelyistä.",
+      "more": ""
+    },
+    {
+      "title": "Merz: Putinin, Xin ja Trumpin huippukokous oli ”vain valokuvatilaisuus”",
+      "description": "",
+      "url": "https://yle.fi/a/74-20258017",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T17:10:13+00:00",
+      "source_type": "full_article",
+      "script": "Saksan liittokansleri Friedrich Merz kuvaili Yhdysvaltain, Venäjän ja Kiinan presidenttien välistä huippukokousta valokuvatilaisuudeksi ja totesi, että mikään Jalta-malli ei voi tuoda rauhaa Ukrainaan ilman Euroopan ja Ukrainan osallistumista neuvotteluihin.",
+      "more": ""
+    },
+    {
+      "title": "Mira Heijan puoliso loukkaantui Pispalan valtatien kolarissa: ”Tilanne alkaa olla jo vähän hälyttävä”",
+      "description": "Pispalalainen Mira Heija on huolissaan tien turvallisuudesta. Tampere on kiinnittänyt turvattomuuteen huomiota, mutta isoja, nopeita remontteja ei ole luvassa.",
+      "url": "https://yle.fi/a/74-20257653",
+      "category": "Kotimaa",
+      "published": "2026-11-19T17:06:33+00:00",
+      "source_type": "full_article",
+      "script": "Tampereella Pispalan valtatien liikenneturvallisuus herättää huolta sen jälkeen, kun alueella on tapahtunut useita vakavia onnettomuuksia. Viimeisin tapaus sattui sunnuntaina, jolloin auto törmäsi suojatiellä kahteen jalankulkijaan, minkä seurauksena paikallisen asukkaan puoliso loukkaantui vakavasti. Kaupunki tutkii parhaillaan kevyempiä keinoja suojateiden turvallisuuden parantamiseksi.",
+      "more": ""
+    },
+    {
+      "title": "Saitko potkut tekoälyn vuoksi? Kerro Ylelle, teemme juttua",
+      "description": "Useat työnantajat ovat perustelleet muutosneuvotteluja tänä vuonna tekoälyn nopean kehityksen aiheuttamilla muutoksilla.",
+      "url": "https://yle.fi/a/74-20258000",
+      "category": "Kotimaa",
+      "published": "2026-11-19T17:05:24+00:00",
+      "source_type": "full_article",
+      "script": "Useat suomalaisyritykset ovat tänä vuonna perustelleet irtisanomisia ja muutosneuvotteluja tekoälyn nopealla kehityksellä. Esimerkiksi kyberturvallisuusyhtiö F-Secure ilmoitti tällä viikolla vähentävänsä yli sata työntekijää tekoälymurroksen siivittämänä.",
+      "more": ""
+    },
+    {
+      "title": "Kuvatoimistot jakoivat tekoälyn tekemää kuvaa Kertšinsalmen sillasta uutiskuvana",
+      "description": "Ylen verifiointitiimi havaitsi, että kuva oli tehty tekoälyllä.",
+      "url": "https://yle.fi/a/74-20258002",
+      "category": "Kotimaa",
+      "published": "2026-11-19T16:55:09+00:00",
+      "source_type": "full_article",
+      "script": "Kuvatoimisto All Over Press välitti uutiskuvana tekoälyllä luotua kuvaa Krimin sillasta, ja kuva ehti julkaistua myös Ylen ja muiden medioiden uutisissa ennen sen paljastumista tekoälytuotannoksi. Kuvatoimisto kertoo kuvan tulleistaan yhteistyökumppaninsa Shutterstockin kautta.",
+      "more": ""
+    },
+    {
+      "title": "Näin pelialaa opiskeleva Sofia Martikainen arvioi uutta GTA VI -videopeliä: ”Olen jopa vähän yllättynyt”",
+      "description": "GTA VI nostaa naisen toiseksi pelin päähahmoista. Pelialaa opiskeleva Sofia Martikainen on innoissaan uudistuksesta.",
+      "url": "https://yle.fi/a/74-20257890",
+      "category": "Kotimaa",
+      "published": "2026-11-19T16:54:49+00:00",
+      "source_type": "full_article",
+      "script": "Torstaina julkaistu Grand Theft Auto VI -videopeli on herättänyt suurta innostusta pelialaa opiskelevien keskuudessa, sillä se nostaa naisen eli Lucia-nimisen hahmon toiseksi pelin päähenkilöistä. Opiskelijat pitävät uudistusta tervetulleena ja odottavat peliltä poikkeuksellista laatua ja uusia pelimekaniikkoja.",
+      "more": ""
+    },
+    {
+      "title": "Maailman johtava siruteknologian tutkimuskeskus on perustanut Pohjoismaiden yksikkönsä Suomeen",
+      "description": "Imec lupaa auttaa suomalaisyrityksiä tuomaan markkinoille uusia sovelluksia ja teknologiaa.",
+      "url": "https://yle.fi/a/74-20257961",
+      "category": "Kotimaa",
+      "published": "2026-11-19T16:51:19+00:00",
+      "source_type": "full_article",
+      "script": "Maailman johtava mikro- ja nanoelektroniikan tutkimuskeskus Imec on avannut Pohjoismaiden ensimmäisen yksikkönsä Espoon Keilaniemeen. Yksikkö keskittyy hyödyntämään optiikkaa, fotoniikkaa ja tekoälyä uusien siruteknologioiden kehittämisessä ja auttamaan suomalaisyrityksiä tuomaan sovelluksia markkinoille.",
+      "more": ""
+    },
+    {
+      "title": "Yle tavoitti työsyrjinnästä epäiltyjä Oulun johtohahmoja",
+      "description": "Poliisi epäilee kymmentä henkilöä virka-aseman väärinkäytöstä liittyen Oulun entisen palvelussuhdepäällikön irtisanomiseen. Asia on siirtynyt syyteharkintaan.",
+      "url": "https://yle.fi/a/74-20257750",
+      "category": "Kotimaa",
+      "published": "2026-11-19T16:50:34+00:00",
+      "source_type": "full_article",
+      "script": "Oulun kaupunginjohtaja Ari Alatossava sekä kahdeksan kaupunginhallituksen jäsentä ja kaupunginlakimies kiistävät syyllistyneensä rikoksiin asiassa, joka on siirtynyt syyteharkintaan virka-aseman väärinkäytöstä ja työsyrjinnästä. Epäilyt liittyvät tammikuussa 2025 tehtyyn entisen palvelussuhdepäällikön Mauri Mikkolan irtisanomiseen.",
+      "more": ""
+    },
+    {
+      "title": "Analyysi: Airbnb-villitys tuskin loppuu Rovaniemellä – uusi laki ei osu sesonkivuokraukseen",
+      "description": "Järjestelmä ei kuulosta täysin vedenpitävältä. Maallikko voisi kysyä, mitä merkitystä on lailla, jos sitä ei voi valvoa, kirjoittaa toimittaja Armi Auvinen.",
+      "url": "https://yle.fi/a/74-20257840",
+      "category": "Kotimaa",
+      "published": "2026-11-19T16:47:54+00:00",
+      "source_type": "full_article",
+      "script": "Eduskunnan hyväksymä uusi rakentamislaki tuo Suomeen lyhytvuokrauksen virallisen määritelmän, mutta se ei ratkaise Rovaniemen kaltaisten matkailukaupunkien asuntohaasteita. Laki sallii sijoitusasuntojen lyhytvuokrauksen 90–180 päivänä vuodessa, mikä kattaa sesonkivuokrauksen tarpeet, eikä siihen sisälly toistaiseksi vaadittua rekisteröintivelvoitetta valvonnan helpottamiseksi.",
+      "more": ""
+    },
+    {
+      "title": "LVV: Kaskinen selvitti häirintätapaukset puutteellisesti – kahden työntekijän terveys vaarantui",
+      "description": "Kahden Kaskisten kaupungilla työskentelevän naisen Lupa- ja valvontavirastolle tekemät valvontapyynnöt koskivat häirintää ja epäasiallista kohtelua.",
+      "url": "https://yle.fi/a/74-20257759",
+      "category": "Kotimaa",
+      "published": "2026-11-19T16:42:47+00:00",
+      "source_type": "full_article",
+      "script": "Lupa- ja valvontavirasto on arvioinut Kaskisten kaupungin selvittäneen kaupunginjohtajaan liittyviä häirintäepäilyjä puutteellisesti. Kaksi kaupungin työntekijää oli tehnyt valvontapyynnin kaupunginjohtajan epäasiallisesta kohtelusta, joka on vaarantanut heidän terveyttään. Virasto on antanut kaupungille toimintaohjeen asian perusteellisemmaksi selvittämiseksi.",
+      "more": ""
+    },
+    {
+      "title": "Anthropicin osake päätyi lähes sataan dollariin",
+      "description": "",
+      "url": "https://yle.fi/a/74-20258013",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T16:32:32+00:00",
+      "source_type": "full_article",
+      "script": "Teknologiapörssi Nasdaqiin listautuneen tekoälyjätti Anthropicin osakekauppa sulkeutui torstaina Yhdysvalloissa noin 97 dollarin hintaan, mikä on 17 prosenttia enemmän kuin sen alun perin ilmoitettu listautumishinta.",
+      "more": ""
+    },
+    {
+      "title": "Bayern Münchenin päävalmentaja palaa penkin taakse vakavan sairastumisensa jälkeen – kuvaili aikaa hyvin rankaksi",
+      "description": "Vincent Kompany vakuutti torstaisessa tiedotustilaisuudessa olevansa nyt terve. Hän lyyhistyi lokakuussa reservijoukkueen harjoituksissa ja joutui sairaalaan.",
+      "url": "https://yle.fi/a/74-20258005",
+      "category": "Urheilu",
+      "published": "2026-11-19T16:28:20+00:00",
+      "source_type": "full_article",
+      "script": "Bayern Münchenin päävalmentaja Vincent Kompany palaa valmennustehtäviin perjantaina Kölniä vastaan pelattavassa Bundesliigan ottelussa oltuaan kuukauden sivussa sairastuttuaan lokakuussa vakavaan aivokalvontulehdukseen.",
+      "more": ""
+    },
+    {
+      "title": "Presidentti Stubb: Trump on kehottanut olemaan yhteydessä Putiniin",
+      "description": "Stubb osallistui torstaina halukkaiden koalition kokoukseen Berliinissä.",
+      "url": "https://yle.fi/a/74-20258006",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T16:19:34+00:00",
+      "source_type": "full_article",
+      "script": "Presidentti Alexander Stubb kertoi Berliinissä halukkaiden koalition kokouksen yhteydessä Yhdysvaltain presidentin Donald Trumpin kehottaneen Eurooppaa pitämään suoraan yhteyttä Venäjän presidentti Vladimir Putiniin sodan lopettamiseksi. Stubb vahvisti myös Suomen ulkoministeriön tiedon siitä, että Venäjä on kutsunut Suomen suurlähettilään sijaisen puhutteluun venäläisurheilijoiden maahantulorajoitusten vuoksi.",
+      "more": ""
+    },
+    {
+      "title": "Jorma Lillbacka muistetaan tekijämiehenä, jolle mikään ei ollut mahdotonta: ”Jos sitä ei ole, niin tehrään​”",
+      "description": "Torstaina kuollut yrittäjä jätti monen eteläpohjalaisen mielestä ison jäljen koko seudun matkailuun ja elinvoimaan.",
+      "url": "https://yle.fi/a/74-20257928",
+      "category": "Kotimaa",
+      "published": "2026-11-19T16:13:46+00:00",
+      "source_type": "full_article",
+      "script": "Eteläpohjalainen yrittäjä ja huvipuisto Powerparkin perustaja Jorma Lillbacka on kuollut 80-vuotiaana. Lillbacka muistetaan merkittävänä työllistäjänä ja konepajateollisuuden uranuurtajana, joka loi alueelle huomattavasti taloudellista elinvoimaa.",
+      "more": ""
+    },
+    {
+      "title": "Kemijoki oy tarjoaa Kemijärvelle vedenpinnan korotusta ja miljoonatuloja",
+      "description": "Kemijoki oy tarjoaa muun muassa säännöstelyn vähentämistä, jos pumppuvoimala rakennetaan Kemijärvelle. Lisäksi se lupaa miljoonien eurojen kiinteistöverotuloja.",
+      "url": "https://yle.fi/a/74-20258008",
+      "category": "Talous",
+      "published": "2026-11-19T16:07:21+00:00",
+      "source_type": "full_article",
+      "script": "Vesivoimayhtiö Kemijoki oy esitti torstaina Kemijärven kaupunginhallitukselle suunnitelman Ailangantunturin pumppuvoimalahankkeesta. Yhtiö lupaa vastineeksi Kemijärven eteläosan säännöstelyn vähentämistä sekä miljoonien eurojen kiinteistöverotuloja kaupungille, vaikka valtuusto on aiemmin tehnyt periaatepäätöksen vastustaa pumppuvoimaloita.",
+      "more": ""
+    },
+    {
+      "title": "Etelä-Suomi saanee lunta sunnuntaina – maahan se ei välttämättä jää",
+      "description": "Ensi viikon alkupuolella sää muuttuu huomattavasti poutaisemmaksi, mutta samalla selvästi kylmemmäksi.",
+      "url": "https://yle.fi/a/74-20257943",
+      "category": "Kotimaa",
+      "published": "2026-11-19T16:04:44+00:00",
+      "source_type": "full_article",
+      "script": "Etelä-Suomeen on luvassa sunnuntaina mahdollisia lumisateita, joskin säämallien välillä on vielä epävarmuutta siitä, jääkö lumi maahan plussakelien vuoksi. Maan keskiosiin odotetaan loppuviikon aikana yli kymmenen sentin lumikertymiä, ja ensi viikon alkupuolella sää muuttuu poutaisemmaksi mutta selvästi kylmemmäksi.",
+      "more": ""
+    },
+    {
+      "title": "Tähtitieteen virstanpylväs: Nasan luotain edennyt maasta etäisyydelle, joka vastaa valon kulkemaa matka vuorokaudessa",
+      "description": "Voyager 1 -luotain lähetettiin matkaan vuonna 1977.",
+      "url": "https://yle.fi/a/74-20258007",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T16:04:44+00:00",
+      "source_type": "full_article",
+      "script": "Nasan vuonna 1977 avaruuteen lähettämä Voyager 1 -luotain on saavuttanut uuden virstanpylvään ohittamalla etäisyyden, joka vastaa valon vuorokaudessa kulkemaa matkaa eli 26 miljardia kilometriä. Luotain jatkaa edelleen tieteellisten tietojen lähettämistä maahan tähtienvälisestä avaruudesta.",
+      "more": ""
+    },
+    {
+      "title": "Ferrarin toimitusjohtaja toi yhtiön ensimmäisen sähköauton Helsingin Slushiin: ”Emme voi olla yhtiö, joka elää museossa”",
+      "description": "Viisi vuotta Ferraria johtanut Benedetto Vigna pitää ikonista urheiluautovalmistajaa yhä startupina. Vigna esitteli yhtiön ensimäistä täyssähköautoa Slushissa.",
+      "url": "https://yle.fi/a/74-20257879",
+      "category": "Talous",
+      "published": "2026-11-19T15:54:46+00:00",
+      "source_type": "full_article",
+      "script": "Ferrarin toimitusjohtaja Benedetto Vigna esitteli yhtiön ensimmäistä täyssähköautoa Luceja Helsingin Slush-tapahtumassa. Yli puoli miljoonaa euroa maksava sähköauto on myyty loppuun tämän ja ensi vuoden osalta huolimatta julkaisua seuranneesta alustavasta kritiikistä.",
+      "more": ""
+    },
+    {
+      "title": "Venäjä kutsui Suomen suurlähettilään sijaisen puhutteluun",
+      "description": "Venäjä protestoi Suomen päätöstä asettaa lisärajoituksia Venäjän kansalaisten maahantulolle.",
+      "url": "https://yle.fi/a/74-20258004",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T15:39:56+00:00",
+      "source_type": "full_article",
+      "script": "Venäjän ulkoministeriö kutsui torstaina Suomen Moskovan-suurlähettilään sijaisen puhutteluun vastalauseena Suomen päätökselle asettaa tiukkoja maahantulorajoituksia Venäjän kansalaisille ja urheilijoille ennen Rukan maailmancupia.",
+      "more": ""
+    },
+    {
+      "title": "Hallitseva maratonin maailmanmestari Peres Jepchirchir on saanut kolmen vuoden kilpailukiellon",
+      "description": "Kenialaisen Jepchirchirin kilpailun ulkopuolella antamasta testinäytteestä löytyi elokuussa jälkiä urheilussa kielletyn epohormonin käytöstä.",
+      "url": "https://yle.fi/a/74-20258003",
+      "category": "Urheilu",
+      "published": "2026-11-19T15:36:43+00:00",
+      "source_type": "full_article",
+      "script": "Maratonin naisten hallitseva maailmanmestari ja olympiavoittaja Peres Jepchirchir on tuomittu kolmen vuoden kilpailukielloon elokuussa annetusta positiivisesta dopingnäytteestä, josta löytyi epohormonin jälkiä.",
+      "more": ""
+    },
+    {
+      "title": "Ilmastokokous ei halua puuttua fossiilisten polttoaineiden käyttöön",
+      "description": "",
+      "url": "https://yle.fi/a/74-20258001",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T15:26:50+00:00",
+      "source_type": "full_article",
+      "script": "Turkissa pidettävän YK:n COP31-ilmastokokouksen tuoreesta päätöslauselmaluonnoksesta on poistettu aiemmat vaatimukset fossiilisten polttoaineiden käytöstä luopumisesta monien maiden vastustuksen vuoksi.",
+      "more": ""
+    },
+    {
+      "title": "Media: Sveitsi sallii venäläishiihtäjien tulon Davosin maailmancupin kilpailuihin",
+      "description": "Maastohiihdon maailmancup-kausi alkaa ensi viikolla Rukalla. Davosissa kisataan joulukuussa.",
+      "url": "https://yle.fi/a/74-20257997",
+      "category": "Urheilu",
+      "published": "2026-11-19T15:21:05+00:00",
+      "source_type": "full_article",
+      "script": "Uutistoimisto RIA Novostin mukaan Sveitsi sallii venäläisten maastohiihtäjien osallistumisen joulukuussa järjestettävään Davosin maailmancup-tapahtumaan Kansainvälisen hiihtoliiton sääntöjen mukaisesti, vaikka Suomi ja Norja ovat asettaneet tiukkoja maahantulorajoituksia venäläisurheilijoille.",
+      "more": ""
+    },
+    {
+      "title": "Euroopan on syytä olla huolissaan, arvioi asiantuntija suurvaltajohtajien tapaamista",
+      "description": "Suurvaltajohtajien tapaamisessa ei kerrottu tarkkoja yksityiskohtia. Silti tutkimusprofessori Mikael Mattlin pitää viestiä Euroopalle huolestuttavana.",
+      "url": "https://yle.fi/a/74-20257940",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T15:16:57+00:00",
+      "source_type": "full_article",
+      "script": "Ulkopoliittisen instituutin tutkimusprofessori Mikael Mattlin pitää Kiinan Shenzhenissä pidettyä Yhdysvaltain, Venäjän ja Kiinan johtajien huippukokousta Euroopan kannalta huolestuttavana merkkinä siitä, että Eurooppa on vaarassa ajautua sivuraiteelle suurvaltojen päättäessä turvallisuusjärjestelyistä.",
+      "more": ""
+    },
+    {
+      "title": "Helmareiden päävalmentaja kertoo italialaisten likaisesta pelistä ennen otteluparia: ”Ikipäivänä ei tapahtuisi miehissä”",
+      "description": "Italialaisten metkut eivät tulleet Marko Salorannalle yllätyksenä. Häntä harmittaa, että tällainen toiminta sallitaan naisjalkapalloilussa.",
+      "url": "https://yle.fi/a/74-20257901",
+      "category": "Urheilu",
+      "published": "2026-11-19T14:35:35+00:00",
+      "source_type": "full_article",
+      "script": "Suomen naisten jalkapallomaajoukkueen päävalmentaja Marko Saloranta kritisoi voimakkaasti Italian jalkapalloliiton toimintaa ennen tulevaa MM-jatkokarsintaotteluparia, sillä italialaiset ovat vaikeuttaneet suomalaisten ottelujärjestelyitä ja harjoituskenttäolosuhteita.",
+      "more": ""
+    },
+    {
+      "title": "Olli Lahtisen miljoonat syntyivät pelialalla – hän epäilee, että vastaava ei ole kohta enää mahdollista",
+      "description": "Kitka Gamesin toimitusjohtaja Olli Lahtinen arvioi tekoälyn kehityksen voivan vähentää merkittävästi pelialan työpaikkoja ja muuttaa koko alan toimintaa.",
+      "url": "https://yle.fi/a/74-20257280",
+      "category": "Talous",
+      "published": "2026-11-19T14:33:57+00:00",
+      "source_type": "full_article",
+      "script": "Kitka Gamesin toimitusjohtaja Olli Lahtinen arvioi tekoälyn mullistavan pelialaa siinä määrin, että varsinainen ohjelmointityö saattaa pitkälti loppua muutamassa vuodessa. Lahtinen epäilee tekoälyn vaikuttavan merkittävästi myös alan yritysten tulevaisuudennäkymiin ja työpaikkojen määrään.",
+      "more": ""
+    },
+    {
+      "title": "EU lykkää ilmastonmuutosta hillitsevän lain voimaantuloa",
+      "description": "",
+      "url": "https://yle.fi/a/74-20257986",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T14:25:13+00:00",
+      "source_type": "full_article",
+      "script": "Euroopan unioni on päättänyt lykätä metaanipäästöjä koskevan lain täytäntöönpanon vuoteen 2029 energiansaannin turvaamiseksi ja suuryritysten vastustuksen vuoksi.",
+      "more": ""
+    },
+    {
+      "title": "Valtteri Bottaksen jatkosta suorat sanat F1-asiantuntijalta – tallikaveri pamautti saman totuuden",
+      "description": "Valtteri Bottas saa jatkaa Cadillacilla suuren kohun jälkeen. Ylen F1-asiantuntija Jukka Mildh pitää sitä ainoana oikeana ratkaisuna.",
+      "url": "https://yle.fi/a/74-20257837",
+      "category": "Urheilu",
+      "published": "2026-11-19T14:03:31+00:00",
+      "source_type": "full_article",
+      "script": "Ylen F1-asiantuntija Jukka Mildh pitää Cadillac-tallin päätöstä jatkaa Valtteri Bottaksen sopimusta ainoana oikeana ratkaisuna vaikean kauden keskellä. Mildhin mukaan tallilla on ratkaistavanaan paljon suurempia teknisiä ja rakenteellisia ongelmia kuin kuljettajavalintoja.",
+      "more": ""
+    },
+    {
+      "title": "Tanska ratifioi turvallisuussopimuksen USA:n kanssa Grönlannista",
+      "description": "",
+      "url": "https://yle.fi/a/74-20257972",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T14:00:24+00:00",
+      "source_type": "full_article",
+      "script": "Tanskan parlamentti on ratifioinut yksimielisesti turvallisuussopimuksen Yhdysvaltojen kanssa Grönlannista. Sopimus laajentaa Yhdysvaltain armeijan roolia saarella ja antaa luvan Golden Dome -ohjuspuolustusjärjestelmän perustamiseen.",
+      "more": ""
+    },
+    {
+      "title": "Kriisi-Tappara ajautui putoamistaistoon: ”Kyllä sen huomaa, että yhteisö reagoi”",
+      "description": "Tappara on ensimmäistä kertaa todella vaikeassa tilanteessa viiteentoista vuoteen.",
+      "url": "https://yle.fi/a/74-20257913",
+      "category": "Urheilu",
+      "published": "2026-11-19T12:54:51+00:00",
+      "source_type": "full_article",
+      "script": "Jääkiekkoliigassa poikkeuksellisessa kriisissä oleva Tappara on valahtanut sarjataulukossa sijalle 11 ja kamppailee odottamattomasti sarjapisteistä. Joukkueen urheilujohto ja päävalmentaja Fredrik Norrena hakevat kurssin kääntämistä tilanteessa, jossa loukkaantumiset, CHL-pelien kuorma ja valmentajavaihdokset ovat luoneet seuraan suurta painetta.",
+      "more": ""
+    },
+    {
+      "title": "Putin syyttää Ukrainaa ja Eurooppaa haluttomuudesta tehdä kompromisseja",
+      "description": "",
+      "url": "https://yle.fi/a/74-20257937",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T12:22:41+00:00",
+      "source_type": "full_article",
+      "script": "Venäjän presidentti Vladimir Putin syytti torstaina Kiovaa ja Eurooppaa haluttomuudesta kompromisseihin Ukrainan konfliktin ratkaisemiseksi. Ukrainan mukaan Putin vaatii edelleen sellaisten alueiden luovuttamista, joita Venäjä ei ole onnistunut valloittamaan.",
+      "more": ""
+    },
+    {
+      "title": "Ukraina iski Kertšinsalmen siltaan jälleen – ja onnitteli Portugalia, että Euroopan pisin silta on taas sillä",
+      "description": "Venäjä sulki rautatieliikenteen Ukrainan iskun seurauksena. Ukrainan asevoimien mukaan iskussa käytettiin Neptun-ohjusta.",
+      "url": "https://yle.fi/a/74-20257823",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T12:14:49+00:00",
+      "source_type": "full_article",
+      "script": "Krimille johtava Kertšinsalmen silta joutui torstain vastaisena yönä jälleen Ukrainan ohjus- ja drooni-iskun kohteeksi. Ukrainan asevoimien mukaan hyökkäyksessä käytettiin Neptun-ohjuksia, ja iskun seurauksena sillan junaliikenne jouduttiin keskeyttämään tilapäisesti.",
+      "more": ""
+    },
+    {
+      "title": "Analyysi: Historiallinen suurvaltatapaaminen oli jäätävä viesteissään",
+      "description": "Menee vielä hetki kunnes tiedämme, oliko Shenzhenin kokous uraauurtava vai pelkkää olalle taputtelua, kirjoittaa Ylen Aasian-kirjeenvaihtaja Olli-Pekka Sulasma.",
+      "url": "https://yle.fi/a/74-20257867",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T11:56:57+00:00",
+      "source_type": "full_article",
+      "script": "Kiinan, Yhdysvaltain ja Venäjän johtajien historiallinen huippukokous Shenzhenissä päättyi yhteiseen rauhanjulistukseen. Vaikka kokousta pidetään diplomatian osoituksena, asiantuntijoiden mukaan sen herättämät epäviralliset linjaukset voivat jättää Euroopan ja Ukrainan päätöksenteon ulkopuolelle.",
+      "more": ""
+    },
+    {
+      "title": "Suomen Akatemialta miljoonien eurojen rahoitus kansainvälisesti merkittäville vedyn ja teknologian tutkimushankkeille",
+      "description": "Lippulaivat tavoittelevat laajaa taloudellista ja yhteiskunnallista vaikuttavuutta.",
+      "url": "https://yle.fi/a/74-20257892",
+      "category": "Tiede",
+      "published": "2026-11-19T11:42:59+00:00",
+      "source_type": "full_article",
+      "script": "Suomen Akatemia on myöntänyt merkittävää rahoitusta uusille tutkimuksen lippulaivoilleen. Oulun yliopisto johtaa kahta uutta huippuyksikköä, joista toinen keskittyy kestävään vetytalouteen ja toinen tulevaisuuden älykkäisiin tietoverkkoihin.",
+      "more": ""
+    },
+    {
+      "title": "Suomi-kiekon suurlupauksen riidassa erikoisia kulissikäänteitä – nyt Oscar Hemming kuitenkin MM-valintakelpoinen",
+      "description": "Oscar Hemmingin tapauksessa on käänteitä riittänyt. Hemmingin edustajat arvostelevat Jääkiekkoliittoa eivätkä koe, että tilanne olisi muuttunut viime keväästä.",
+      "url": "https://yle.fi/a/74-20257611",
+      "category": "Urheilu",
+      "published": "2026-11-19T11:36:22+00:00",
+      "source_type": "full_article",
+      "script": "Jääkiekkolupaus Oscar Hemming on saanut Suomen Jääkiekkoliitolta tiedon, että hän on valintakelpoinen Nuoriin Leijoniin vuodenvaihteen MM-kisoihin. IIHF on ilmoittanut Kiekko-Espoon jättämän tutkintapyynnön käsittelyn lykkääntyvän siihen asti, kunnes kotimainen oikeuslaitos antaa päätöksensä nuoren pelaajan sopimusriidasta.",
+      "more": ""
+    },
+    {
+      "title": "Vihreät karsisi yritys- ja verotukia 825 miljoonalla – lentovero toisi lisää tuloja",
+      "description": "Vihreät panostaisi hallitusta enemmän rahaa lapsiin, luontoon ja koulutukseen varjobudjetissaan.",
+      "url": "https://yle.fi/a/74-20253586",
       "category": "Politiikka",
-      "published": "2026-11-18T12:12:53+00:00",
+      "published": "2026-11-19T11:30:36+00:00",
       "source_type": "full_article",
-      "script": "Eduskunta on hyväksynyt väliaikaisen rajaturvallisuuslain jatkamisen vuoden 2028 loppuun asti. Lakia kannatti äänestyksessä 170 kansanedustajaa ja vastusti 19.",
-      "more": "SDP:n eduskuntaryhmässä herätti etukäteen huomiota muutaman kansanedustajan poissaolo äänestyksestä."
+      "script": "Vihreät esitteli vaihtoehtobudjettinsa, jolla puolue peruisisi hallituksen sosiaaliturva- ja koulutusleikkaukset. Vaihtoehdossa lisättäisiin panostuksia lapsiin ja luonnonsuojeluun muun muassa karsimalla yritys- ja ympäristöhaitallisia tukia sekä ottamalla käyttöön lentoveron.",
+      "more": ""
     },
     {
-      "title": "Tässä ovat sosiaali- ja terveysministeriön ehdotukset ensi vaalikaudelle: hyvinvointialueet remonttiin ja kotihoidontuki pois",
-      "description": "Sosiaali- ja terveysministeriön virkamiehet toteavat, että myös ensi hallituskaudella on leikattava sosiaali- ja terveyspalveluista sekä sosiaaliturvasta.",
-      "url": "https://yle.fi/a/74-20257547",
+      "title": "Kymmeniä siirtolaisia kateissa veneonnettomuuden jälkeen Senegalissa",
+      "description": "YK:n pakolaisjärjestö UNHCR:n mukaan lähes 600 ihmistä on kuollut reitillä tänä vuonna.",
+      "url": "https://yle.fi/a/74-20257902",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T11:17:07+00:00",
+      "source_type": "full_article",
+      "script": "Kymmeniä siirtolaisia on kateissa Senegalin rannikolla tapahtuneen veneonnettomuuden jäljiltä. Vaarallinen Länsi-Afrikan ja Kanariansaarten välinen merireitti on vaatinut YK:n mukaan jo lähes 600 ihmishenkeä kuluvana vuonna.",
+      "more": ""
+    },
+    {
+      "title": "Ministeri Rydman jätti yhdeksän tutkimusta ilman rahaa, mutta nyt Suomen Akatemia rahoittaa ne",
+      "description": "Kyse ei ole halusta asettua Rydmania vastaan, Suomen Akatemiasta korostetaan. Ohje rahojen käyttöön tuli opetus- ja kulttuuriministeriöstä.",
+      "url": "https://yle.fi/a/74-20257864",
       "category": "Politiikka",
-      "published": "2026-11-18T08:22:18+00:00",
+      "published": "2026-11-19T11:15:31+00:00",
       "source_type": "full_article",
-      "script": "Sosiaali- ja terveysministeriön virkamiehet esittävät tulevalle hallituskaudelle laajoja uudistuksia, kuten kotihoidontuen lakkauttamista, hyvinvointialueiden työnjaon tiivistämistä ja terveyshaittojen verotuksen kiristämistä.",
-      "more": "Virkamiesten mukaan sote-palveluiden painopistettä pitäisi siirtää korjaavista palveluista ennaltaehkäisyyn."
+      "script": "Suomen Akatemia on myöntämässä rahoitusta yhdeksälle sosiaalityön tutkimushankkeelle, jotka opetusministeri Wille Rydman aiemmin hylkäsi kesäkuussa. Hallitus siirsi kyseiset rahat syyskuussa lisätalousarviossa suoraan Akatemian kautta toteutettavaksi.",
+      "more": ""
     },
     {
-      "title": "Yllättävän moni kunta laskee veroja ensi vuodelle – katso oman kuntasi veroprosentti",
-      "description": "Ensi vuonna odotettua suurempi joukko kuntia laskee kuntaveroprosenttiaan. Datakeskukset sekä tuuli- ja aurinkovoimalat tuovat liikkumavaraa osalle kunnista.",
-      "url": "https://yle.fi/a/74-20257471",
+      "title": "Kansainvälinen tuomioistuin: Myanmar syyllistyi rohingyojen kansanmurhaan",
+      "description": "ICJ on vain kerran antanut päätöksen, jossa on todettu kansanmurhan tapahtuneen.",
+      "url": "https://yle.fi/a/74-20257891",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T10:40:27+00:00",
+      "source_type": "full_article",
+      "script": "Kansainvälinen tuomioistuin ICJ on totesi torstaina antamassaan historiallisessa päätöksessä Myanmarin syyllistyneen muslimivähemmistöönsä kuuluvien rohingyojen kansanmurhaan vuonna 2017 tapahtuneissa väkivaltaisuuksissa.",
+      "more": ""
+    },
+    {
+      "title": "EU:n kemikaalivirasto kannattaa ikuisuuskemikaalien rajoittamista koko unionissa",
+      "description": "",
+      "url": "https://yle.fi/a/74-20257886",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T10:24:54+00:00",
+      "source_type": "full_article",
+      "script": "Euroopan kemikaalivirasto ECHA:n asiantuntijakomitea kannattaa niin sanottujen ikuisuuskemikaalien eli PFAS-yhdisteiden tiukkaa rajoittamista koko EU:n alueella niiden merkittävien ympäristö- ja terveysriskien vuoksi.",
+      "more": ""
+    },
+    {
+      "title": "Helmarit sai ilouutisen MM-jatkokarsintaan: Jutta Rantala palaa maajoukkueeseen",
+      "description": "Suomen naisten jalkapallomaajoukkueen päävalmentaja Marko Saloranta nimesi pelaajat MM-jatkokarsintojen toiselle kierrokselle.",
+      "url": "https://yle.fi/a/74-20257875",
+      "category": "Urheilu",
+      "published": "2026-11-19T10:22:59+00:00",
+      "source_type": "full_article",
+      "script": "Suomen naisten jalkapallomaajoukkueen päävalmentaja Marko Saloranta nimesi Helmareiden ryhmän tuleviin MM-jatkokarsintaotteluihin Italiaa vastaan. Joukkueen kokoonpanoon palaa pitkästä loukkaantumisesta toipunut hyökkääjä Jutta Rantala.",
+      "more": ""
+    },
+    {
+      "title": "Suurvaltajohtajien kokouksen tulos: rauhanjulistus",
+      "description": "Trumpin, Xin ja Putinin kokouksesta julkaistiin maailmoja syleilevä tiedote. Putinin mukaan kokouksen päätöksiä ei myöskään tarvitse noudattaa.",
+      "url": "https://yle.fi/a/74-20257880",
+      "category": "Ulkomaat",
+      "published": "2026-11-19T10:08:25+00:00",
+      "source_type": "full_article",
+      "script": "Kiinan, Yhdysvaltain ja Venäjän johtajien Shenzhenissä pitämän huippukokouksen päätteeksi julkaistu rauhanjulistus korostaa strategista vakautta ja kansainvälistä turvallisuutta, mutta johtajien mukaan päätöksiä ei voida ketään pakottaa noudattamaan.",
+      "more": ""
+    },
+    {
+      "title": "Tekoälyjätti Anthropic listautui vihdoin pörssiin – tämän takia koko maailma katsoo nyt sen kurssia",
+      "description": "Pörssikaupan aloittaminen Claude-tekoälystä tunnetun Anthropicin osakkeilla on testi sille, kestääkö sijoittajien usko tekoälyhuuman.",
+      "url": "https://yle.fi/a/74-20257680",
       "category": "Talous",
-      "published": "2026-11-18T08:01:33+00:00",
+      "published": "2026-11-19T09:34:33+00:00",
       "source_type": "full_article",
-      "script": "Yllättävän moni suomalaiskunta laskee kuntaveroprosenttiaan ensi vuodelle. Vihreän siirtymän investoinnit ja tuulivoimatulot ovat tuoneet kunnille uutta liikkumavaraa talouteen.",
-      "more": "Koko maassa tuloveroprosenttia nostaa 29 kuntaa ja laskee 11 kuntaa."
+      "script": "Tekoäly-yhtiö Anthropic listautui torstaina Nasdaq-pörssiin historian suurimmalla tekoälyalan listautumisannilla, joka keräsi noin 81 miljardin dollarin potin. Listautumista seurataan laajasti koko teknologia-alan ja sijoittajien kesken luottamuksen mittarina.",
+      "more": ""
     },
     {
-      "title": "Pirkanmaan hyvinvointialue sulkee kolme asumisyksikköä – yt-neuvotteluiden piirissä oli yhteensä noin 620 henkilöä",
-      "description": "Samalla kun Pirha sulkee yksiköitä, se avaa vammaisten henkilöiden asumisyksikön Tampereen Hatanpäälle.",
-      "url": "https://yle.fi/a/74-20257701",
-      "category": "Kotimaa",
-      "published": "2026-11-18T14:14:41+00:00",
+      "title": "Razmyar harkitsee oikeustoimia Tynkkysen somekirjoituksesta – Orpo pitää kirjoitusta ”täysin ala-arvoisena”",
+      "description": "Perussuomalaisten puheenjohtaja Riikka Purra aikoo keskustella asiasta europarlamentaarikko Sebastian Tynkkysen kanssa.",
+      "url": "https://yle.fi/a/74-20257846",
+      "category": "Politiikka",
+      "published": "2026-11-19T09:28:49+00:00",
       "source_type": "full_article",
-      "script": "Pirkanmaan hyvinvointialue Pirha sulkee yt-neuvottelujen seurauksena kolme ikäihmisten ja vammaisten asumisyksikköä Kuhmoisissa, Akaassa ja Tampereella.",
-      "more": "Muutokset voivat pienentää henkilöstötarvetta enintään 40 henkilöllä."
+      "script": "SDP:n varapuheenjohtaja Nasima Razmyar harkitsee oikeustoimia europarlamentaarikko Sebastian Tynkkysen julkaiseman somepäivityksen vuoksi. Pääministeri Petteri Orpo on luonnehtinut kirjoitusta täysin ala-arvoiseksi, ja perussuomalaisten puheenjohtaja Riikka Purra aikoo keskustella asiasta Tynkkysen kanssa.",
+      "more": ""
+    },
+    {
+      "title": "Alppihiihto sopimukseen ulkomaalaisen vedonlyöntifirman kanssa – toimiluvan saaminen yhteistyön ehtona",
+      "description": "Ski Sport Finland on Suomessa toinen merkittävä urheiluorganisaatio, joka on kertonut aloittavansa yhteistyön Unibetin kanssa.",
+      "url": "https://yle.fi/a/74-20257530",
+      "category": "Urheilu",
+      "published": "2026-11-19T08:00:36+00:00",
+      "source_type": "full_article",
+      "script": "Alppihiihdosta ja freestylesta vastaava Ski Sport Finland on solminut monivuotisen yhteistyösopimuksen vedonlyöntiyhtiö Unibetin kanssa vuodesta 2027 alkaen. Sopimus edellyttää rahapeliyhtiöltä virallisen toimiluvan saamista Suomen uudistuvalla markkinalla.",
+      "more": ""
+    },
+    {
+      "title": "Aino Tapola hopealle parapöytätenniksen MM-loppuottelussa",
+      "description": "Ennen MM-hopeaa Aino Tapola oli saavuttanut urallaan kaksi arvokisamitalia: MM-hopeaa vuonna 2022 ja EM-pronssia 2025.",
+      "url": "https://yle.fi/a/74-20257825",
+      "category": "Urheilu",
+      "published": "2026-11-19T07:59:34+00:00",
+      "source_type": "full_article",
+      "script": "Aino Tapola saavutti hopeamitalin parapöytätenniksen MM-kisoissa Thaimaassa hävittyään naisten 1. luokan finaalissa saksalaiselle Jana Spegelille ratkaisevan viidennen erän jälkeen.",
+      "more": ""
+    },
+    {
+      "title": "Ihmeteini Luke Littleriltä ällistyttävä dartssuoritus – sitten tuli šokkitappio, joka herkisti voittajan kyyneliin",
+      "description": "Luke Littler heitti kolmen häränsilmän lopetuksen, joka sai dartsmaailman villiksi.",
+      "url": "https://yle.fi/a/74-20257812",
+      "category": "Urheilu",
+      "published": "2026-11-19T07:04:16+00:00",
+      "source_type": "full_article",
+      "script": "Dartsin nuori huippulahjakkuus Luke Littler esitti Grand Slam of Darts -turnauksessa poikkeuksellisen suorituksen heittämällä kolme häränsilmää ottelun lopetuksessa. Hienoista otteista huolimatta turnaus päättyi Littlerille shokkitappioon alankomaalaiselle Jermaine Wattimenalle.",
+      "more": ""
+    },
+    {
+      "title": "Sara Bejedi, 26, piinaa koripallojättejä aseella, jota on lähes mahdoton pysäyttää",
+      "description": "Sara Bejedi on 163 senttiä pitkä ja usein kentän lyhin pelaaja. Silti hän on luonut upean uran koripalloilijana ja noussut maajoukkueen ratkaisupelaajaksi.",
+      "url": "https://yle.fi/a/74-20257163",
+      "category": "Urheilu",
+      "published": "2026-11-19T06:00:35+00:00",
+      "source_type": "full_article",
+      "script": "Kreikan Panathinaikosia edustava 163-senttinen koripalloilija Sara Bejedi on noussut esimerkillään ja huikealla nopeudellaan suomalaisen koripallomaajoukkueen ratkaisupelaajaksi. Hänen vahvuutenaan kentällä on periksiantamattomuuden lisäksi kyky ratkaista tiukkoja otteluita paineen alla.",
+      "more": ""
     }
   ]
 }
