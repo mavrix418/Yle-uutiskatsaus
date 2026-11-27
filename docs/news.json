@@ -1,205 +1,205 @@
 {
-  "generated": "2026-11-26T05:49:32.435320+00:00",
+  "generated": "2026-11-27T05:52:34.139297+00:00",
   "stories": [
     {
-      "title": "Yle seurasi suomalaisten partiota merireitillä, jota pitkin Eurooppaan tulee aiempaa enemmän ihmisiä",
-      "description": "Yle seurasi suomalaisten rajavartijoiden työpäivää Euroopan eteläreunalla. Operaation tavoitteena on estää siirtolaisia tulemasta meren yli luvattomasti.",
-      "url": "https://yle.fi/a/74-20248010",
+      "title": "SAP suunnittelee 10 000 työpaikan vähentämistä tekoälyn vuoksi",
+      "description": "Mediatietojen mukaan kustannussäästötoimenpiteet keskittyvät erityisesti tuotekehitys-, suunnittelu- ja myyntiosastoihin.",
+      "url": "https://yle.fi/a/74-20259285",
       "category": "Pääuutiset",
-      "published": "2026-11-26T05:08:51+00:00",
+      "published": "2026-11-27T05:40:03+00:00",
       "source_type": "full_article",
-      "script": "Suomalaiset rajavartijat partioivat parhaillaan Välimerellä Sardinian vesillä osana EU:n Frontex-operaatiota. Alueella on havaittu poikkeuksellista vilkkautta, sillä Sardiniaan on saapunut Afrikasta kolmisen kertaa enemmän siirtolaisia kuin viime vuonna. Operaation tavoitteena on turvata rajoja ja pelastaa merihätään joutuneita. Suomalaisten partiolaiva ehti kuitenkin olla teknisen vian vuoksi maissa melkein kaksi viikkoa ennen vesille pääsyä.",
-      "more": "Välimeren kokonaismäärät siirtolaisten osalta ovat olleet toiseksi matalimmalla tasolla vuosikymmeneen, mutta Algeriasta Sardiniaan suuntautuva reitti on poikkeus. EU on lisännyt valvontaa ja tehnyt sopimuksia Pohjois-Afrikan maiden kanssa."
+      "script": "Saksalainen ohjelmistojätti SAP suunnittelee vähintään 10 000 työpaikan vähentämistä tekoälyyn liittyvän uudelleenjärjestelyn vuoksi. Bloombergin mukaan säästötoimet keskittyvät erityisesti tuotekehitys-, suunnittelu- ja myyntiosastoihin.",
+      "more": "Muutokset koskisivat vähintään yhdeksää prosenttia yhtiön maailmanlaajuisesta henkilöstöstä. Reuters ei pystynyt vahvistamaan tietoja itsenäisesti, eikä yhtiö halunnut kommentoida asiaa."
     },
     {
-      "title": "Viranomaiselta risuja KRP:lle: talousrikostutkinta tehotonta",
-      "description": "",
-      "url": "https://yle.fi/a/74-20259025",
+      "title": "Olkiluoto 3 palasi tuotantoon, mutta tehoa laskettiin jälleen – syynä vian selvitys",
+      "description": "Olkiluoto 3:n tehoja on alennettu noin 440 megawattiin.",
+      "url": "https://yle.fi/a/74-20259283",
+      "category": "Pääuutiset",
+      "published": "2026-11-27T05:35:35+00:00",
+      "source_type": "full_article",
+      "script": "Olkiluoto 3:n tehoa on alennettu noin 60 prosentin tehotasolle vian selvittämiseksi. Tehonrajoituksen arvioidaan päättyvän lauantaiaamuna kello yksi, jonka jälkeen tuotantoa on tarkoitus nostaa suunnitelman mukaisesti.",
+      "more": "Laitos palasi sähköntuotantoon aiemmin torstaina äskettäin havaitun venttiilivian korjauksen jälkeen."
+    },
+    {
+      "title": "Venäläiset rintamakarkurit kertovat netissä, miten Suomeen pääsee metsän läpi",
+      "description": "Yle löysi videoita, jotka näyttävät, miten kaksi miestä pääsi itärajan yli Suomeen turvapaikanhakijoiksi kansalaisjärjestöjen avustamina.",
+      "url": "https://yle.fi/a/74-20258720",
+      "category": "Pääuutiset",
+      "published": "2026-11-27T05:27:26+00:00",
+      "source_type": "full_article",
+      "script": "Venäjän hyökkäyssotaa pakenevat rintamakarkurit ovat alkaneet julkaista netissä videoita, joissa he kertovat maastorajan ylittämisestä Suomeen. Rajavartiolaitoksen mukaan ilmiö heikentää rajaturvallisuutta.",
+      "more": "Tänä vuonna Suomeen on tullut idän maastorajan yli laittomasti 13 ihmistä. Ylen selvityksen mukaan videot liittyvät kesäkuussa Ilomantsissa tehtyihin luvattomiin rajanylityksiin."
+    },
+    {
+      "title": "KAS asumisoikeus Oy siirtyy Asuntosäätiön omistukseen",
+      "description": "KAS asumisoikeuden kahdeksan kerrostaloa ja yhteensä 405 asuntoa siirtyy Asuntosäätiön asuntokantaan.",
+      "url": "https://yle.fi/a/74-20259277",
       "category": "Kotimaa",
-      "published": "2026-11-26T04:57:57+00:00",
+      "published": "2026-11-27T05:01:02+00:00",
       "source_type": "full_article",
-      "script": "Valtiontalouden tarkastusvirasto VTV on julkaissut tarkastuskertomuksen, jonka mukaan Keskusrikospoliisi toimii talousrikosten tutkinnassa tehottomasti. VTV:n arvion mukaan KRP käyttää talousrikostorjuntaan kirjattua työpanosta huomattavan paljon muihin rikostorjunnan tehtäviin. Talousrikoksista aiheutuu Suomessa vuosittain noin 175 miljoonan euron vahingot.",
-      "more": "Tarkastuksessa todetaan, että keskusrikospoliisin talousrikostorjunnan resurssit ovat suuret suhteessa saavutettuihin tuotoksiin."
+      "script": "Asuntosäätiön Asumisoikeus on ostanut KAS asumisoikeus Oy:n. Kaupassa Asuntosäätiön asuntokantaan siirtyy kahdeksan kerrostaloa ja yhteensä 405 asuntoa viideltä eri paikkakunnalta.",
+      "more": "Yhtiön mukaan omistajavaihdos ei aiheuta välittömiä muutoksia asukkaille, ja asukkaille tiedotetaan siirtymisestä alkuvuodesta."
     },
     {
-      "title": "Parikkala vaihtoi kantaansa: ei kiellä suurten akkuenergiavarastojen rakentamista",
-      "description": "Kunnan tekninen toimi esitti yli kahden megawatin kokoisten akkuenergiavarastojen rakentamisen kieltämistä viideksi vuodeksi.",
-      "url": "https://yle.fi/a/74-20258811",
+      "title": "Oulun asuntomessualueesta piti tulla arvoalue, jossa talojen yksityiskohdat on tarkkaan harkittu – sitten maailma muuttui",
+      "description": "Oulun vuoden 2025 asuntomessualueen talot eivät täytä alkuperäisiä kunnianhimoisia tavoitteita. Niitä ei kuulemma nykyään ole mahdollista täyttää.",
+      "url": "https://yle.fi/a/74-20257515",
+      "category": "Pääuutiset",
+      "published": "2026-11-27T04:31:54+00:00",
+      "source_type": "full_article",
+      "script": "Oulun vuoden 2025 asuntomessualueen Vaakunakylän talot eivät toteudu alkuperäisten kunnianhimoisten tavoitteiden mukaisesti. Esimerkiksi puurakentamisesta ja useista kaavan vaatimuksista on jouduttu poikkeamaan heikentyneen taloustilanteen vuoksi.",
+      "more": "Rakentaminen alueella on käynnistynyt verkkaisesti, mutta kaupungissa uskotaan alueen vilkastuvan myöhemmin sen hyvän sijainnin ansiosta."
+    },
+    {
+      "title": "Tallinkin laivalla syttyi yökerhossa tulipalo",
+      "description": "Yökerho kärsi ainakin savuvahingoista.",
+      "url": "https://yle.fi/a/74-20259276",
+      "category": "Pääuutiset",
+      "published": "2026-11-27T04:23:45+00:00",
+      "source_type": "full_article",
+      "script": "Tallinkin Victoria-aluksella syttyi pieni tulipalo yökerhossa Viron aluevesillä torstain ja perjantain välisenä yönä. Henkilökunta sai palon sammutettua alle kymmenessä minuutissa.",
+      "more": "Palo sai alkunsa lava-alueen valaisimesta, joka sytytti verhon palamaan. Tilasta levisi savua myös muualle laivaan."
+    },
+    {
+      "title": "Kelan tutkimus: Uusien lääkkeiden hinnat yhteiskunnalle lähes kymmenkertaistuneet",
+      "description": "Hintakehitykseen on vaikuttanut muun muassa harvinaislääkkeiden osuuden nousu uusista korvattavista lääkkeistä.",
+      "url": "https://yle.fi/a/74-20259232",
       "category": "Kotimaa",
-      "published": "2026-11-26T04:56:33+00:00",
+      "published": "2026-11-27T04:00:43+00:00",
       "source_type": "full_article",
-      "script": "Parikkalan kunnanhallitus on päättänyt yksimielisesti, että se ei kiellä yli kahden megawatin kokoisten akkuenergiavarastojen rakentamista kuntaan. Kunnassa oli aiemmin esitetty viiden vuoden rakennuskieltoa energiahankkeille, mutta hallitus hylkäsi esityksen. Aloitetta perusteltiin aiemmin kantaverkon kapasiteetilla, mutta hallitus katsoi kiellon tarpeettomaksi.",
-      "more": "Kunnanjohtajan mukaan kiellon tarkoituksena olisi ollut antaa kunnalle lisäaikaa kaikkien vireillä olevien energiahankkeiden selvittämiseen ennen uusien vaihtoehtojen rajaamista."
+      "script": "Kelan tutkimuksen mukaan uusien lääkkeiden sisääntulokustannukset yhteiskunnalle ovat lähes kymmenkertaistuneet kymmenessä vuodessa. Avohoidon uusien lääkkeiden keskimääräiset kustannukset potilasta kohden nousivat noin 1 200 eurosta yli 10 000 euroon.",
+      "more": "Hintakehitykseen on vaikuttanut erityisesti kalliiden harvinaislääkkeiden ja syöpälääkkeiden osuuden kasvu."
     },
     {
-      "title": "Danske Bank: Suomalaiset uskovat sijoittamisen ja uutteran työn tuovan vaurautta",
-      "description": "Kyselytutkimuksen mukaan usko lottovoittoon vaurastumisen keinona on hiipunut.",
-      "url": "https://yle.fi/a/74-20258775",
-      "category": "Talous",
-      "published": "2026-11-26T04:45:35+00:00",
-      "source_type": "full_article",
-      "script": "Danske Bankin tuoreen kyselytutkimuksen mukaan suomalaisten usko omaan vaurastumiseensa on vahvistunut, ja asenteissa on tapahtunut historiallinen käänne. Ensimmäistä kertaa lottovoitto on pudonnut suomalaisten suosituimpien vaurastumiskeinojen ulkopuolelle, kun sijoittaminen sekä säännöllinen säästäminen ja kulukuri ovat kiilanneet sen edelle. Vastaajista 39 prosenttia pitää sijoittamista todennäköisimpänä tienä vaurauteen.",
-      "more": "Erityisesti nuoret aikuiset luottavat sijoittamiseen. Tutkimuksen kohderyhmänä olivat 18 vuotta täyttäneet suomalaiset, ja sen virhemarginaali on noin ±2,3 prosenttiyksikköä."
-    },
-    {
-      "title": "Pakkanen kiristää otettaan – pohjoiseen jopa -20 astetta",
-      "description": "",
-      "url": "https://yle.fi/a/74-20259024",
-      "category": "Pääuutiset",
-      "published": "2026-11-26T04:29:58+00:00",
-      "source_type": "full_article",
-      "script": "Suomeen on luvassa paikoin kireää pakkasta, kun korkeapaine ohjaa maahan pohjoisesta kuivaa ja kylmää ilmaa. Torstaina sää on poutainen ja selkeä. Perjantaina etelässä jatkuvat pikkupakkaset, mutta pohjoisessa pakkanen kiristyy paikoin jopa 20 asteeseen. Samalla revontulten mahdollisuus nousee perjantaina kohtalaiseksi.",
-      "more": "Päivälämpötilat pysyvät torstaina pakkasen puolella koko maassa: etelässä mitataan nollan ja viiden pakkasasteen välisiä lukemia."
-    },
-    {
-      "title": "Tuore selvitys: Oppimistulosten heikkeneminen näkyy jo korkeakouluissa",
-      "description": "Korkeakoulut ovat joutuneet etsimään erilaisia ratkaisuja opiskelijoiden perustaitojen parantamiseksi, Sivistan kysely kertoo.",
-      "url": "https://yle.fi/a/74-20258837",
-      "category": "Pääuutiset",
-      "published": "2026-11-26T04:00:40+00:00",
-      "source_type": "full_article",
-      "script": "Sivistysala ry:n kyselybarometrin mukaan lähes puolet suomalaisista korkeakouluista kokee nuorten heikentyneiden oppimistulosten näkyvän suoraan niiden toiminnassa. Opiskelijoilla on puutteita muun muassa matemaattisissa taidoissa sekä lukemisessa ja kirjoittamisessa. Korkeakoulut joutuvat järjestämään yhä enemmän tuki- ja hyvinvointipalveluja sekä erillisiä kursseja perustaitojen kohentamiseksi.",
-      "more": "Pisa-tulokset ovat laskeneet Suomessa vuodesta 2006 lähtien, ja korkeakoulut ovat huolissaan siitä, miten Suomen koulutustaso pysyy mukana muiden maiden kehityksessä."
-    },
-    {
-      "title": "Huijari esiintyi Whatsappissa tunnettuna ekonomistina – Hannu Nummiaro: ”Joku uskoo viestit ja menettää paljon rahaa”",
-      "description": "Sijoittamaan innostuneilta suomalaisilta yritetään huijata yhä useammin rahaa. Yli puolet suomalaisista on kohdannut sijoitushuijauksen somessa.",
-      "url": "https://yle.fi/a/74-20257504",
-      "category": "Pääuutiset",
-      "published": "2026-11-26T04:00:35+00:00",
-      "source_type": "full_article",
-      "script": "LähiTapiolan teettämän kyselyn mukaan yli puolet suomalaisista on kohdannut sijoitushuijauksia sosiaalisessa mediassa. Rikolliset ovat hyödyntäneet muun muassa pääekonomisti Hannu Nummiaron nimeä ja kasvoja houkutellakseen ihmisiä vääriin sijoitusryhmiin. Finanssialan tietojen mukaan suomalaiset menettivät pelkästään sijoitushuijauksissa 8,2 miljoonaa euroa tammi–kesäkuussa 2026.",
-      "more": "Poliisin sijoitushuijauksia tutkiva yksikkö tietää suomalaisten menettäneen vuoden alusta lokakuuhun mennessä jo 43 miljoonaa euroa sijoitushuijauksiin."
-    },
-    {
-      "title": "New Yorkissa kiitospäivän paraatia lykätään lähestyvän myräkän vuoksi",
-      "description": "",
-      "url": "https://yle.fi/a/74-20259022",
-      "category": "Pääuutiset",
-      "published": "2026-11-26T03:33:45+00:00",
-      "source_type": "full_article",
-      "script": "Yhdysvalloissa perinteinen New Yorkin kiitospäivän paraati on jouduttu siirtämään rajuilman vuoksi torstailta lauantaille. Itärannikkoa lähestyvä voimakas myrsky tuo mukanaan rankkasateita ja kovia tuulia, mikä uhkaa hankaloittaa miljoonien matkustajien liikennettä. Tuhansia lentoja on ollut myöhässä tai peruttu. Muiden muassa Macy's-tavaratalon satatta kertaa järjestettävää paraatia ei ole aiemmin siirretty sääolosuhteiden vuoksi.",
-      "more": "Paraati on aiemmin jäänyt väliin vain vuosina 1942–1944 toisen maailmansodan takia, jolloin ilmapallojen valmistusmateriaaleja tarvittiin sotateollisuudessa."
-    },
-    {
-      "title": "Mitä tapahtuu Ukraina-tuelle? Saksa haluaa tehdä lopun rusinoiden poimimisesta",
-      "description": "Suomea huippukokouksessa edustaa pääministeri Petteri Orpo. Katso hänen kommenttinsa suorana noin kello 9.40 tässä jutussa.",
-      "url": "https://yle.fi/a/74-20258707",
-      "category": "Pääuutiset",
-      "published": "2026-11-26T03:00:35+00:00",
-      "source_type": "full_article",
-      "script": "Brysselissä alkaa torstaina EU:n ylimääräinen huippukokous, jossa johtajat kiistelevät vuosien 2028–2034 budjetista ja unionin rahoituksesta. Pöydällä on kompromissiesitys, jonka loppusumma on noin kymmenen prosenttia alkuperäistä pienempi. Kokouksen tärkein ja kiireisin kysymys on kuitenkin Ukrainalle suunnattu 45 miljardin euron lisälaina ensi vuodeksi. Saksa vaatii, että kaikki jäsenmaat osallistuvat Ukrainan rahoitukseen ilman nykyisiä poikkeuksia.",
-      "more": "Kokouksessa on määrä sopia myös Euroopan keskuspankin uudesta johdosta, sillä EKP:n johtokunnasta vaihtuu puolet, mukaan lukien pääjohtaja Christine Lagarde."
-    },
-    {
-      "title": "Britanniassa EU-diili tänään parlamentin pöydälle",
-      "description": "",
-      "url": "https://yle.fi/a/74-20259019",
-      "category": "Tuoreimmat",
-      "published": "2026-11-26T01:24:03+00:00",
-      "source_type": "full_article",
-      "script": "Britannian hallitus antaa torstaina parlamentille lakiesityksen, jolla pannaan täytäntöön maan ja EU:n uusi brexitin jälkeinen sopimus. Viime perjantaina Brysselissä solmitulla sopimuksella helpotetaan brittiläisten elintarvikkeiden pääsyä EU-markkinoille, nuorten liikkuvuutta sekä päästökauppajärjestelmien yhteensovittamista. Sopimus on saanut osakseen voimakasta arvostelua oppositiolta ja entisiltä pääministereiltä.",
-      "more": "Auki jäi vielä kiista yliopistomaksuista, joista EU vaatii sovittavaksi puolen vuoden kuluessa koko sopimuksen kaatumisen uhalla."
-    },
-    {
-      "title": "Pörssisähkö on tänään kallista",
-      "description": "",
-      "url": "https://yle.fi/a/74-20259018",
-      "category": "Pääuutiset",
-      "published": "2026-11-26T00:00:09+00:00",
-      "source_type": "full_article",
-      "script": "Pörssisähkö on torstaina poikkeuksellisen kallista. Hinnat nousevat aamuyhdeksän aikaan yli 40 senttiin kilowattitunnilta ja pysyvät korkeina iltakahdeksaan saakka, päivän keskihinnan ollessa liki 33 senttiä kilowattitunnilta sisältyen arvonlisäveroon. Hintojen nousuun vaikuttaa Olkiluoto 3 -voimalan sähköntuotannon keskeyttäminen venttiilivian vuoksi.",
-      "more": "TVO:n mukaan Olkiluoto 3:n korjaustöiden arvioitavan valmistuvan lauantai-illan aikana."
-    },
-    {
-      "title": "Duran Duranin kitaristi Andy Taylor on kuollut",
-      "description": "65-vuotiaana kuollut Taylor sairasti eturauhassyöpää.",
-      "url": "https://yle.fi/a/74-20259017",
-      "category": "Pääuutiset",
-      "published": "2026-11-25T22:35:04+00:00",
-      "source_type": "full_article",
-      "script": "Brittiläisen Duran Duran -yhtyeen kitaristi Andy Taylor on kuollut 65-vuotiaana. Yhtye ja perhe kertoivat Taylorin nukkuneen rauhallisesti pois kotonaan perheensä ympäröimänä maanantaina. Taylor sairasti pitkään eturauhassyöpää. Hän liittyi suosittuna tunnettuun Duran Duraniin vuonna 1980, ja yhtye on myöhemmin myynyt maailmanlaajuisesti yli 100 miljoonaa albumia.",
-      "more": "Taylor syntyi vuonna 1961 Tynemouthissa ja aloitti kitaransoiton 11-vuotiaana, tuoden yhtyeen musiikkiin unohtumatonta paloittainutta itsevarmuutta."
-    },
-    {
-      "title": "Lukoil myymässä Teboilin emoyhtiön yhdysvaltalaisjohtoiselle sijoittajaryhmälle",
-      "description": "",
-      "url": "https://yle.fi/a/74-20259012",
-      "category": "Ulkomaat",
-      "published": "2026-11-25T20:35:40+00:00",
-      "source_type": "full_article",
-      "script": "Yhdysvaltalaisjohtoinen sijoittajaryhmä on tehnyt sopimuksen venäläisen öljyjätti Lukoilin kansainvälisten omistusten ostamisesta noin kymmenen miljardin dollarin arvoisessa kaupassa. Kauppaan kuuluu muun muassa Itävaltaan rekisteröity Lukoil International, joka omistaa huoltoasemayhtiö Teboilin. Lehdetietojen mukaan kauppaa ajoivat Yhdysvaltain presidentin Donald Trumpin edustajat osana Ukrainan sodan rauhanneuvotteluja.",
-      "more": "Kaupan toteutuminen edellyttää vielä muun muassa Yhdysvaltojen pakoteviranomaisen hyväksyntää, ja se on tarkoitus toteuttaa osakevaihdolla suorien rahansiirtojen välttämiseksi."
-    },
-    {
-      "title": "Asiantuntijat: tekoäly-yhtiö Nvidian käänteet olleet ”omituinen tilanne”",
-      "description": "",
-      "url": "https://yle.fi/a/74-20259011",
-      "category": "Kotimaa",
-      "published": "2026-11-25T20:19:00+00:00",
-      "source_type": "full_article",
-      "script": "Asiantuntijat pitävät tekoälyjätti Nvidian viimeaikaisia käänteitä poikkeuksellisena tilanteena. Yhtiön perustaja ja toimitusjohtaja Jensen Huang erosi ensin parisen viikkoa sitten vakoiluepäilyjen vuoksi, mutta palasi yllättäen takaisin johtoon maanantaina Wall Street Journalin uutisoitua epäilyjen perättömyydestä. S-Pankin päästrategin mukaan tilanne kertoo siitä, että tekoäly on merkittävä talouden ajuri.",
-      "more": "Nvidia on markkina-arvoltaan maailman toiseksi suurin yhtiö ja sen tuotteet ovat keskeisessä roolissa datakeskusten rakentamisessa."
-    },
-    {
-      "title": "Tappara jatkoaikatappioon Jukka Rautakorven paluuottelussa – KooKoo voitti niukasti Jokerit jumbopelissä",
-      "description": "Helsingin IFK ja Lahden Pelicans voittivat omat ottelunsa jääkiekon SM-liigassa keskiviikkoiltana.",
-      "url": "https://yle.fi/a/74-20258858",
+      "title": "Yllättävä käänne muhimassa – Petteri Koponen pitää Susijengiä suosikkina isoon MM-karsintapeliin",
+      "description": "Susijengillä on MM-kisahaaveiden kannalta iso ottelu perjantaina Sloveniassa. Petteri Koponen näkee Suomella mahdollisuudet voittoon.",
+      "url": "https://yle.fi/a/74-20259041",
       "category": "Urheilu",
-      "published": "2026-11-25T19:49:03+00:00",
+      "published": "2026-11-27T04:00:40+00:00",
       "source_type": "full_article",
-      "script": "Jääkiekon SM-liigassa nähtiin keskiviikkona valmentajavaihdoksia, kun kuudetta kertaa Tapparan peräti puikkoihin palannut Jukka Rautakorpi aloitti kautensa tappiolla. Tappara taipui kotonaan Mikkelin Jukureille jatkoajalla maalein 1–2. Illan muissa otteluissa KooKoo voitti jumbopelissä Jokerit 4–3 saavuttaen kauden ensimmäisen vierasvoittonsa, HIFK kukisti TPS:n 3–1 ja Pelicans kaatoi Kärpät Oulussa 6–2.",
-      "more": "Tappara on SM-liigassa vasta sijalla 14, ja joukkueen kapteeni Otto Rauhala myönsi syksyn olleen henkisesti raskas."
+      "script": "Susijengi kohtaa perjantaina vierasottelussa Slovenian MM-jatkokarsinnassa. Slovenian valmistautumista on varjostanut päävalmentajan vaihtuminen juuri ennen ottelua.",
+      "more": "Slovenian pitkäaikainen päävalmentaja joutui jättämään pestinsä seurajoukkueen paineiden vuoksi."
     },
     {
-      "title": "Ainakin 30 kuoli ajoneuvon kaatumisessa syttyneessä tulipalossa Egyptissä",
-      "description": "Terveysministeriön mukaan palo syttyi tunnelin yläpuolella Gizan Al-Warraqin kaupunginosassa.",
-      "url": "https://yle.fi/a/74-20259009",
-      "category": "Ulkomaat",
-      "published": "2026-11-25T19:21:37+00:00",
-      "source_type": "full_article",
-      "script": "Egyptissä Ainakin 30 ihmistä on kuollut ja parikymmentä loukkaantunut öljytuotteita kuljettaneen ajoneuvon kaaduttua ja sytyttyä tuleen vilkkaalla kehätiellä Gizan Al-Warraqin kaupunginosassa. Onnettomuus tapahtui tunnelin yläpuolella, ja palokunta sai palon myöhemmin hallintaansa. Liikenneonnettomuudet ovat Egyptissä yleisiä muun muassa ylinopeuksien ja heikon tiestön vuoksi.",
-      "more": "Egypti on viime vuosina rakentanut uusia teitä osana infrastruktuuriohjelmaansa liikenteen sujuvoittamiseksi."
-    },
-    {
-      "title": "Patrik Laine kävi polvileikkauksessa – pitkä kuntoutusjakso edessä",
-      "description": "Patrik Laine ei kertonut Instagram-tilillään, milloin hän on taas täydessä kunnossa.",
-      "url": "https://yle.fi/a/74-20259008",
-      "category": "Urheilu",
-      "published": "2026-11-25T19:04:07+00:00",
-      "source_type": "full_article",
-      "script": "Suomalainen jääkiekkotähti Patrik Laine on käynyt polvileikkauksessa harjoituksissa koetun takaiskun vuoksi. Laine kertoi sosiaalisessa mediassa edessä olevan pitkän kuntoutusjakson, eikä hän ottanut kantaa siihen, milloin hän on jälleen täydessä pelikunnossa. 28-vuotias Laine on tällä hetkellä ilman seuraa edellisen NHL-kautensa jälkeen.",
-      "more": "Laine pelasi viime kaudella Montreal Canadiensissa vain viisi runkosarjaottelua ennen loukkaantumistaan."
-    },
-    {
-      "title": "Nasa törmäsi tahallaan asteroidiin, jotta ei kävisi kuin dinosauruksille – kuvat julki",
-      "description": "Nasa onnistui törmäyksellä muuttamaan asteroidin kiertorataa.",
-      "url": "https://yle.fi/a/74-20258996",
+      "title": "Monica Savander-Elivuo laittoi lapsille makaronilaatikkoa ilman lihaa, se on linjassa uusien ruokasuositusten kanssa",
+      "description": "Koko perheelle suositellaan kasvipainotteista ruokavaliota iästä riippumatta. Suosituksissa korostuvat sekä ravitsemuksen terveys- että ympäristövaikutukset.",
+      "url": "https://yle.fi/a/74-20258860",
       "category": "Pääuutiset",
-      "published": "2026-11-25T18:39:39+00:00",
+      "published": "2026-11-27T04:00:35+00:00",
       "source_type": "full_article",
-      "script": "Euroopan avaruusjärjestö ESA on julkaissut Hera-luotaimen ottamia kuvia asteroidista, johon Nasa törmäsi tahallaan vuonna 2022 osana kokeilua Maan suojelemisesta. DART-avaruusaluksen törmäys 150-metriseen Dimorphos-asteroidiin onnistui, ja sen kiertoaika isomman asteroidin ympäri lyheni 33 minuutilla. Kuva paljastaa asteroidin pinnalle syntyneen urheilustadionin kokoisen kraaterin.",
-      "more": "Kokeen tarkoituksena on selvittää, miten mahdollista Maata lähestyvää vaarallista asteroidia voitaisiin tarvittaessa siirtää."
+      "script": "Uudet lapsiperheiden ruokasuositukset painottavat aiempaa enemmän kasvisruokavaliota, terveysvaikutuksia ja ympäristöasioita. Punaista lihaa suositellaan syötäväksi enintään kaksi kertaa viikossa.",
+      "more": "Suosituksissa korostetaan myös siirtymävaihetta taaperoiden terveellisestä ruokavaliosta muun perheen ruokatottumuksiin."
     },
     {
-      "title": "Putin erotti korruptiosta epäillyn Murmanskin kuvernöörin",
-      "description": "Andrei Tšibis on ensimmäinen virassa oleva kuvernööri, joka on pidätetty Venäjän Ukrainaa vastaan käymän sodan aikana.",
-      "url": "https://yle.fi/a/74-20259007",
-      "category": "Ulkomaat",
-      "published": "2026-11-25T18:33:47+00:00",
-      "source_type": "full_article",
-      "script": "Venäjän presidentti Vladimir Putin on erottanut Murmanskin alueen kuvernöörin Andrei Tšibisin ennenaikaisesti virastaan. Tšibisin epäillään syyllistyneen laajamittaiseen korruptioon ja yli miljardin ruplan kavallukseen maantien kunnostusvaroista. Hänet otettiin kiinni maanantaina Moskovan lentokentällä, ja tapaus on harvinainen korkeaan virkamieheen kohdistuva toimi sodan aikana.",
-      "more": "Norjalaisen Barents Observer -median mukaan tapauksen taustalla saattaa olla myös ristiriita turvallisuuspalvelu FSB:n aluejohdon kanssa."
-    },
-    {
-      "title": "DayOne kaavailee suurta datakeskusta Haapajärvelle",
-      "description": "Kaupungin mukaan keskuksen rakentamisen arvioidaan alkavan ensi vuoden aikana. Kaupunki visioi satoja pysyviä työpaikkoja, mutta perustelut jäävät epäselviksi.",
-      "url": "https://yle.fi/a/74-20259002",
+      "title": "Viikonloppu alkaa poutaisessa pakkassäässä",
+      "description": "Korkeapaine vaikuttaa alkuun Suomen säähän.",
+      "url": "https://yle.fi/a/74-20259274",
       "category": "Kotimaa",
-      "published": "2026-11-25T18:15:18+00:00",
+      "published": "2026-11-27T03:38:10+00:00",
       "source_type": "full_article",
-      "script": "Singaporelaisyhtiö DayOne suunnittelee rakentavansa suuren datakeskuksen Haapajärven Pysäysperän alueelle. Haapajärven kaupungin mukaan hankkeen rakentamisen on määrä alkaa ensi vuoden aikana, ja se toteutetaan vaiheittain. Valmistuessaan datakeskuksen sähköverkkoteho olisi enintään tuhat megawattia, ja sen arvioidaan tuovan yli 300 uutta pysyvää työpaikkaa.",
-      "more": "Kaupunki ja DayOne valmistelevat parhaillaan hankealueen kiinteistökauppaa, ja hanke sai lainvoimaisen asemakaavan lokakuussa."
+      "script": "Perjantaipäivä on poutainen ja osin aurinkoinen, mutta sää on pakkasella eteläisintä Suomea myöten. Lämpötila vaihtelee etelän muutamasta pakkasasteesta pohjoisen noin 20 pakkasasteeseen.",
+      "more": "Lauantaina pilvisyys runsastuu ja lounaasta alkaa virrata lauhempaa ilmaa."
+    },
+    {
+      "title": "Black Friday -tarjoustuotteista joka kymmenennen hintaa nostettiin merkittävästi ennen alennusta",
+      "description": "Katso esimerkki, miten hinta nousi juuri ennen alennuskampanjoita.",
+      "url": "https://yle.fi/a/74-20258915",
+      "category": "Pääuutiset",
+      "published": "2026-11-27T03:30:35+00:00",
+      "source_type": "full_article",
+      "script": "Hintaoppaan selvityksen mukaan noin kymmenellä prosentilla Black Friday -tarjoustuotteista hintaa oli nostettu merkittävästi ennen alennuskampanjaa. Hintojen pumppaaminen on vähentynyt vuodentakaisesta, mutta tehty korotus on ollut suurempi.",
+      "more": "Kilpailu- ja kuluttajavirasto muistuttaa, että suuri osa tuotteista on saatavilla samaan hintaan myös alennusmyyntien jälkeen."
+    },
+    {
+      "title": "Venezuela aikoo kumota lain, joka estää opposition edustajien asettumisen virkaan",
+      "description": "Laki hyväksyttiin pian vuoden 2024 kiistanalaisten presidentinvaalien jälkeen, jotka Nicolas Maduro väitetysti voitti.",
+      "url": "https://yle.fi/a/74-20259273",
+      "category": "Ulkomaat",
+      "published": "2026-11-27T03:20:17+00:00",
+      "source_type": "full_article",
+      "script": "Venezuela aikoo kumota lain, joka estää opposition edustajien asettumisen virkaan. Kaksi vuotta sitten hyväksyttyä lakia on kritisoitu poliittisesta vainosta.",
+      "more": "Maan väliaikainen johto on käynyt vuoden aikana siirtymävaiheen neuvotteluja opposition kanssa."
+    },
+    {
+      "title": "Trump ei tiedä, osallistuuko Putin G20-kokoukseen Miamissa",
+      "description": "Yhdysvaltain ulkoministeri Marco Rubio kertoi syyskuussa, että Putin on kutsuttu G20-huipputapaamiseen.",
+      "url": "https://yle.fi/a/74-20259272",
+      "category": "Ulkomaat",
+      "published": "2026-11-27T02:44:23+00:00",
+      "source_type": "full_article",
+      "script": "Yhdysvaltain presidentti Donald Trump kertoo, ettei hän tiedä, osallistuuko Venäjän presidentti Vladimir Putin joulukuussa Miamissa järjestettävään G20-kokoukseen. Trump kuitenkin vahvisti Putinin olevan edelleen tervetullut tapahtumaan.",
+      "more": "Saksan liittokansleri Friedrich Merz on esittänyt myös Ukrainan presidentin kutsumista huippukokoukseen."
+    },
+    {
+      "title": "Analyysi: Neuvottelut eivät kääntäneet kolmen jäärän kantoja – Ukraina-tuki uhkaa taas lässähtää",
+      "description": "EU-maiden johtajat yrittivät kuroa umpeen näkemyseroja, mutta tämä ei onnistunut, kirjoittaa EU-kirjeenvaihtaja Elli Hiilamo.",
+      "url": "https://yle.fi/a/74-20259270",
+      "category": "Pääuutiset",
+      "published": "2026-11-27T01:39:07+00:00",
+      "source_type": "full_article",
+      "script": "EU-maiden johtajien ylimääräinen huippukokous ei tuonut ratkaisua unionin tulevaan rahoituskehykseen tai Ukrainan ensi vuoden lisätukeen. Näkemyserot jäsenmaiden välillä säilyivät ennallaan.",
+      "more": "Erityisesti Slovakia, Unkari ja Tšekki vastustavat Ukrainalle suunniteltua 45 miljardin euron lainapakettia."
+    },
+    {
+      "title": "Presidentti Trump: Nvidian Huang ei ole turvallisuusuhka",
+      "description": "Presidentti Trump sanoo, että markkinat ovat suhtautuneet myönteisesti Jensen Huangin paluuseen Nvidian ruoriin.",
+      "url": "https://yle.fi/a/74-20259269",
+      "category": "Ulkomaat",
+      "published": "2026-11-27T00:56:09+00:00",
+      "source_type": "full_article",
+      "script": "Yhdysvaltain presidentti Donald Trump sanoo saaneensa tiedustelutietoa, jonka mukaan siruyhtiö Nvidian johtoon palannut Jensen Huang ei ole turvallisuusuhka.",
+      "more": "Huang palasi yhtiön toimitusjohtajaksi sen jälkeen, kun hänen eronsa herätti laajaa huomiota osakemarkkinoilla."
+    },
+    {
+      "title": "Luontoliitto kannustaa viettämään Älä osta mitään -päivää",
+      "description": "Luontoliiton mukaan teemapäivään voi osallistua pohtimalla omaa kulutustaan.",
+      "url": "https://yle.fi/a/74-20259268",
+      "category": "Kotimaa",
+      "published": "2026-11-27T00:16:48+00:00",
+      "source_type": "full_article",
+      "script": "Ympäristöjärjestö Luontoliitto kannustaa ihmisiä viettämään perjantaina Älä osta mitään -päivää ja pohtimaan omaa kulutustaan. Kampanjan teemana on pikamuodin haitallisuus.",
+      "more": "Helsingin Narinkkatorilla järjestetään iltaseitsemältä zombimielenosoitus ylikulutusta vastaan."
+    },
+    {
+      "title": "Myrsky katkoi sähköjä ja häiritsi lentoja USA:n itärannikolla",
+      "description": "Yhdysvaltain itärannikolla yli 800 000 asiakasta oli ilman sähköä iltapäivällä paikallista aikaa.",
+      "url": "https://yle.fi/a/74-20259267",
+      "category": "Ulkomaat",
+      "published": "2026-11-26T23:16:46+00:00",
+      "source_type": "full_article",
+      "script": "Voimakas myrsky on häirinnyt kiitospäivän viettoa Yhdysvaltain itärannikolla. Tuulenpuuskat ovat kaataneet puita ja sähkölinjoja, minkä seurauksena yli 800 000 asiakasta on ollut ilman sähköä.",
+      "more": "Myrsky on aiheuttanut myös laajoja lentojen viivästymisiä ja peruutuksia suurilla lentoasemilla."
+    },
+    {
+      "title": "KuPS jäi jalkoihin Portugalissa – Bragan nopeat vastaiskut liikaa",
+      "description": "Bragan nopeat vastaiskut olivat liikaa KuPSille, joka putosi tappiolla Konferenssiliigan jumboksi.",
+      "url": "https://yle.fi/a/74-20259264",
+      "category": "Urheilu",
+      "published": "2026-11-26T21:50:02+00:00",
+      "source_type": "full_article",
+      "script": "KuPS kärsi jalkapallon Konferenssiliigassa ruman 4–0-vierastappion SC Bragalle. Kotijoukkue ratkaisi ottelun tehokkaalla avauspuoliajalla nopeiden vastaiskujen avulla.",
+      "more": "Tappion myötä KuPS putosi Konferenssiliigan sarjataulukon viimeiselle sijalle."
+    },
+    {
+      "title": "Eläketurvakeskuksen toimitusjohtaja ottaisi eläkeläiset mukaan sopeutustalkoisiin",
+      "description": "Mikko Kauton mukaan valtion ja kuntien talous hyötyisivät nopeiten ja parhaiten, jos eläkkeitä sopeutettaisiin verotuksen kautta.",
+      "url": "https://yle.fi/a/74-20259265",
+      "category": "Kotimaa",
+      "published": "2026-11-26T20:41:14+00:00",
+      "source_type": "full_article",
+      "script": "Eläketurvakeskuksen toimitusjohtaja Mikko Kauton mukaan myös eläkeläiset tulisi ottaa mukaan julkisen talouden sopeutustalkoisiin. Kautto katsoo valtion ja kuntien hyötyvän eniten, jos eläkkeitä sopeutettaisiin verotuksen kautta.",
+      "more": "Aiheesta nousseen keskustelun yhteydessä SDP on ilmoittanut sulkevansa pois vaihtoehdon, jossa maksussa olevista eläkkeistä leikattaisiin."
+    },
+    {
+      "title": "Analyysi: Ruotsin keskustajohtaja petti äänestäjät, jotka eivät halua antaa valtaa laitaoikeistolle",
+      "description": "Ruotsin keskustapuolueen johto vaihtoi joukkuetta ja haluaa Ulf Kristerssonista pääministerin, kirjoittaa Pohjoismaiden-kirjeenvaihtaja Jenny Matikainen.",
+      "url": "https://yle.fi/a/74-20259258",
+      "category": "Pääuutiset",
+      "published": "2026-11-26T20:09:29+00:00",
+      "source_type": "full_article",
+      "script": "Ruotsin keskustapuolueen puheenjohtaja Elisabeth Thand Ringqvist ilmoitti puolueen haluavan tukea maltillisen kokoomuksen Ulf Kristerssonin valintaa maan pääministeriksi. Päätös merkitsee merkittävää linjamuutosta puolueelle.",
+      "more": "Keskusta on aiemmin luvannut äänestäjilleen, ettei se mene hallitukseen, joka on riippuvainen laitaoikeistosta."
     }
   ]
 }
